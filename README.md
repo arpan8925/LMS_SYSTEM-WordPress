@@ -63,8 +63,7 @@
   </ol>
 </details>
 
-[product-screenshot] 
-images/Screenshot.png
+<img src="images/Screenshot.png" alt="Logo" >
 
 ### Built With
 

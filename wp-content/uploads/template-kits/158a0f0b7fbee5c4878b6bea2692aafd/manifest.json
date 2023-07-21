@@ -1,0 +1,1597 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "Next Business - Coworking Space Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/bimberonline.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/bimberonline.com\/next-business\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Rooms",
+            "screenshot": "screenshots\/rooms.jpg",
+            "source": "templates\/rooms.json",
+            "preview_url": "https:\/\/bimberonline.com\/next-business\/template-kit\/rooms\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/bimberonline.com\/next-business\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Archive Post",
+            "screenshot": "screenshots\/archive-post.jpg",
+            "source": "templates\/archive-post.json",
+            "preview_url": "https:\/\/bimberonline.com\/next-business\/?elementor_library=archive-post",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/bimberonline.com\/next-business\/?elementor_library=single-post",
+            "type": "single",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "404 page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/bimberonline.com\/next-business\/?elementor_library=404-page",
+            "type": "single",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header 02",
+            "screenshot": "screenshots\/header-02.jpg",
+            "source": "templates\/header-02.json",
+            "preview_url": "https:\/\/bimberonline.com\/next-business\/?elementor_library=header-02",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/singular\/page\/2105"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Page #2105."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 01",
+            "screenshot": "screenshots\/home-01.jpg",
+            "source": "templates\/home-01.json",
+            "preview_url": "https:\/\/bimberonline.com\/next-business\/template-kit\/home-01\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 02",
+            "screenshot": "screenshots\/home-02.jpg",
+            "source": "templates\/home-02.json",
+            "preview_url": "https:\/\/bimberonline.com\/next-business\/template-kit\/home-02\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/bimberonline.com\/next-business\/template-kit\/testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Business Address",
+            "screenshot": "screenshots\/business-address.jpg",
+            "source": "templates\/business-address.json",
+            "preview_url": "https:\/\/bimberonline.com\/next-business\/template-kit\/business-address\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Virtual Office Service",
+            "screenshot": "screenshots\/virtual-office-service.jpg",
+            "source": "templates\/virtual-office-service.json",
+            "preview_url": "https:\/\/bimberonline.com\/next-business\/template-kit\/virtual-office-service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/bimberonline.com\/next-business\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Event Space",
+            "screenshot": "screenshots\/event-space.jpg",
+            "source": "templates\/event-space.json",
+            "preview_url": "https:\/\/bimberonline.com\/next-business\/template-kit\/event-space\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Shared Office",
+            "screenshot": "screenshots\/shared-office.jpg",
+            "source": "templates\/shared-office.json",
+            "preview_url": "https:\/\/bimberonline.com\/next-business\/template-kit\/shared-office\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Meeting Room",
+            "screenshot": "screenshots\/meeting-room.jpg",
+            "source": "templates\/meeting-room.json",
+            "preview_url": "https:\/\/bimberonline.com\/next-business\/template-kit\/meeting-room\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing Plans",
+            "screenshot": "screenshots\/pricing-plans.jpg",
+            "source": "templates\/pricing-plans.json",
+            "preview_url": "https:\/\/bimberonline.com\/next-business\/template-kit\/pricing-plans\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header 01",
+            "screenshot": "screenshots\/header-01.jpg",
+            "source": "templates\/header-01.json",
+            "preview_url": "https:\/\/bimberonline.com\/next-business\/?elementor_library=header-01",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "3.3.1",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.2.5",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "image-section-02-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/02\/image-section-02-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/archive-post.json",
+                    "name": "Archive Post"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 page"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/business-address.json",
+                    "name": "Business Address"
+                },
+                {
+                    "source": "templates\/virtual-office-service.json",
+                    "name": "Virtual Office Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/event-space.json",
+                    "name": "Event Space"
+                },
+                {
+                    "source": "templates\/shared-office.json",
+                    "name": "Shared Office"
+                },
+                {
+                    "source": "templates\/meeting-room.json",
+                    "name": "Meeting Room"
+                },
+                {
+                    "source": "templates\/pricing-plans.json",
+                    "name": "Pricing Plans"
+                }
+            ],
+            "filesize": 167628,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/busy-coworking-office-space-8V9RL2Q"
+        },
+        {
+            "filename": "image-section-40-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/06\/image-section-40-min-800x524.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 499347,
+            "dimensions": [
+                1920,
+                1258
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/interior-of-industrial-style-coworking-office-ZEQC947"
+        },
+        {
+            "filename": "image-section-43-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/06\/image-section-43-min-800x526.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/shared-office.json",
+                    "name": "Shared Office"
+                }
+            ],
+            "filesize": 297872,
+            "dimensions": [
+                1920,
+                1262
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/people-at-a-business-meeting-in-the-office-DCY3V2P"
+        },
+        {
+            "filename": "image-section-12-b-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/02\/image-section-12-b-min.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/business-address.json",
+                    "name": "Business Address"
+                },
+                {
+                    "source": "templates\/virtual-office-service.json",
+                    "name": "Virtual Office Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/shared-office.json",
+                    "name": "Shared Office"
+                },
+                {
+                    "source": "templates\/meeting-room.json",
+                    "name": "Meeting Room"
+                }
+            ],
+            "filesize": 2424,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-section-14-b-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/02\/image-section-14-b-min.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/business-address.json",
+                    "name": "Business Address"
+                },
+                {
+                    "source": "templates\/virtual-office-service.json",
+                    "name": "Virtual Office Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/shared-office.json",
+                    "name": "Shared Office"
+                },
+                {
+                    "source": "templates\/meeting-room.json",
+                    "name": "Meeting Room"
+                }
+            ],
+            "filesize": 2687,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-section-13-b-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/02\/image-section-13-b-min.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/virtual-office-service.json",
+                    "name": "Virtual Office Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/meeting-room.json",
+                    "name": "Meeting Room"
+                }
+            ],
+            "filesize": 2633,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-section-08-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/02\/image-section-08-min-800x333.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/business-address.json",
+                    "name": "Business Address"
+                },
+                {
+                    "source": "templates\/virtual-office-service.json",
+                    "name": "Virtual Office Service"
+                },
+                {
+                    "source": "templates\/event-space.json",
+                    "name": "Event Space"
+                },
+                {
+                    "source": "templates\/shared-office.json",
+                    "name": "Shared Office"
+                },
+                {
+                    "source": "templates\/meeting-room.json",
+                    "name": "Meeting Room"
+                }
+            ],
+            "filesize": 6907,
+            "dimensions": [
+                1920,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-section-06-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/06\/image-section-06-min-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/virtual-office-service.json",
+                    "name": "Virtual Office Service"
+                },
+                {
+                    "source": "templates\/meeting-room.json",
+                    "name": "Meeting Room"
+                }
+            ],
+            "filesize": 3323,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-section-46-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/06\/image-section-46-min-800x481.jpg",
+            "templates": [
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/virtual-office-service.json",
+                    "name": "Virtual Office Service"
+                }
+            ],
+            "filesize": 363411,
+            "dimensions": [
+                1920,
+                1155
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/people-working-in-a-coworking-office-CQHZTGV"
+        },
+        {
+            "filename": "image-section-25-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/06\/image-section-25-min-800x869.png",
+            "templates": [
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 323350,
+            "dimensions": [
+                921,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/purposeful-business-people-work-on-digital-tablet--PJQRA53"
+        },
+        {
+            "filename": "image-icon-03-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/02\/image-icon-03-min.png",
+            "templates": [
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/business-address.json",
+                    "name": "Business Address"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/shared-office.json",
+                    "name": "Shared Office"
+                }
+            ],
+            "filesize": 2020,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/coworking-icons-pack-8MRHFG"
+        },
+        {
+            "filename": "image-icon-02-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/02\/image-icon-02-min.png",
+            "templates": [
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/business-address.json",
+                    "name": "Business Address"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/event-space.json",
+                    "name": "Event Space"
+                }
+            ],
+            "filesize": 969,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/coworking-icons-pack-8MRHFG"
+        },
+        {
+            "filename": "image-icon-05-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/02\/image-icon-05-min.png",
+            "templates": [
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/business-address.json",
+                    "name": "Business Address"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/event-space.json",
+                    "name": "Event Space"
+                }
+            ],
+            "filesize": 1056,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/coworking-icons-pack-8MRHFG"
+        },
+        {
+            "filename": "image-section-22.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/06\/image-section-22-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/rooms.json",
+                    "name": "Rooms"
+                }
+            ],
+            "filesize": 134450,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/office-set-36G6QU"
+        },
+        {
+            "filename": "image-section-24.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/06\/image-section-24.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header-02.json",
+                    "name": "Header 02"
+                },
+                {
+                    "source": "templates\/header-01.json",
+                    "name": "Header 01"
+                }
+            ],
+            "filesize": 6891,
+            "dimensions": [
+                300,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-section-10-a-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/02\/image-section-10-a-min.png",
+            "templates": [
+                {
+                    "source": "templates\/archive-post.json",
+                    "name": "Archive Post"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 69096,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/business-men-hailing-a-cab-in-busy-city-4N6XXCT"
+        },
+        {
+            "filename": "image-section-01-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/02\/image-section-01-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 406377,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/creative-team-meeting-to-discuss-professional-proj-PKUDJLE"
+        },
+        {
+            "filename": "image-section-05-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/02\/image-section-05-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/event-space.json",
+                    "name": "Event Space"
+                }
+            ],
+            "filesize": 209257,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/coworkers-working-together-on-a-project-PLLZMSR"
+        },
+        {
+            "filename": "image-icon-04-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/02\/image-icon-04-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/event-space.json",
+                    "name": "Event Space"
+                }
+            ],
+            "filesize": 1741,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/coworking-icons-pack-8MRHFG"
+        },
+        {
+            "filename": "image-icon-01-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/02\/image-icon-01-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/business-address.json",
+                    "name": "Business Address"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/event-space.json",
+                    "name": "Event Space"
+                },
+                {
+                    "source": "templates\/shared-office.json",
+                    "name": "Shared Office"
+                }
+            ],
+            "filesize": 952,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/coworking-icons-pack-8MRHFG"
+        },
+        {
+            "filename": "image-section-11-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/02\/image-section-11-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 65026,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/thoughtful-mature-businesswoman-with-tablet-in-res-FJKP8CC"
+        },
+        {
+            "filename": "image-section-09-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/02\/image-section-09-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 44451,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/business-guy-smiling-crossing-hands-standing-over--655KLE9"
+        },
+        {
+            "filename": "image-section-03-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/02\/image-section-03-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/shared-office.json",
+                    "name": "Shared Office"
+                }
+            ],
+            "filesize": 83026,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/business-idea-concept-colleagues-discussing-startu-YTQCNV5"
+        },
+        {
+            "filename": "image-section-26-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/02\/image-section-26-min-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/business-address.json",
+                    "name": "Business Address"
+                }
+            ],
+            "filesize": 346361,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/romantic-couple-interacting-with-each-other-at-bea-JX2W6DQ"
+        },
+        {
+            "filename": "image-section-19-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/02\/image-section-19-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 68956,
+            "dimensions": [
+                400,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/young-girl-LFF94QM"
+        },
+        {
+            "filename": "image-section-20-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/02\/image-section-20-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 69842,
+            "dimensions": [
+                400,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/beautiful-young-girl-P59BSP3"
+        },
+        {
+            "filename": "image-section-21-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/02\/image-section-21-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 55600,
+            "dimensions": [
+                400,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/cute-young-girl-portrait-P82M5QP"
+        },
+        {
+            "filename": "image-section-27-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/02\/image-section-27-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 63258,
+            "dimensions": [
+                400,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/portrait-of-a-young-girl-5Y93BDU"
+        },
+        {
+            "filename": "image-section-30-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/06\/image-section-30-min-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 2090,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-section-44-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/06\/image-section-44-min-800x283.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 242505,
+            "dimensions": [
+                1920,
+                678
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/people-at-a-business-meeting-in-the-office-Y72CLGE"
+        },
+        {
+            "filename": "image-section-10-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/06\/image-section-10-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/event-space.json",
+                    "name": "Event Space"
+                }
+            ],
+            "filesize": 389694,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/businesspeople-in-a-business-conference-BY2N9PB"
+        },
+        {
+            "filename": "image-section-07-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/06\/image-section-07-min-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/meeting-room.json",
+                    "name": "Meeting Room"
+                }
+            ],
+            "filesize": 209528,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/african-american-coach-giving-corporate-presentati-CAFHK42"
+        },
+        {
+            "filename": "image-section-37-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/06\/image-section-37-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/business-address.json",
+                    "name": "Business Address"
+                }
+            ],
+            "filesize": 408437,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/group-of-coworkers-having-a-coffee-break-QGMSM8H"
+        },
+        {
+            "filename": "image-section-12-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/06\/image-section-12-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/business-address.json",
+                    "name": "Business Address"
+                },
+                {
+                    "source": "templates\/shared-office.json",
+                    "name": "Shared Office"
+                },
+                {
+                    "source": "templates\/meeting-room.json",
+                    "name": "Meeting Room"
+                }
+            ],
+            "filesize": 221331,
+            "dimensions": [
+                1920,
+                1279
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/business-people-looking-at-their-devices-WC7H8A8"
+        },
+        {
+            "filename": "image-section-47-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/06\/image-section-47-min-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/business-address.json",
+                    "name": "Business Address"
+                },
+                {
+                    "source": "templates\/virtual-office-service.json",
+                    "name": "Virtual Office Service"
+                },
+                {
+                    "source": "templates\/meeting-room.json",
+                    "name": "Meeting Room"
+                }
+            ],
+            "filesize": 367528,
+            "dimensions": [
+                1280,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/workplace-in-a-coworking-office-YFUAKT4"
+        },
+        {
+            "filename": "image-section-31-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/06\/image-section-31-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/business-address.json",
+                    "name": "Business Address"
+                },
+                {
+                    "source": "templates\/meeting-room.json",
+                    "name": "Meeting Room"
+                }
+            ],
+            "filesize": 283728,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/businesswoman-working-in-modern-co-working-PJRB22N"
+        },
+        {
+            "filename": "image-section-41-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/06\/image-section-41-min-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/virtual-office-service.json",
+                    "name": "Virtual Office Service"
+                },
+                {
+                    "source": "templates\/meeting-room.json",
+                    "name": "Meeting Room"
+                }
+            ],
+            "filesize": 442444,
+            "dimensions": [
+                1280,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/open-kitchen-in-a-coworking-space-333M5V9"
+        },
+        {
+            "filename": "image-section-39-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/06\/image-section-39-min-800x482.jpg",
+            "templates": [
+                {
+                    "source": "templates\/virtual-office-service.json",
+                    "name": "Virtual Office Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/meeting-room.json",
+                    "name": "Meeting Room"
+                }
+            ],
+            "filesize": 368547,
+            "dimensions": [
+                1920,
+                1156
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/interior-of-industrial-style-coworking-office-6M6BDCR"
+        },
+        {
+            "filename": "image-section-38-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/06\/image-section-38-min-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/virtual-office-service.json",
+                    "name": "Virtual Office Service"
+                }
+            ],
+            "filesize": 462939,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/group-of-creative-people-having-a-meeting-PBXKHJ2"
+        },
+        {
+            "filename": "image-section-35-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/06\/image-section-35-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/virtual-office-service.json",
+                    "name": "Virtual Office Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 594429,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/diverse-business-team-in-an-office-XLG2Q36"
+        },
+        {
+            "filename": "image-section-32-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/06\/image-section-32-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/virtual-office-service.json",
+                    "name": "Virtual Office Service"
+                },
+                {
+                    "source": "templates\/event-space.json",
+                    "name": "Event Space"
+                }
+            ],
+            "filesize": 329793,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/creative-people-coworking-on-a-new-project-in-offi-P839ZFU"
+        },
+        {
+            "filename": "image-section-34-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/06\/image-section-34-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/virtual-office-service.json",
+                    "name": "Virtual Office Service"
+                }
+            ],
+            "filesize": 497283,
+            "dimensions": [
+                1920,
+                1279
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/diverse-business-people-in-a-team-28PAPM5"
+        },
+        {
+            "filename": "image-section-04-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/02\/image-section-04-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 144239,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/group-of-creative-people-in-a-meeting-discussing-o-P2NU3CT"
+        },
+        {
+            "filename": "image-section-45-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/06\/image-section-45-min-800x499.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 288594,
+            "dimensions": [
+                1920,
+                1198
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/people-working-in-a-coworking-office-8R44SLQ"
+        },
+        {
+            "filename": "image-section-42-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/06\/image-section-42-min-800x483.jpg",
+            "templates": [
+                {
+                    "source": "templates\/event-space.json",
+                    "name": "Event Space"
+                },
+                {
+                    "source": "templates\/meeting-room.json",
+                    "name": "Meeting Room"
+                }
+            ],
+            "filesize": 359611,
+            "dimensions": [
+                1920,
+                1158
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/people-at-a-business-meeting-in-the-office-96Z3CU7"
+        },
+        {
+            "filename": "image-section-08-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/next-business\/wp-content\/uploads\/sites\/64\/2021\/06\/image-section-08-min-800x478.jpg",
+            "templates": [
+                {
+                    "source": "templates\/shared-office.json",
+                    "name": "Shared Office"
+                }
+            ],
+            "filesize": 412601,
+            "dimensions": [
+                1920,
+                1146
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pt-br\/business-people-working-in-a-coworking-office-97W6JS2"
+        }
+    ]
+}

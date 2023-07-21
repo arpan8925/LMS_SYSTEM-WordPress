@@ -1,0 +1,2497 @@
+# Translation of Plugins - Hummingbird – Optimize Speed, Enable Cache, Minify CSS &amp; Defer Critical JS - Stable (latest release) in Bengali (Bangladesh)
+# This file is distributed under the same license as the Plugins - Hummingbird – Optimize Speed, Enable Cache, Minify CSS &amp; Defer Critical JS - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-12 07:54:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: bn_BD\n"
+"Project-Id-Version: Plugins - Hummingbird – Optimize Speed, Enable Cache, Minify CSS &amp; Defer Critical JS - Stable (latest release)\n"
+
+#: core/api/class-hub.php:480 core/api/class-rest.php:189
+msgid "The requested module is inactive."
+msgstr "রিকোয়েস্ট মডিউলটি বন্ধ আছে।"
+
+#: core/api/class-hub.php:349 core/api/class-hub.php:418
+#: core/api/class-hub.php:471 core/api/class-hub.php:551
+#: core/api/class-rest.php:178
+msgid "The requested module was invalid."
+msgstr "রিকোয়েস্ট মডিউলটি ইনভ‍্যালিড ছিলো।"
+
+#: core/api/class-rest.php:143
+msgid "The requested module status was invalid."
+msgstr "রিকোয়েস্ট মডিউলটির স্ট‍্যাটাস ইনভ‍্যালিড ছিলো। "
+
+#: core/class-core.php:272
+msgid "Third parties"
+msgstr "থার্ড পার্টিসমূহ"
+
+#. translators: %s - number of assets
+#: admin/modals/found-assets-modal.php:22
+msgid "%s assets found"
+msgstr "%sটি এ‍্যাসেট পাওয়া গিয়েছে"
+
+#: admin/views/minification/advanced-files-rows.php:178
+#: core/class-utils.php:222
+msgid "Re-include"
+msgstr "পুনরায়-ইনক্লুড"
+
+#: admin/views/minification/advanced-files-rows.php:175
+#: core/class-utils.php:221
+msgid "Don't load file"
+msgstr "ফাইল লোড করবেন না"
+
+#: admin/views/minification/advanced-files-rows.php:62
+msgid "If you’ve made changes to this file, you can recompress it without resetting your file structure."
+msgstr "আপনি যদি এই ফাইলে পরিবর্তন করে থাকেন তাহলে আপনি ফাইল স্ট্রাকচার রিসেট না করে এটি রি-কম্প্রেস করতে পারবেন।"
+
+#: admin/class-ajax.php:1935
+msgid "Log file purged"
+msgstr "লগ ফাইল পার্জ করা হয়েছে"
+
+#: admin/class-ajax.php:1927
+msgid "Log file not found or empty"
+msgstr "লগ ফাইল পাওয়া যায় নি অথবা খালি"
+
+#: admin/class-ajax.php:1916
+msgid "Module not found"
+msgstr "মডিউল পাওয়া যায় নি"
+
+#: admin/class-ajax.php:1596
+msgid "Error removing asset file."
+msgstr "এ‍্যাসেট ফাইল সরানোর সময় সমস‍্যা হয়েছে।"
+
+#. translators: %s - number of assets
+#: admin/class-ajax.php:1500
+msgid "%s assets found!"
+msgstr "%sটি এ‍্যাসেট পাওয়া গিয়েছে!"
+
+#: admin/views/caching/page/meta-box.php:310
+#: admin/views/minification/settings-meta-box.php:209
+msgid "Clear"
+msgstr "ক্লিয়ার"
+
+#: core/api/class-hub.php:310
+msgid "Disabling this module remotely is not possible."
+msgstr "দূর থেকে এই মডিউলটি বন্ধ করা সম্ভব নয়।"
+
+#: core/api/class-hub.php:277
+msgid "Enabling this module remotely is not possible."
+msgstr "দূর থেকে এই মডিউলটি চালু করা সম্ভব নয়। "
+
+#: core/api/class-hub.php:269 core/api/class-hub.php:302
+#: core/api/class-hub.php:462
+msgid "Hummingbird module doesn't exist."
+msgstr "Hummingbird মডিউলটি নেই।"
+
+#: admin/views/performance/reporting-meta-box.php:43
+msgid "Scheduled automated performance tests"
+msgstr "পূর্ব-নির্ধারিত স্বয়ংক্রিয় কার্যকারিতা পরীক্ষা"
+
+#: admin/modals/tracking-modal.php:84
+msgid "Run Performance Test"
+msgstr "কার্যকারিতা পরীক্ষা চালান"
+
+#: admin/modals/clear-cache-network-wide-modal.php:31
+#: admin/modals/clear-cache-network-wide-modal.php:58
+#: admin/modals/clear-cache-modal.php:43
+#: admin/modals/add-recipient-modal.php:22
+#: admin/modals/bulk-update-modal.php:20
+#: admin/modals/dismiss-report-modal.php:20
+#: admin/modals/database-cleanup-modal.php:20
+#: admin/modals/membership-modal.php:21
+#: admin/modals/site-health-orphaned-modal.php:31
+#: admin/modals/reset-settings-modal.php:21
+#: admin/modals/automatic-ao-how-does-it-work-modal.php:51
+#: admin/modals/manual-ao-how-does-it-work-modal.php:51
+#: admin/modals/minification-basic-modal.php:20
+#: admin/modals/minification-tour-modal.php:20
+#: admin/modals/minification-tour-modal.php:52
+#: admin/modals/minification-tour-modal.php:81
+#: admin/modals/minification-tour-modal.php:110
+#: admin/modals/minification-tour-modal.php:139
+#: admin/modals/minification-tour-modal.php:168
+#: admin/modals/minification-tour-modal.php:197
+#: admin/modals/minification-tour-modal.php:226
+msgid "Close this dialog window"
+msgstr "ডায়লগটি বন্ধ করুন"
+
+#: admin/views/minification/enqueued-files-meta-box-header.php:25
+#: languages/react.php:375
+msgid "Added/removed plugins or themes? Update your file list to include new files, and remove old ones"
+msgstr "কোন প্লাগিন/থিম ইন্সটল/আনইন্সটল করেছেন? নতুন ফাইল যোগ করার জন‍্য / পুরাতন ফাইল সরিয়ে ফেলার জন‍্য আপনার ফাইল লিস্ট আপডেট করুন"
+
+#: admin/views/dashboard/uptime/no-membership-meta-box.php:21
+msgid "Try Pro for FREE"
+msgstr "বিনামূল‍্যে প্রো ভার্সন ব‍্যবহার করে দেখুন"
+
+#: admin/views/performance/audits/uses-webp-images.php:116
+#: admin/views/performance/audits/total-byte-weight.php:131
+#: admin/views/dashboard/smush/meta-box.php:82
+msgid "Get WP Smush Pro"
+msgstr "WP Smush Pro ব‍্যবহার করুন"
+
+#: admin/views/dashboard/reports/no-membership-meta-box.php:58
+msgid "Scheduled automated reports"
+msgstr "পূর্বনির্ধারিত স্বয়ংক্রিয় প্রতিবেদনসমূহ"
+
+#: admin/views/dashboard/minification/network-module-meta-box.php:20
+msgid "Compress, combine and position your assets to dramatically improve your pageload speed. Choose which user roles can configure Asset Optimization."
+msgstr "আপনার পেইজলোডের গতি দারুনভাবে বাড়ানোর জন‍্য আপনার অ‍্যাসেটসমূহ সংকোচন, সংযুক্ত এবং সেগুলোর অবস্থান নির্ধারন করুন। নির্ধারন করুন কোন ব‍্যবহারকারী রোল অ‍্যাসেট অপটিমাইজেশন কনফিগার করতে পারবে।"
+
+#: admin/views/dashboard/caching/module-meta-box.php:100
+#: languages/react.php:165
+#: admin/assets/js/wphb-react-browser-caching.min.js:3995
+msgid "Connect your account to Cloudflare"
+msgstr "আপনার একাউন্টটি Cloudflare এ সংযুক্ত করুন"
+
+#: admin/views/advanced/db-settings-meta-box.php:36
+msgid "Scheduled automated database cleanup"
+msgstr "পূর্বনির্ধারিত স্বয়ংক্রিয় ডেটাবেজ পরিচ্ছন্নতা কার্যক্রম"
+
+#: admin/class-ajax.php:1203
+msgid "Zone not found matching this domain. Please check your CloudFlare account."
+msgstr "এই ডোমেইনের জোন খুঁজে পাওয়া যায়নি। অনুগ্রহ করে আপনার CloudFlare একাউন্ট চেক করুন।"
+
+#: core/class-utils.php:169
+msgid "There was an error updating the .htaccess file"
+msgstr ".htaccess ফাইল আপডেট করার সময় একটি ত্রুটি ছিল"
+
+#: core/class-utils.php:164
+msgid "Browser caching status updated."
+msgstr "ব্রাউজার ক্যাশে অবস্থা আপডেট করা হয়েছে।"
+
+#: core/class-utils.php:163
+msgid "There was an error re-checking the caching status, please try again later."
+msgstr "ক্যাশিং স্ট্যাটাস পুনরায় পরীক্ষা করার সময় একটি ত্রুটি ছিল, অনুগ্রহ করে পরে আবার চেষ্টা করুন।"
+
+#. translators: %s: file name with path
+#: core/class-filesystem.php:644
+msgid "Could not write file %s"
+msgstr "%s ফাইলটিতে লেখা যায়নি"
+
+#. translators: %s: directory path
+#: core/class-filesystem.php:634
+msgid "Unable to create directory %s. Is its parent directory writable by the server?"
+msgstr "%s ডিরেক্টরি তৈরি করা যায়নি। সার্ভার দ্বারা তার প্যারেন্ট ডিরেক্টরি কি লিখনযোগ্য?"
+
+#: core/class-filesystem.php:566
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "দুঃখিত, নিরাপত্তার কারণে এই ফাইলের ধরনটি অনুমোদিত নয়।"
+
+#: core/class-filesystem.php:559
+msgid "Empty filename"
+msgstr "ফাইলটির নাম খালি"
+
+#: admin/modals/bulk-update-modal.php:24
+msgid "Choose what bulk update actions you’d like to apply to the selected files. You still have to publish your changes before they will be set live."
+msgstr "নির্বাচিত ফাইলগুলিতে আপনি কতগুলি আপডেট অ্যাকশন প্রয়োগ করতে চান তা নির্বাচন করুন। পরিবর্তনগুলো লাইভ হওয়ার জন্য এগুলোকে আগে আপনাকে প্রকাশ করতে হবে।"
+
+#: admin/views/minification/settings-meta-box.php:36
+msgid "This feature is inactive when you’re using the WPMU DEV CDN."
+msgstr "WPMU DEV CDN ব্যবহার  করলে এই বৈশিষ্ট্য নিষ্ক্রিয় থাকে।"
+
+#: admin/views/minification/settings-meta-box.php:29
+msgid "Choose where Hummingbird should store your modified assets."
+msgstr "হিমিংবার্ড কোথায় আপনার সংশোধিত অ্যাসেটগুলি সঞ্চয় করবে তা নির্বাচন করুন।"
+
+#: admin/views/minification/settings-meta-box.php:27
+msgid "File Location"
+msgstr "ফাইলের অবস্থান"
+
+#: admin/views/minification/enqueued-files-meta-box.php:171
+msgid "Other"
+msgstr "অন্য"
+
+#: admin/views/minification/enqueued-files-meta-box.php:166
+msgid "Select all Other files"
+msgstr "অন্যান্য ফাইল নির্বাচন করুন"
+
+#: admin/views/minification/advanced-files-rows.php:116
+msgid "Compression is off for this file. Turn it on to reduce its size"
+msgstr "এই ফাইলটির জন্য কমপ্রেশন বন্ধ আছে। এটির ফাইল সাইজ কমাতে কমপ্রেশন চালু করুন"
+
+#: admin/views/minification/advanced-files-rows.php:118
+msgid "Compression is on for this file, which aims to reduce its size"
+msgstr "এই ফাইলটির জন্য কমপ্রেশন চালু আছে, যার লক্ষ্য হল ফাইল সাইজ কমানো"
+
+#: admin/views/minification/advanced-files-rows.php:114
+msgid "This file is already compressed"
+msgstr "এই ফাইলটি ইতিপূর্বে কমপ্রেশ করা হয়েছে"
+
+#: admin/views/minification/advanced-files-rows.php:92 core/class-utils.php:220
+msgid "This file is queued for compression. It will get optimized when someone visits a page that requires it."
+msgstr "এই ফাইল কম্প্রেশন জন্য সারিবদ্ধ। এটি তখন অপটিমাইজ করা হবে যখন একজন ভিসিটর একটি পেইজ ভিসিট করবে যেটির এই ফাইলটি প্রয়োজন।"
+
+#: admin/views/minification/advanced-files-rows.php:75
+msgid "Filesize Unknown"
+msgstr "ফাইল-এর সাইজটি অজানা"
+
+#: admin/views/minification/advanced-files-rows.php:49
+msgid "You need to publish your changes for your new settings to take effect"
+msgstr "আপনার নতুন সেটিংস কার্যকর করার জন্য আপনার পরিবর্তনগুলি প্রকাশ করতে হবে"
+
+#: admin/views/minification/advanced-files-rows.php:45
+msgid "This file has no linked URL, it will not be combined/minified"
+msgstr "এই ফাইলটিতে কোনো সংযুক্ত URL নেই, এটিকে মিলিত / মিনিফাই করা হবে না"
+
+#: admin/views/minification/advanced-files-rows.php:41
+msgid "This file has already been compressed – we recommend you turn off compression for this file to avoid issues"
+msgstr "এই ফাইলটি ইতিপূর্বে কমপ্রেস করা হয়েছে - আমরা আপনাকে সমস্যা এড়াতে এই ফাইলটির কম্প্রেশন বন্ধ করার সুপারিশ করছি "
+
+#: admin/views/caching/page/subsite-meta-box.php:39
+msgid "By default your subsite inherits your network admin’s cache settings."
+msgstr "ডিফল্টরূপে আপনার সাবসাইট আপনার নেটওয়ার্ক অ্যাডমিনের ক্যাশে সেটিংস অনুসরণ করে।"
+
+#: admin/views/caching/page/subsite-meta-box.php:37
+msgid "Cache Control"
+msgstr "ক্যাশে নিয়ন্ত্রণ"
+
+#: admin/views/caching/page/subsite-meta-box.php:47
+msgid "For any pages/post/post types/taxonomies you don’t want to cache, use the <code>%s</code> constant to instruct Hummingbird not to cache specific pages or templates."
+msgstr "যেকোনো পেইজ/পোস্ট/পোস্ট ধরণ/ট্যাক্সোনমি-র জন্য জা আপনি ক্যাশে করতে চান না, নির্দিষ্ট পেইজ অথবা টেমপ্লেট ক্যাশে না করার জন্য হামিংবার্ড-কে নির্দেশ করতে <code>%s</code> কন্সট্যান্ট-টি ব্যবহার করুন।"
+
+#: admin/views/caching/page/meta-box.php:65
+msgid "Your blog is your frontpage"
+msgstr "আপনার ব্লগ আপনার ফ্রন্টপোজ"
+
+#: admin/views/caching/page/meta-box.php:54
+msgid "Your subsite admins can use the DONOTCACHEPAGE constant to prevent caching on their custom post types."
+msgstr "আপনার সাবসাইট এডমিন-এরা তাদের কাস্টম পোস্ট ধরণ-এ ক্যাশিং প্রতিরোধ করতে DONOTCACHEPAGE কন্সট্যান্ট-টি ব্যবহার করতে পারে।"
+
+#: admin/views/caching/page/meta-box.php:51
+msgid "Subsites will inherit the settings you use here, except any additional custom post types or taxonomies will be cached by default."
+msgstr "সাবসাইটগুলি আপনার এখানে ব্যবহৃত সেটিংসের উত্তরাধিকার পাবে, এছাড়া যেকোনো কাস্টম পোস্ট ধরণ অথবা ট্যাক্সোনমি ডিফল্ট ভাবে ক্যাশে করা হবে।"
+
+#: admin/views/caching/page/meta-box.php:47
+msgid " Select which page types you wish to cache."
+msgstr "আপনি কোন পেইজ ধরণ ক্যাশে করতে চান তা নির্ধারণ করুন।"
+
+#: admin/views/advanced/general-meta-box.php:201
+msgid "Paste in recommended defaults."
+msgstr "প্রস্তাবিত ডিফল্টে পেস্ট করুন।"
+
+#: core/modules/class-advanced.php:708
+msgid "TRUE"
+msgstr "সত্য"
+
+#: core/modules/class-advanced.php:706
+msgid "FALSE"
+msgstr "মিথ্যা"
+
+#: core/modules/class-advanced.php:677 core/modules/class-advanced.php:678
+#: core/modules/class-advanced.php:679 core/modules/class-advanced.php:699
+msgid "undefined"
+msgstr "অনির্দিষ্ট"
+
+#: core/modules/class-advanced.php:683
+msgid "OS Version"
+msgstr "OS সংস্করণ"
+
+#: core/modules/class-advanced.php:682
+msgid "OS Hostname"
+msgstr "OS হোস্টনেম"
+
+#: core/modules/class-advanced.php:681
+msgid "Operating System"
+msgstr "অপারেটিং সিস্টেম"
+
+#: core/modules/class-advanced.php:680
+msgid "Server local time"
+msgstr "সার্ভারের স্থানীয় সময়"
+
+#: core/modules/class-advanced.php:679
+msgid "Server Admin"
+msgstr "সার্ভার এডমিন"
+
+#: core/modules/class-advanced.php:678
+msgid "Server Hostname"
+msgstr "সার্ভার হোস্টনেম"
+
+#: core/modules/class-advanced.php:677
+msgid "Server IP"
+msgstr "সার্ভার আইপি"
+
+#: core/modules/class-advanced.php:676
+msgid "Software Version"
+msgstr "সফটওয়্যার সংস্করণ"
+
+#: core/modules/class-advanced.php:675
+msgid "Software Name"
+msgstr "সফটওয়্যারের নাম"
+
+#: core/modules/class-advanced.php:528
+msgid "Extensions"
+msgstr "এক্সটেনশন"
+
+#: core/modules/class-advanced.php:525
+msgid "Error Reporting"
+msgstr "সমস‍্যা প্রতিবেদন"
+
+#: core/modules/class-advanced.php:491
+msgid "Version"
+msgstr "সংস্করণ"
+
+#: admin/modals/check-files-modal.php:49
+msgid "Looking for files..."
+msgstr "ফাইল খুঁজছেন..."
+
+#: admin/views/advanced/system-info-meta-box.php:27
+msgid "Server"
+msgstr "সার্ভার"
+
+#: admin/views/advanced/system-info-meta-box.php:26
+msgid "WordPress"
+msgstr "ওয়ার্ডপ্রেস"
+
+#: admin/views/advanced/system-info-meta-box.php:25
+msgid "MySQL"
+msgstr "মাইএসকিউএল"
+
+#: admin/views/advanced/system-info-meta-box.php:24
+msgid "PHP"
+msgstr "পিএইচপি"
+
+#: admin/views/advanced/system-info-meta-box.php:18
+msgid "Use this info if you are having issues with Hummingbird and your server setup. It will give you the most up to date information about your stack."
+msgstr "আপনি হামিংবার্ড এবং আপনার সার্ভার সেটাপ এর সঙ্গে সমস্যা হচ্ছে যদি এই তথ্য ব্যবহার করুন। এটি আপনাকে আপনার স্ট্যাক সম্পর্কে সবচেয়ে আপ টু ডেট তথ্য দেবে।"
+
+#: admin/pages/class-advanced.php:40 admin/pages/class-advanced.php:90
+msgid "System Information"
+msgstr "সিস্টেম ইনফর্মেশন"
+
+#: admin/class-notices.php:524
+msgid "Adjust notification settings"
+msgstr "নোটিফিকেশান সেটিংস্‌ অ্যাডজাস্ট করুন"
+
+#: admin/class-notices.php:517
+msgid "Re-check Asset Optimization"
+msgstr "অ্যাসেট অপ্টিমাইজেশান রি-চেক করুন"
+
+#: admin/class-notices.php:498
+msgid "We've noticed you've made changes to your website. We recommend you clear Hummingbird's page cache to avoid any issues."
+msgstr "আমরা খেয়াল করেছি যে, আপনি ওয়েব সাইটে কিছু পরিবর্তন করেছেন। আমরা সুপারিশ করছি Hummingbird এর পেজ ক্যাশ ডিলিট করুন যাতে কোন সমস্যা না হয়।"
+
+#: core/modules/class-page-cache.php:526
+msgid "Hummingbird could not locate the WP_CACHE constant in wp-config.php file for WordPress. Please make sure the following line is added to the file: <br><code>define('WP_CACHE', true);</code>"
+msgstr "ওয়ার্ডপ্রেস এর WP-config.php ফাইলটিতে হুমিংবার্ড WP_CACHE কন্সতান্ত সনাক্ত করতে পারেনি। ফাইলটি নিম্নলিখিত লাইন যোগ করা হয়েছে তা নিশ্চিত করুন: <br><code>define('WP_CACHE', true);</code>"
+
+#: admin/modals/clear-cache-network-wide-modal.php:35
+#: admin/modals/clear-cache-network-wide-modal.php:62 core/class-core.php:170
+msgid "Clear page cache"
+msgstr "পেজ ক্যাশ্ ক্লিয়ার করুন"
+
+#: admin/views/minification/summary-meta-box.php:82
+msgid "The Network Admin has the WPMU DEV CDN turned off"
+msgstr "নেটওয়ার্ক অ্যাডমিন WPMU DEV CDN বন্ধ করেছে"
+
+#: admin/views/minification/summary-meta-box.php:78
+msgid "The Network Admin has the WPMU DEV CDN turned on"
+msgstr "নেটওয়ার্ক অ্যাডমিনটি WPMU DEV CDN চালু করেছে"
+
+#: admin/views/minification/settings-meta-box.php:247
+msgid "Note: This will not remove any files, they will just go back to their original, unoptimized state."
+msgstr "দ্রষ্টব্য: এটি কোনও ফাইল মুছে ফেলবে না, তারা কেবল তাদের মূল, অ্যানঅপটিমইস অবস্থায় ফিরে যাবে।"
+
+#: admin/views/minification/settings-meta-box.php:240
+msgid "No longer need Asset Optimization? This will completely deactivate this feature."
+msgstr "আর অ্যাসেট অপ্টিমাইজেশান এর প্রয়োজন নেই? এটি এই বৈশিষ্ট্যটি সম্পূর্ণরূপে নিষ্ক্রিয় করবে।"
+
+#: admin/views/minification/settings-meta-box.php:225
+msgid "Use this button to wipe any existing settings and return to defaults."
+msgstr "কোনও বিদ্যমান সেটিংস মুছতে এবং ডিফল্টগুলিতে ফিরে যাওয়ার জন্য এই বোতামটি ব্যবহার করুন।"
+
+#: admin/views/minification/settings-meta-box.php:184
+msgid "Turn on the debug log to get insight into any issues you’re having."
+msgstr "কোন সমস্যার বিস্তারিত জানতে ডিবাগ লগ চালু করন।"
+
+#: admin/views/minification/settings-meta-box.php:182
+msgid "Debug"
+msgstr "ডিবাগ"
+
+#: admin/views/minification/settings-meta-box.php:83
+msgid "Host your files on WPMU DEV’s secure and hyper fast CDN."
+msgstr "আপনার ফাইলগুলি WPMU DEV এর নিরাপদ এবং অতি দ্রুত CDN এ হোস্ট করুন।"
+
+#: admin/views/minification/settings-meta-box.php:55
+msgid "Compress your files up to 2x more with our enhanced optimization engine."
+msgstr "আমাদের উন্নত অপ্টিমাইজেশান ইঞ্জিন দিয়ে আপনার ফাইলগুলিকে আরও 2x পর্যন্ত সঙ্কুচিত করুন।"
+
+#: admin/views/caching/settings/meta-box.php:93
+msgid "Disable warnings in your WP Admin area."
+msgstr "আপনার WP অ্যাডমিন এলাকায় সতর্কতা অক্ষম করুন।"
+
+#: admin/views/caching/settings/meta-box.php:81
+msgid "Manual Notice"
+msgstr "ম্যানুয়াল বিজ্ঞপ্তি"
+
+#: admin/views/caching/settings/meta-box.php:62
+msgid "File Change Detection"
+msgstr "ফাইল পরিবর্তন সনাক্তকরণ"
+
+#: admin/views/caching/settings/meta-box.php:23
+msgid "Admin Cache Control"
+msgstr "অ্যাডমিন ক্যাশে কন্ট্রোল"
+
+#: core/integration/class-gutenberg.php:104
+#: core/modules/class-page-cache.php:1735
+#: core/modules/class-page-cache.php:1830
+msgid "Cache for post has been cleared."
+msgstr "পোস্টের জন্য ক্যাশ সাফ করা হয়েছে।"
+
+#: core/modules/class-minify.php:1412
+msgid "Error saving file"
+msgstr "ফাইল সংরক্ষণ করাই ত্রুটি"
+
+#: core/modules/class-minify.php:1403
+msgid "Unsupported content"
+msgstr "অসমর্থিত সামগ্রী"
+
+#: core/modules/class-advanced.php:240
+msgid "Cached data that themes and plugins have stored, but may still be in use. Note: the next page to load could take a bit longer due to WordPress regenerating transients."
+msgstr "ক্যাশড ডেটা যা থিম এবং প্লাগইনগুলিতে সংরক্ষিত আছে, কিন্তু এখনও ব্যবহারে থাকতে পারে। দ্রষ্টব্য: পরবর্তী পৃষ্ঠাটি লোড হওয়ার কারণে ওয়ার্ডপ্রেস পুনর্নবীকরণ ট্র্যান্সেন্টের কারণে কিছুটা সময় লাগতে পারে।"
+
+#: core/modules/class-advanced.php:239
+msgid "All Transients"
+msgstr "সকল ট্রান্সক্রেন্ট"
+
+#: core/modules/class-advanced.php:236
+msgid "Cached data that themes and plugins have stored, except these ones have expired and can be deleted"
+msgstr "ক্যাশড ডেটা যা থিম এবং প্লাগইনগুলিতে সংরক্ষিত আছে, এইগুলির মেয়াদ শেষ হয়ে গেছে এবং মুছে ফেলা যাবে"
+
+#: core/modules/class-advanced.php:235
+msgid "Expired Transients"
+msgstr "ট্রান্সিএন্তস গুলির মেয়াদ শেষ"
+
+#: core/modules/class-advanced.php:232
+msgid "Comments you've marked as trash but haven't permanently deleted yet"
+msgstr "মন্তব্যগুলি আপনি ট্র্যাশ হিসাবে চিহ্নিত করেছেন কিন্তু স্থায়ীভাবে এখনো মুছে ফেলা হয়নি"
+
+#: core/modules/class-advanced.php:231
+msgid "Trashed Comments"
+msgstr "ট্র্যাশ মন্তব্যগুলি"
+
+#: core/modules/class-advanced.php:228
+msgid "Comments marked as spam that haven't been deleted yet"
+msgstr "মন্তব্যগুলি স্প্যাম হিসাবে চিহ্নিত করা হয়েছে যা এখনো মুছে ফেলা হয়নি"
+
+#: core/modules/class-advanced.php:227
+msgid "Spam Comments"
+msgstr "স্প্যাম মন্তব্যগুলি"
+
+#: core/modules/class-advanced.php:224
+msgid "Posts or pages you've marked as trash but haven't permanently deleted yet"
+msgstr "পোস্ট বা পেজ যা আপনি ট্র্যাশ হিসাবে চিহ্নিত করেছেন কিন্তু স্থায়ীভাবে এখনো মুছে ফেলা হয়নি"
+
+#: core/modules/class-advanced.php:223
+msgid "Trashed Posts"
+msgstr "ট্র্যাশ করা পোস্ট গুলি"
+
+#: core/modules/class-advanced.php:220
+msgid "Auto-saved versions of your posts and pages. If you don’t use drafts you can safely delete these entries"
+msgstr "আপনার পোস্ট এবং পেজ যা অটো-সংরক্ষিত সংস্করণগুলি আপনি যদি ড্রাফ্ট ব্যবহার না করেন তবে আপনি এই এন্ট্রিগুলি নিরাপদে মুছে ফেলতে পারেন"
+
+#: core/modules/class-advanced.php:219
+msgid "Draft Posts"
+msgstr "ড্রাফ্ট পোস্ট"
+
+#: core/modules/class-advanced.php:216
+msgid "Historic versions of your posts and pages. If you don't need to revert to older versions, delete these entries"
+msgstr "আপনার পোস্ট এবং  পেজগুলির ঐতিহাসিক সংস্করণ আপনি পুরোনো সংস্করণে প্রত্যাবর্তন করতে হবে না, এই এন্ট্রি মুছে দিন"
+
+#: core/modules/class-advanced.php:215
+msgid "Post Revisions"
+msgstr "পোস্ট পুনর্বিবেচনা"
+
+#: core/class-utils.php:175
+msgid "Make sure you have a current backup just in case."
+msgstr "নিশ্চিত করুন যে আপনার কাছে একটি বর্তমান ব্যাকআপ আছে।"
+
+#: core/class-utils.php:174
+msgid "database entries"
+msgstr "ডাটাবেস এন্ট্রি"
+
+#: core/class-utils.php:173
+msgid "Are you sure you wish to delete"
+msgstr "আপনি কি মুছে ফেলতে চান নিশ্চিত?"
+
+#: core/class-utils.php:170
+msgid "Error updating settings"
+msgstr "সেটিংস আপডেট করার সময় ত্রুটি"
+
+#: admin/modals/membership-modal.php:40
+msgid "Enhanced Asset Optimization"
+msgstr "উন্নত অ্যাসেট অপ্টিমাইজেশান"
+
+#: admin/views/minification/tools-meta-box.php:51
+msgid "Add CSS here"
+msgstr "CSS এখানে যোগ করুন"
+
+#: admin/views/minification/tools-meta-box.php:49
+msgid "CSS to insert into your <head> area"
+msgstr "CSS আপনার <head> এলাকায় সন্নিবেশ করানোর জন্য"
+
+#: admin/views/minification/tools-meta-box.php:30
+msgid ""
+"This will result in the content loading quickly, with the styling\n"
+"\t\t\tfollowed shortly after."
+msgstr "এইটি আপনার কন্টেন্ট দ্রুত লোড করবে স্টাইলিং এর সঙ্গে।"
+
+#: admin/views/minification/tools-meta-box.php:22
+msgid ""
+"Drastically reduce your page load time by moving all of your stylesheets\n"
+"\t\t\tto the footer to force them to load after your content."
+msgstr "পেজ লোড এর সময় কমাই আপনার স্টাইলশীট গুলি footer এ সরিয়ে এবং বাধ্য করে পেজ লোড হবার পরে লোড করার জন্য।"
+
+#: admin/views/minification/tools-meta-box.php:19
+msgid "CSS above the fold"
+msgstr "CSS ভাঁজ উপরের"
+
+#: admin/views/dashboard/advanced/module-meta-box.php:41
+msgid "Up to date"
+msgstr "আপ টু ডেট"
+
+#. translators: %d - number of entries
+#. translators: %d: number of entries
+#: admin/views/dashboard/welcome/subsite-meta-box.php:93
+#: admin/views/dashboard/advanced/module-meta-box.php:36
+msgid "%d dispensable entries"
+msgstr "%d অনিবার্য এন্ট্রি"
+
+#: admin/views/caching/rss/meta-box.php:46
+msgid "If you don't want your RSS Feed cached, you can disable it here."
+msgstr "যদি আপনার আরএসএস ফিড ক্যাশ করতে না চান তবে আপনি এটি এখানে বন্ধ করতে পারেন।"
+
+#: admin/views/caching/rss/meta-box.php:36
+msgid "Note: The default expiry is set to one hour."
+msgstr "দ্রষ্টব্য: ডিফল্ট মেয়াদ এক ঘণ্টা নির্ধারিত হয়।"
+
+#: admin/views/caching/rss/meta-box.php:34
+msgid "seconds"
+msgstr "সেকেন্ড"
+
+#: admin/views/caching/rss/meta-box.php:26
+#: admin/views/caching/rss/meta-box.php:33 languages/react.php:65
+msgid "Expiry time"
+msgstr "মেয়াদ শেষের সময়"
+
+#: admin/views/caching/rss/meta-box.php:22
+msgid "RSS Feed Caching is currently active."
+msgstr "আরএসএস ফিড ক্যাশে বর্তমানে সক্রিয়।"
+
+#: admin/views/caching/rss/disabled-meta-box.php:23
+msgid "RSS Caching is currently disabled."
+msgstr "আরএসএস ক্যাশে বর্তমানে অক্ষম আছে।"
+
+#: admin/views/caching/rss/meta-box.php:44
+msgid "Disable caching"
+msgstr "ক‍্যাশিং বন্ধ করুন"
+
+#: admin/views/caching/rss/meta-box.php:51
+msgid "Disable Caching"
+msgstr "ক‍্যাশিং বন্ধ করুন"
+
+#: admin/views/caching/page/subsite-meta-box.php:69
+msgid "Note: Deactivating won’t lose any of your website data, only the cached pages will be removed and won’t be served to your visitors any longer."
+msgstr "বিঃদ্রঃ এটিকে বিকল করলে আপনার কোনও ওয়েবসাইট ডাটা হারিয়ে যাবে না, শুধুমাত্র ক্যাশে পেইজ-গুলি অপসারণ করা হবে এবং আপনার ভিসিটর-এর নিকট আর পরিদর্শন করা হবে না।"
+
+#: admin/views/caching/page/subsite-meta-box.php:60
+msgid "You can deactivate page caching at any time. Remember this may result in slower page loads unless you have another caching plugin activate."
+msgstr "আপনি যেকোনো সময় পেইজ ক্যাশিং বন্ধ করতে পারেন। মনে রাখবেন এটি ধীর পেইজ লোড এর কারণ হতে পারে যদি না আপনার আরেকটি ক্যাশিং প্লাগিন সচল থাকে।"
+
+#: admin/views/caching/page/meta-box.php:414
+msgid "Allow subsites to disable page caching"
+msgstr "সাবসাইটগুলোকে পেইজ ক‍্যাশিং ডিজেবল করার অনুমোদন দিন"
+
+#: admin/views/performance/settings-meta-box.php:136
+#: admin/views/caching/page/meta-box.php:405
+#: admin/views/minification/network-settings-meta-box.php:25
+msgid "Subsites"
+msgstr "সাবসাইটস"
+
+#: admin/views/caching/page/meta-box.php:272
+msgid "Even though 404s are bad and you will want to avoid them with redirects, you can still choose to cache your 404 page to avoid additional load on your server."
+msgstr "যদিও 404 গুলো খারাপ এবং আপনি সেইগুলিকে রিডাইরেক্ট এর সাহাজ্যে এড়িয়ে চলতে চান তারপরও আপনি আপনার সার্ভারের উপর অতিরিক্ত লোড এড়াতে 404 পেইজটির  জন্য ক্যাশ নির্বাচন করতে পারেন।"
+
+#: admin/views/caching/page/meta-box.php:269
+msgid "Cache 404 requests"
+msgstr "404 রিকোয়েষ্টসমূহ ক‍্যাশ করুন"
+
+#: admin/views/caching/page/meta-box.php:417
+msgid "This setting adds the Page Caching tab to Hummingbird and allows a network or subsite admin to disable Page Caching if they wish to. Note: It does not allow them to modify your network settings."
+msgstr "এই সেটিংস  পেইজ ক্যাশিং ট্যাবটিকে হামিংবার্ডে সংযুক্ত করে এবং একটি নেটওয়ার্ক বা সাবসাইট অ্যাডমিনকে পেইজ ক্যাশিং নিষ্ক্রিয় করবার অনুমতি প্রদান করে। দ্রষ্টব্য: এটি তাদেরকে আপনার নেটওয়ার্ক সেটিংস পরিবর্তন করবার অনুমতি দেয় না।"
+
+#: admin/views/advanced/general-meta-box.php:200
+msgid "Add one host entry per line replacing the http:// or https:// with // e.g. //fonts.googleapis.com. We’ve added a few common DNS requests to get you started."
+msgstr "লাইন প্রতি একটি করে হোস্ট এন্ট্রি যোগ করুন । http:// অথবা https:// এর পরিবরতে // ব্যাবহার করুন যেমনঃ //fonts.googleapis.com । আপনার শুরু করতে যাতে সুবিধা হয় সেজন্য আমরা কয়েকটি কমন DNS রিকোয়েস্ট যোগ করেছি ।"
+
+#: admin/views/advanced/general-meta-box.php:178
+msgid "Speeds up web pages by pre-resolving DNS. In essence it tells a browser it should resolve the DNS of a specific domain prior to it being explicitly called – very useful if you use third party services."
+msgstr "প্রি-রিসল্ভিং ডিএনএস দ্বারা ওয়েব পেজগুলিকে দ্রুততর করে । মূলত এটি একটি ব্রাউজারকে বলে এটি যেন একটি নির্দিষ্ট ডোমেনকে স্পষ্টভাবে কল করবার আগে DNS  রিসল্ভ করে নেয় - যদি আপনি থার্ড পার্টি সার্ভিস ব্যবহার করেন তবে এটি খুব প্রয়োজনীয়।"
+
+#: admin/views/advanced/general-meta-box.php:176
+#: admin/views/advanced/general-meta-box.php:196
+msgid "Prefetch DNS Requests"
+msgstr "DNS রিকোয়েষ্টগুলো আগেই টেনে রাখুন"
+
+#: admin/views/advanced/general-meta-box.php:148
+msgid "Remove the default Emoji JS & CSS files"
+msgstr "ডিফল্ট ইমোজি JS এবং CSS ফাইলগুলো সরিয়ে ফেলুন"
+
+#: admin/views/advanced/general-meta-box.php:140
+msgid "WordPress adds Javascript and CSS files to convert common symbols like “:)” to visual emojis. If you don’t need emojis this will remove two unnecessary assets."
+msgstr ""
+"\":)\"  এব মত কমন প্রতীকগুলোকে ভিজ্যুয়াল ইমোজিতে  রূপান্তর করার জন্য ওয়ার্ডপ্রেস জাভাস্ক্রিপ্ট এবং সিএসএস ফাইল যোগ করে । যদি আপনার ইমোজিগুলোর প্রয়োজন না হয় \n"
+"তবে এটি দুটি অপ্রয়োজনীয় এসেট মুছে ফেলবে।"
+
+#: admin/views/advanced/general-meta-box.php:138
+msgid "Emojis"
+msgstr "ইমোজি সমূহ"
+
+#: admin/views/advanced/general-meta-box.php:44
+msgid "Remove query strings from my assets"
+msgstr "আমার এ‍্যাসেটগুলো থেকে কুয়েরী স্ট্রিংগুলো সরিয়ে ফেলা হোক"
+
+#: admin/views/advanced/general-meta-box.php:36
+msgid "Some proxy caching servers and even some CDNs cannot cache static assets with query strings, resulting in a large missed opportunity for increased speeds."
+msgstr "কিছু প্রক্সি ক্যাশিং সার্ভার এবং এমনকি কিছু CDN-ও ক্যোয়ারী স্ট্রিংসহ স্ট্যাটিক এসেট ক্যাশ করতে পারে না, ফলে বর্ধিত গতি পাবার একটি বড় সুযোগ হারাতে হয়।"
+
+#: admin/views/advanced/general-meta-box.php:34
+msgid "URL Query Strings"
+msgstr "URL কুয়েরী স্ট্রিংসমূহ"
+
+#: admin/views/advanced/general-meta-box.php:25
+msgid "Here are a few additional tweaks you can make to further reduce your page load times."
+msgstr "আপনার সাইটের পেইজ লোডিং সময় কমানোর জন‍্য এখানে আরো কিছু অতিরিক্ত টুইক দেয়া হলো যেগুলো আপনি করে দেখতে পারেন।"
+
+#: admin/views/advanced/db-settings-meta-box.php:21
+msgid "Schedule Hummingbird to automatically clean your database daily, weekly or monthly."
+msgstr "Hummingbird এর মাধ‍্যমে স্বয়ংক্রিয়ভাবে দৈনিক / সাপ্তাহিক / মাসিক ভাবে আপনার ডেটাবেজ পরিষ্কার করুন।"
+
+#: admin/views/advanced/db-settings-meta-box.php:19
+msgid "Schedule Cleanups"
+msgstr "পূর্বনির্ধারিত পরিচ্ছন্নতা কার্যক্রম"
+
+#: admin/views/advanced/db-settings-meta-box-header.php:19
+msgid "Unlock automatic scheduled database cleanups with a WPMU DEV Membership"
+msgstr "স্বয়ংক্রিয় পূর্ব-নির্ধারিত ডেটাবেজ ক্লিনআপ সুবিধা পাওয়ার জন‍্য WPMU DEV এর সদস‍্য হোন"
+
+#: admin/views/advanced/general-meta-box-footer.php:18
+#: admin/views/minification/tools-meta-box-footer.php:17
+#: admin/modals/integration-redis-connect-modal.php:153
+msgid "Save changes"
+msgstr "পরিবর্তনগুলো সংরক্ষণ করুন"
+
+#: admin/views/advanced/db-meta-box.php:69 core/class-utils.php:172
+msgid "Delete All"
+msgstr "সব ডিলিট করুন"
+
+#: admin/views/advanced/db-meta-box.php:63
+msgid "Tip: Make sure you have a current backup before running a cleanup."
+msgstr "উপদেশ: ক্লিনআপ চালানোর আগে নিশ্চিত করুন আপনি আপনার সাইটের ব‍্যাকআপ নিয়েছেন।"
+
+#: admin/views/advanced/db-meta-box.php:41
+#: admin/modals/database-cleanup-modal.php:38
+msgid "Delete entries"
+msgstr "এন্ট্রিসমূহ মুছে ফেলুন"
+
+#: admin/views/advanced/db-meta-box.php:26
+msgid "Entries"
+msgstr "এন্ট্রিসমূহ"
+
+#: admin/views/advanced/db-meta-box.php:25
+msgid "Data Type"
+msgstr "ডেটার ধরণ"
+
+#: admin/pages/class-minification.php:158
+#: admin/pages/class-minification.php:384
+msgid "Tools"
+msgstr "সরঞ্জামসমূহ"
+
+#: admin/pages/class-minification.php:157
+#: admin/pages/class-minification.php:367 languages/react.php:372
+msgid "Assets"
+msgstr "সম্পদসমূহ"
+
+#: admin/pages/class-caching.php:196 admin/pages/class-caching.php:298
+#: admin/views/caching/summary-meta-box.php:107
+msgid "RSS Caching"
+msgstr "RSS ক‍্যাশিং"
+
+#: admin/pages/class-advanced.php:38 admin/pages/class-advanced.php:59
+#: admin/views/dashboard/reports/no-membership-meta-box.php:35
+#: admin/views/dashboard/welcome/subsite-meta-box.php:88
+#: admin/views/dashboard/advanced/module-meta-box.php:31
+msgid "Database Cleanup"
+msgstr "ডেটাবেজ পরিষ্কার"
+
+#: admin/pages/class-settings.php:28 admin/pages/class-settings.php:41
+#: admin/pages/class-advanced.php:37 admin/pages/class-advanced.php:52
+msgid "General"
+msgstr "সাধারণ"
+
+#: admin/class-admin.php:239 admin/class-admin.php:267
+#: admin/pages/class-dashboard.php:467
+msgid "Advanced Tools"
+msgstr "উন্নত টুলসমূহ"
+
+#: admin/class-admin.php:231 admin/class-admin.php:266
+#: admin/pages/class-dashboard.php:428 admin/pages/class-dashboard.php:444
+#: admin/pages/class-dashboard.php:453
+#: admin/views/dashboard/welcome/subsite-meta-box.php:80
+msgid "Asset Optimization"
+msgstr "এ‍্যাসেট অপটিমাইজেশন"
+
+#: admin/class-admin.php:132 admin/pages/class-uptime.php:47
+msgid "Upgrade"
+msgstr "আপগ্রেড"
+
+#: admin/class-admin.php:132 admin/views/wphb-upgrade-page.php:21
+msgid "Upgrade to Hummingbird Pro"
+msgstr "Hummingbird এর প্রো ভার্সনে আপগ্রেড করুন"
+
+#: admin/class-page.php:440 admin/class-page.php:455 admin/class-admin.php:139
+msgid "Docs"
+msgstr "নথিসমূহ"
+
+#: admin/class-admin.php:139
+msgid "View Hummingbird Documentation"
+msgstr "Hummingbird এর ডকুমেন্টেশন দেখুন"
+
+#. translators: %d: number of database entries
+#: admin/class-ajax.php:1753
+msgid "<strong>%d database entries</strong> were deleted successfully."
+msgstr "<strong>%d ডেটাবেজ এন্ট্রি</strong> সফলতার সাথে মুছে ফেলা হয়েছে।"
+
+#: admin/class-ajax.php:1745
+msgid "Error deleting data."
+msgstr "ডেটা মুছে ফেলার সময় সমস‍্যা হয়েছে"
+
+#: admin/class-ajax.php:1734
+msgid "Invalid type specified."
+msgstr "অকার্যকর ধরণ নির্ধারিত হয়েছে।"
+
+#: admin/views/wphb-page.php:87
+msgid "Learn more"
+msgstr "আরো জানুন"
+
+#: admin/views/wphb-page.php:84
+msgid "Pretty much everything you need for developing and managing WordPress based websites, and then some."
+msgstr "ওয়ার্ডপ্রেস সাইট ডেভেলপ এবং ম‍্যানেজ করার জন‍্য মোটামুটি যা দরকার তার সবকিছু, এবং আরো অনেক কিছু।"
+
+#: admin/views/wphb-page.php:73
+msgid "SmartCrawl Search Engine Optimization"
+msgstr "SmartCrawl সার্চ ইঞ্জিন অপটিমাইজেশন"
+
+#: admin/views/wphb-page.php:74
+msgid "Customize Titles & Meta Data, OpenGraph, Twitter & Pinterest Support, Auto-Keyword Linking, SEO & Readability Analysis, Sitemaps, URL Crawler & more."
+msgstr "শিরোনাম এবং মেটা ডেটা, ওপেনগ্রাফ, টুইটার এবং পিন্টারেস্ট সাপোর্ট, অটো-কীওয়ার্ড লিঙ্কিং, এসইও এবং পাঠযোগ্যতা বিশ্লেষণ (রিডেবিলিটী এনালাইসিস), সাইটম্যাপ,  ইউ আর এল ক্রলার এবং আরও অনেক কিছু কাস্টমাইজ করুন"
+
+#: admin/views/wphb-page.php:57
+msgid "Security Tweaks & Recommendations, File & Malware Scanning, Login & 404 Lockout Protection, Two-Factor Authentication & more."
+msgstr "নিরাপত্তা পরিবর্তন ও সুপারিশ, ফাইল ও ম্যালওয়্যার স্ক্যানিং, লগইন এবং 404 লকআউট সুরক্ষা, দুই-স্তর বিশিষ্ট প্রমাণীকরণ এবং আরো অনেক কিছু।"
+
+#: admin/views/wphb-page.php:56
+msgid "Defender Security, Monitoring, and Hack Protection"
+msgstr "Defender নিরাপত্তা, পর্যবেক্ষন এবং হ‍্যাকিং নিরাপত্তা"
+
+#: admin/views/wphb-page.php:42 admin/views/wphb-page.php:59
+#: admin/views/wphb-page.php:76
+msgid "View features"
+msgstr "বৈশিষ্ট্যসমূহ দেখুন"
+
+#: admin/views/wphb-page.php:40
+msgid "Resize, optimize and compress all of your images with the incredibly powerful and award-winning, 100% free WordPress image optimizer."
+msgstr "অবিশ্বাস্যভাবে শক্তিশালী এবং পুরস্কার বিজয়ী, ১০০ %  বিনামূল্যের ওয়ার্ডপ্রেস ইমেজ অপ্টিমাইজার দিয়ে আপনার সমস্ত ইমেজ আকার পরিবর্তন, অপ্টিমাইজ এবং সংকুচিত করুন।"
+
+#: admin/views/wphb-page.php:39
+msgid "Smush Image Compression and Optimization"
+msgstr "Smush ছবি সংকোচন এবং অপটিমাইজেশন"
+
+#: admin/views/wphb-page.php:28
+msgid "Check out our other free wordpress.org plugins!"
+msgstr "আমাদের অন‍্যান‍্য ফ্রি wordpress.org প্লাগিনসমূহ ব‍্যবহার করে দেখুন!"
+
+#: admin/views/uptime/summary-meta-box.php:36
+msgid "Website availability in the last "
+msgstr "ওয়েবসাইট পাওয়া গিয়েছে বিগত "
+
+#: admin/views/uptime/settings-meta-box.php:17
+msgid "If you no longer wish to use Hummingbird’s Uptime Monitor you can turn it off completely."
+msgstr "আপনি যদি Hummingbird এর আপটাইম মনিটর ফিচারটি আর ব‍্যবহার করতে না চান, তাহলে এটি পুরোপুরি বন্ধ করে দিতে পারবেন।"
+
+#: admin/views/uptime/downtime-meta-box.php:63
+msgid "Spacer image"
+msgstr "স্পেসার ছবি"
+
+#: admin/views/uptime/downtime-meta-box.php:45
+msgid "No downtime has been reported during the reporting period."
+msgstr "প্রতিবেদনের সময় কোন ডাউনটাইম পরিলক্ষিত হয়নি।"
+
+#: admin/views/uptime/downtime-meta-box.php:41
+msgid "Logs"
+msgstr "লগসমূহ"
+
+#: admin/views/uptime/downtime-meta-box.php:30
+#: admin/views/uptime/meta-box.php:83 core/modules/class-advanced.php:567
+#: core/modules/class-advanced.php:576
+msgid "Unknown"
+msgstr "অজানা"
+
+#: admin/modals/dismiss-report-modal.php:24
+#: admin/modals/database-cleanup-modal.php:24
+msgid "Are you sure?"
+msgstr "আপনি কি নিশ্চিত?"
+
+#: admin/pages/class-uptime.php:467
+msgid "30 days"
+msgstr "৩০ দিন"
+
+#: admin/pages/class-uptime.php:466
+msgid "7 days"
+msgstr "৭ দিন"
+
+#: admin/pages/class-minification.php:186
+msgid "<strong>Your changes have been published.</strong> Note: Files queued for compression will generate once someone visits your homepage."
+msgstr "<strong>আপনার পরিবর্তনগুলি প্রকাশিত হয়েছে।</strong> দ্রষ্টব্যঃ কমপ্রেশন এর জন্য সারিবদ্ধ ফাইলগুলি আপনার হোমপেইজ-এ কেউ ভিসিট করলে জেনারেট হবে।"
+
+#: admin/views/caching/browser/configure-meta-box.php:38
+msgid "Server Type"
+msgstr "সার্ভারের ধরন"
+
+#: admin/class-page.php:249 admin/class-admin.php:203 admin/class-admin.php:251
+#: admin/class-admin.php:259 admin/class-admin.php:276
+#: admin/pages/class-dashboard.php:339
+#: admin/views/dashboard/welcome/upsell-meta-box-header.php:15
+msgid "Hummingbird Pro"
+msgstr "Hummingbird Pro"
+
+#: admin/views/performance/metrics-meta-box.php:48
+msgid "You have chosen to ignore this performance test. Run a new test to see new recommendations."
+msgstr "আপনি কার্যকারিতা পরীক্ষা এড়িয়ে যেতে চেয়েছেন। নতুন পরামর্শ পাবার জন‍্য নতুন করে পরীক্ষা চালান।"
+
+#: admin/modals/found-assets-modal.php:41
+msgid "Got It"
+msgstr "আচ্ছা"
+
+#: admin/modals/dismiss-report-modal.php:39
+msgid "Confirm"
+msgstr "নিশ্চিত করুন"
+
+#: admin/modals/dismiss-report-modal.php:28
+msgid "Are you sure you wish to ignore the current performance test results? You can re-run the test anytime to check your performance score again."
+msgstr "আপনি কি নিশ্চিত যে আপনি বর্তমান কার্যকারিতা পরীক্ষা এড়িয়ে যেতে চান? আপনি চাইলে কার্যকারীতা স্কোর দেখার জন‍্য পরবর্তীতে যে কোন সময় আবার এই পরীক্ষা চালাতে পারবেন।"
+
+#: admin/modals/check-files-modal.php:77
+msgid "By default your files are hosted on your own server. With this pro setting enabled we will host your files on WPMU DEV’s secure and hyper fast CDN."
+msgstr "ডিফল্টভাবে আপনার ফাইলগুলো আপনার নিজের সার্ভারে হোস্ট করা। আপনি যদি WPMU DEV এর নিরাপদ এবং দুর্দান্ত গতির CDN সার্ভারে ফাইলগুলো হোস্ট করতে চান তাহলে এই প্রো ফিচারটি চালু করুন।"
+
+#: admin/modals/bulk-update-modal.php:46
+msgid "Defer JavaScript"
+msgstr "জাভাস্ক্রিপ্ট ডেফার করুন"
+
+#: admin/views/minification/summary-meta-box.php:51
+msgid "Filesize reductions"
+msgstr "ফাইল সাইজ কমানো"
+
+#: admin/views/minification/summary-meta-box.php:47
+msgid "Total files"
+msgstr "সর্বমোট ফাইলসংখ‍্যা"
+
+#: admin/views/minification/summary-meta-box.php:41
+msgid "Compression savings"
+msgstr "সংকোচনের মাধ‍্যমে সাশ্রয়"
+
+#: admin/views/settings/data-meta-box.php:44
+#: admin/views/minification/settings-meta-box.php:230
+msgid "Reset"
+msgstr "রিসেট"
+
+#: admin/views/minification/settings-meta-box.php:223
+msgid "Reset to defaults"
+msgstr "ডিফল্ট অবস্থায় ফিরে যান"
+
+#: admin/views/minification/settings-meta-box.php:67
+msgid "Enable super-compression"
+msgstr "প্রচন্ড-সংকোচন চালু করুন"
+
+#: admin/views/minification/settings-meta-box.php:53
+msgid "Super-compress my files"
+msgstr "আমার ফাইলসমূহ প্রচন্ড-সংকোচন করুন"
+
+#: admin/views/minification/enqueued-files-meta-box.php:152
+msgid "Select all JavaScript files"
+msgstr "সকল জাভাস্ক্রিপ্ট ফাইল সিলেক্ট করুন"
+
+#: admin/views/minification/enqueued-files-meta-box.php:139
+msgid "Select all CSS files"
+msgstr "সকল CSS ফাইল সিলেক্ট করুন"
+
+#: admin/views/minification/empty-collection-meta-box.php:26
+msgid "Choose which files you wish to compress and then publish your changes."
+msgstr "আপনি যে ফাইলগুলো সংকোচন করতে চান সেগুলো নির্বাচন করুন এবং এরপর পরিবর্তনগুলো প্রকাশ করুন।"
+
+#: admin/views/minification/enqueued-files-meta-box-header.php:31
+#: languages/react.php:381
+msgid "Clears all local or hosted assets and recompresses files that need it"
+msgstr "লোকাল অথবা হোস্টেড সকল এ‍্যাসেট পরিষ্কার করুন এবং যেগুলো দরকার সেগুলো পুনরায় সংকোচন করুন"
+
+#: admin/views/minification/advanced-files-rows.php:162
+#: admin/modals/bulk-update-modal.php:51
+msgid "Inline CSS"
+msgstr "ইনলাইন সিএসএস"
+
+#: admin/views/minification/advanced-files-rows.php:147
+#: admin/modals/bulk-update-modal.php:41
+msgid "Move to Footer"
+msgstr "ফুটারে পাঠান"
+
+#: admin/views/minification/advanced-files-rows.php:125
+#: admin/modals/bulk-update-modal.php:30 admin/modals/bulk-update-modal.php:31
+msgid "Compress"
+msgstr "সংকোচন"
+
+#: admin/views/dashboard/performance/module-meta-box-dismissed.php:22
+msgid "You chose to ignore your last performance test. Run a new test to see new recommendations."
+msgstr "আপনি সর্বশেষ কার্যকারিতা পরীক্ষাটি এড়িয়ে গিয়েছিলেন। নতুন পরামর্শ পাওয়ার জন‍্য নতুন একটি পরীক্ষা চালান।"
+
+#: admin/views/caching/page/meta-box.php:306
+#: admin/views/minification/settings-meta-box.php:205
+msgid "Download Logs"
+msgstr "ডাউনলোড লগ"
+
+#: admin/views/caching/page/meta-box.php:298
+msgid "If you’re having issues with page caching, turn on the debug log to get insight into what’s going on."
+msgstr "আপনার যদি পেইজ ক‍্যাশিং নিয়ে সমস‍্যা হয়ে থাকে তাহলে ডিবাগ লগ চালু করুন যাতে করে কি কারনে এটা হচ্ছে সেটার ব‍্যাপারে ধারণা পাওয়া যায়।"
+
+#: admin/views/caching/browser/configure-meta-box.php:492
+msgid "Clear all assets cached by CloudFlare"
+msgstr "CloudFlare যে সকল এ‍্যাসেট ক‍্যাশ করেছে সব মুছে ফেলুন"
+
+#: languages/react.php:29
+msgid "Cloudflare is connected for this domain."
+msgstr "এই ডোমেইনে Cloudflare সংযুক্ত হয়েছে।"
+
+#: admin/views/caching/browser/configure-meta-box.php:296
+msgid "Note: If you do not have access to your NGINX config files you will need to contact your hosting provider to make these changes."
+msgstr "বি.দ্র. যদি আপনার NGINX কনফিগ ফাইলের একসেস না থাকে তাহলে এই পরিবর্তনগুলো করার জন‍্য আপনার হোস্টিং প্রোভাইডার এর সাথে যোগাযোগ করতে হবে।"
+
+#: admin/views/caching/browser/configure-meta-box.php:287
+msgid "Follow the steps below to add browser caching to your NGINX server."
+msgstr "আপনার NGINX সার্ভারে ব্রাউজার ক‍্যাশিং চালু করতে নিচের ধাপগুলো অনুসরণ করুন।"
+
+#: admin/views/caching/browser/configure-meta-box.php:265
+msgid "If adding the rules to your .htaccess doesn’t work and you have access to vhosts.conf or httpd.conf try to find the line that starts with <Directory> - add the code above into that section and save the file."
+msgstr "যদি .htaccess-এ রুল যোগ করা কার্যকর না হয় এবং vhosts.conf অথবা httpd.conf-এ আপনার অ্যাক্সেস থাকে তাহলে <Directory>-দিয়ে শুরু লাইনটি খোঁজার চেষ্টা করুন এবং কোড-টি তার উপর বিভাগে যোগ করে ফাইল-টি সেভ করুন।"
+
+#: admin/views/caching/browser/configure-meta-box.php:259
+#: admin/views/caching/browser/configure-meta-box.php:293
+msgid "Re-check expiry status."
+msgstr "মেয়াদ শেষের অবস্থা পুনরায় চেক করুন।"
+
+#: admin/views/caching/browser/configure-meta-box.php:258
+msgid "Restart Apache."
+msgstr "এ‍্যাপাচি রিস্টার্ট করুন।"
+
+#: admin/views/caching/browser/configure-meta-box.php:257
+msgid "Copy the generated code into your .htaccess file & save your changes."
+msgstr "উৎপন্ন কোডটি আপনার .htaccess ফাইলে কপি করে সেইভ করুন।"
+
+#: admin/views/caching/browser/configure-meta-box.php:253
+msgid "Follow the steps below to add browser caching to your Apache server."
+msgstr "আপনার এপাচি সার্ভারে ব্রাউজার ক্যাশিং চালু করতে নিচের স্টেপ অনুসরণ করুন।"
+
+#: admin/views/caching/browser/configure-meta-box.php:229
+#: admin/views/caching/browser/configure-meta-box.php:280
+#: admin/views/caching/browser/configure-meta-box.php:307
+#: admin/views/caching/browser/configure-meta-box.php:329
+msgid "Automatic browser caching is active."
+msgstr "অটোমেটিক ব্রাউজার ক্যাশিং চালু আছে।"
+
+#: admin/views/caching/browser/configure-meta-box.php:204
+msgid "Follow the instructions provided to enable browser caching."
+msgstr "ব্রাউজার ক্যাশিং চালু করার জন্য নিচের স্টেপ অনুসরণ করুন।"
+
+#: admin/views/caching/browser/configure-meta-box.php:202
+msgid "Setup"
+msgstr "সেটআপ"
+
+#: admin/views/caching/browser/configure-meta-box.php:149
+msgid "Update .htaccess"
+msgstr ".htaccess আপডেট করুন"
+
+#: admin/views/caching/browser/configure-meta-box.php:144
+msgid "View code"
+msgstr "কোড দেখুন"
+
+#: admin/views/caching/browser/configure-meta-box.php:100
+#: admin/views/caching/browser/configure-meta-box.php:163
+#: languages/react.php:55
+msgid "JavaScript, CSS, Media, Images"
+msgstr "জাভাস্ক্রিপ্ট, সিএসএস, মিডিয়া, ছবিসমূহ"
+
+#: admin/views/caching/browser/configure-meta-box.php:93
+msgid "Individual file types"
+msgstr "আলাদা আলাদা ফাইলের ধরন"
+
+#: admin/views/caching/browser/configure-meta-box.php:90
+msgid "All file types"
+msgstr "সকল ধরনের ফাইল"
+
+#: admin/views/caching/browser/configure-meta-box.php:76
+msgid "Expiry Time"
+msgstr "শেষ হবার সময়"
+
+#: admin/pages/class-performance.php:77
+msgid "You have successfully ignored this performance test."
+msgstr "কার্যকারিতা পরীক্ষাটি সফলতার সাথে এড়িয়ে যাওয়া হয়েছে।"
+
+#: admin/views/minification/enqueued-files-meta-box.php:74
+msgid "Publish Changes"
+msgstr "পরিবর্তনসমূহ প্রকাশ করুন"
+
+#: admin/views/caching/page/meta-box.php:295
+#: admin/views/minification/settings-meta-box.php:194
+msgid "Enable debug log"
+msgstr "ডিবাগ লগ চালু করুন"
+
+#: admin/views/caching/page/meta-box.php:285
+msgid "If one of your pages or posts gets updated, turning this setting on will also regenerate all cached archives and taxonomies for all post types."
+msgstr "যদি আপনার কোন পেইজ বা পোস্ট আপডেট হয়ে থাকে, তাহলে এই অপশন এনাবল করা থাকলে সকল পোস্ট টাইপের জন‍্য আর্কাইভ এবং ট‍্যাক্সোনমির ক‍্যাশ নতুন করে তৈরী করা হবে।"
+
+#: admin/class-notices.php:470
+msgid "We've spent countless hours developing Hummingbird and making it free for you to use. We would really appreciate it if you dropped us a quick rating!"
+msgstr "আমরা Hummingbird তৈরীর পেছনে এবং যাতে করে আপনি এটি বিনামূল ব‍্যবহার করতে পারেন তার জন‍্য অসংখ‍্য ঘন্টা ব‍্যায় করেছি। আমরা খুবই খুশি হব যদি আপনি আমাদের প্লাগিনের জন‍্য একটি রেটিং দেন!"
+
+#: admin/views/caching/page/meta-box.php:246
+msgid "Caching pages for logged in users can reduce load on your server, but can cause strange behavior with some themes/plugins."
+msgstr "লগইন করা ব্যবহারকারীদের পৃষ্ঠাগুলি ক্যাশিং করা আপনার সার্ভারে লোড কমাতে পারে, কিন্তু এর কারণে কিছু থিম / প্লাগইন সঙ্গে অদ্ভুত আচরণ হতে পারে।"
+
+#: core/class-utils.php:738 languages/react.php:294
+msgid "Start a live chat."
+msgstr "লাইভ চ্যাট শুরু করুন।"
+
+#: core/modules/class-page-cache.php:577
+msgid "Tags"
+msgstr "ট‍্যাগসমূহ"
+
+#: core/modules/class-page-cache.php:576
+msgid "Categories"
+msgstr "ক‍্যাটাগরিসমূহ"
+
+#: core/modules/class-page-cache.php:575
+msgid "Archives"
+msgstr "আর্কাইভসমূহ"
+
+#: core/modules/class-page-cache.php:574
+msgid "Posts"
+msgstr "পোস্টসমূহ"
+
+#: core/modules/class-page-cache.php:573
+msgid "Pages"
+msgstr "পেইজসমূহ"
+
+#: core/modules/class-page-cache.php:572
+msgid "Blog"
+msgstr "ব্লগ"
+
+#: core/modules/class-page-cache.php:571
+msgid "Frontpage"
+msgstr "প্রথম পাতা"
+
+#: core/modules/class-page-cache.php:544
+msgid "Hummingbird could not write to the wp-config.php file. Please add the following line to the file manually: <br><code>define('WP_CACHE', true);</code>"
+msgstr "হুমিংবার্ড wp-config.php ফাইলটিতে লিখতে পারে না। অনুগ্রহ করে নিম্নলিখিত লাইনটি ফাইলটিতে ম্যানুয়ালি যোগ করুনঃ<br><code>define('WP_CACHE', true);</code>"
+
+#: core/modules/class-page-cache.php:534
+msgid "Hummingbird could not locate the wp-config.php file for WordPress. Please make sure the following line is added to the file: <br><code>define('WP_CACHE', true);</code>"
+msgstr "হামিংবার্ড ওয়ার্ডপ্রেস-এর জন্য wp-config.php ফাইল-টি খুঁজে পায়নি। অনুগ্রহ করে নিশ্চিত করুন যে নিম্নলিখিত লাইনটি ফাইলটিতে যোগ করা হয়েছেঃ <br><code>define('WP_CACHE', true);</code>"
+
+#: core/modules/class-page-cache.php:252
+msgid "Page caching halted while minification queue is being processed. This can take a few minutes.."
+msgstr "পেজ ক্যাশিং আপাতত বন্ধ আছে যেহেতু মিনিফিকেশন কিউ প্রসেস হচ্ছে। এটা আরো কিছু সময় নিতে পারে।"
+
+#. translators: %s: plugin name.
+#: core/modules/class-page-cache.php:221
+msgid "%s plugin detected. Please disable it to use Hummingbird page caching functionality."
+msgstr "%s প্লাগিন পাওয়া গেছে। অনুগ্রহ করে এটা ডিএক্টিভেট করেন Hummingbird পেজ ক্যাশ পুরোপুরি ব্যবহার করার জন্য।"
+
+#: admin/modals/bulk-update-modal.php:50
+msgid "Inline"
+msgstr "ইনলাইন"
+
+#: languages/react.php:342
+msgid "Current status"
+msgstr "বর্তমান অবস্থা"
+
+#: admin/views/dashboard/caching/module-meta-box.php:42
+#: admin/views/dashboard/caching/cloudflare-module-meta-box.php:41
+#: admin/views/dashboard/gzip/module-meta-box.php:33 languages/react.php:186
+#: admin/assets/js/wphb-react-browser-caching.min.js:4175
+msgid "File type"
+msgstr "ফাইলের ধরণ"
+
+#: languages/react.php:291
+msgid "Automatic .htaccess rules have been applied."
+msgstr "স্বয়ংক্রিয় .htaccess নিয়মগুলো প্রয়োগ করা হয়েছে।"
+
+#: languages/react.php:237
+msgid "Copy & paste the generated code below into your .htaccess file"
+msgstr "নিচের উৎপন্নকৃত কোড কপি করে আপনার .htaccess ফাইলে পেস্ট করুন"
+
+#: languages/react.php:234
+msgid "If you are unable to get the automated method working you can copy the generated code below into your .htaccess file to activate GZip compression."
+msgstr "GZip সংকোচন চালু করার স্বয়ংক্রিয় পদ্ধতিটি যদি কাজ না করে তাহলে নিচের কোডটি কপি করে আপনার .htaccess ফাইলে পেস্ট করুন।"
+
+#: languages/react.php:211
+msgid "Apply Rules"
+msgstr "নিয়মগুলো প্রয়োগ করুন"
+
+#: languages/react.php:208
+msgid "Follow the instructions to activate GZip compression for this website."
+msgstr "এই ওয়েবসাইটের জন‍্য GZip সংকোচন চালু করতে নিচের নির্দেশনাগুলো অনুসরণ করুন।"
+
+#: languages/react.php:202
+msgid "Choose your server type. If you don’t know this, please contact your hosting provider."
+msgstr "আপনার সার্ভারের ধরণ নির্ধারন করুন। আপনি যদি আপনার সার্ভারের ধরন না জেনে থাকেন তাহলে আপনার হোস্টিং প্রোভাইডারের সাথে যোগাযোগ করুন।"
+
+#: admin/views/caching/browser/configure-meta-box.php:45
+#: languages/react.php:199
+msgid "Server type"
+msgstr "সার্ভারের ধরণ"
+
+#: admin/views/caching/summary-meta-box.php:47
+#: admin/views/dashboard/welcome/subsite-meta-box.php:75
+#: admin/views/dashboard/welcome/subsite-meta-box.php:83
+#: admin/views/dashboard/gzip/module-meta-box.php:41
+#: admin/views/dashboard/minification/network-module-meta-box.php:48
+#: languages/react.php:329
+msgid "Active"
+msgstr "সক্রিয়"
+
+#. translators: %s: Number of inactive types
+#: admin/views/dashboard/gzip/module-meta-box.php:21
+msgid "%s of your compression types are inactive."
+msgstr "আপনার কমপ্রেশন টাইপের %s চালু নয়।"
+
+#: admin/views/dashboard/caching/page-caching-module-meta-box.php:17
+msgid "Store static HTML copies of your pages and posts to reduce the processing load on your server and dramatically speed up your page load time."
+msgstr "আপনার পেজের এবং পোস্টের স্ট্যাটিক HTML কপি আপনার সার্ভারে স্টোর করুন এবং আপনার পেজ লোড টাইম কমিয়ে আনুন।"
+
+#. translators: %s: Connect CloudFlare link
+#: admin/views/dashboard/caching/module-meta-box.php:107
+msgid " <a href=\"%s\">Connect your account</a> to control your settings via Hummingbird."
+msgstr "Hummingbird এর মাধ্যমে সেটিংস কন্ট্রোল করতে <a href=\"%s\">আপনার একাউন্ট সংযোগ করুন</a>"
+
+#: admin/views/dashboard/caching/module-meta-box-footer.php:23
+msgid "CloudFlare is connected"
+msgstr "CloudFlare সংযুক্ত"
+
+#: admin/views/dashboard/caching/gravatar-module-meta-box.php:20
+msgid "Gravatar caching is currently active."
+msgstr "বর্তমানে গ্র‍্যাভাটার ক‍্যাশিং চালু আছে।"
+
+#: admin/views/dashboard/caching/gravatar-module-meta-box.php:17
+msgid "Store local copies of Gravatars to avoid your visitors loading them on every page load."
+msgstr "গ্রাভাটারের লোকাল কপি স্টোর করুন যাতে আপনার ভিজিটরদের প্রতি পেজ লোডে গ্রাভাটার লোড করতে না হয়।"
+
+#: admin/views/dashboard/caching/module-meta-box.php:43
+#: admin/views/dashboard/caching/cloudflare-module-meta-box.php:42
+#: languages/react.php:189
+#: admin/assets/js/wphb-react-browser-caching.min.js:4176
+msgid "Current expiry"
+msgstr "বর্তমান মেয়াদ"
+
+#: admin/views/caching/page/meta-box.php:508
+msgid "Note: Deactivating won’t lose any of your website data, only the cached pages will be removed and won’t be served to your visitors any longer. Remember this may result in slower page loads unless you have another caching plugin activate."
+msgstr "দ্রষ্টব্য: নিষ্ক্রিয়করণ-এর দ্বারা আপনার ওয়েবসাইট ডেটা হারাবে না, শুধুমাত্র ক্যাশে করা পেইজ গুলো সরিয়ে ফেলা হবে এবং আপনার দর্শনার্থীদের সেগুলো সরবরাহ করা হবে না। মনে রাখবেন, এর কারণে আপনার পেইজ লোড ধীরগতিতে হতে পারে যদি না আপনি অন্য ক্যাশিং প্লাগিন ব্যবহার করে থাকেন।"
+
+#: admin/views/caching/page/meta-box.php:499
+msgid "You can deactivate page caching at any time. "
+msgstr "আপনি যেকোনো সময়ই ক্যাশিং বন্ধ করতে পারেন।"
+
+#: admin/views/caching/page/meta-box.php:467
+msgid "Specify any user agents you don’t want to send cached pages to like bots, spiders and crawlers. We’ve added a couple of common ones for you."
+msgstr "যেসব ইউজার এজেন্টকে আপনি ক‍্যাশ করা পেইজ পাঠাতে চান না তাদেরকে নির্বাচন করুন, যেমন বট, স্পাইডার, ক্রলার ইত‍্যাদি। পরিচিতগুলো আমরা ইতিমধ‍্যে যোগ করে দিয়েছি।"
+
+#: admin/views/caching/page/meta-box.php:465
+msgid "User agents"
+msgstr "ব‍্যবহারকারীর এজেন্টসমূহ"
+
+#: admin/views/caching/page/meta-box.php:435
+msgid "You can tell Hummingbird not to cache specific URLs, or any URLs that contain strings. Add one entry per line."
+msgstr "আপনি Hummingbird কে কোন নির্দিষ্ট URL বা কোন নির্দিষ্ট স্ট্রিং কে ক্যাশ না করতে বলতে পারেন। এক এক লাইনে এক এক টি URL দিন।"
+
+#: admin/views/caching/page/meta-box.php:433
+msgid "URL Strings"
+msgstr "URL স্ট্রিংসমূহ"
+
+#: admin/views/caching/page/meta-box.php:429
+msgid "Specify any particular URLs you don’t want to cache at all."
+msgstr "যে কোন নির্দিষ্ট URL দিতে পারেন যেটা আপনি ক্যাশ করতে চান না।"
+
+#: admin/views/caching/page/meta-box.php:427 languages/react.php:405
+msgid "Exclusions"
+msgstr "বর্জন"
+
+#: admin/views/caching/page/meta-box.php:282
+msgid "Clear full cache when post/page is updated"
+msgstr "যখন পোস্ট বা পেজ আপডেট হয়, ক্যাশ ক্লিয়ার করুন"
+
+#: admin/views/caching/page/meta-box.php:259
+msgid "You can turn on caching pages with GET parameters (?x=y at the end of a url), though generally this isn’t a good idea if those pages are dynamic."
+msgstr "আপনি GET প্যারামিটার সংযুক্ত URL কে ক্যাশ করতে পারেন (?x=y যদি থাকে URL এর শেষে), যদিও এটা ভাল কোন আইডিয়া না যেহেতু এগুলো ডাইনামিক পেজ হয়।"
+
+#: admin/views/caching/page/meta-box.php:256
+msgid "Cache URL queries"
+msgstr "URL কুয়েরীসমূহ ক‍্যাশ করুন"
+
+#: admin/views/caching/page/meta-box.php:243
+msgid "Include logged in users"
+msgstr "লগড ইন ব‍্যবহারকারীদেরকেও অন্তর্ভুক্ত করুন"
+
+#: admin/views/caching/page/meta-box.php:234
+msgid "Fine tune page caching to work how you want it to."
+msgstr "পেজ ক্যাশিং টিউন করুন আপনি যেভাবে ব্যবহার করতে চান।"
+
+#: admin/views/caching/page/meta-box.php:45
+msgid "Page Types"
+msgstr "পেইজের ধরণসমূহ"
+
+#: admin/views/caching/page/subsite-meta-box.php:25
+#: admin/views/caching/page/meta-box.php:34
+#: admin/views/dashboard/caching/page-caching-module-meta-box.php:21
+msgid "Page caching is currently active."
+msgstr "বর্তমানে পেইজ ক‍্যাশিং একটিভ আছে।"
+
+#: admin/views/caching/page/subsite-meta-box.php:19
+#: admin/views/caching/page/meta-box.php:29
+msgid "Hummingbird stores static HTML copies of your pages and posts to decrease page load time."
+msgstr "Hummingbird আপনার পেজগুলোর স্ট্যাটিক HTML কপি সেভ করে রাখে যাতে পেজ লোডিং টাইম কমানো যায়।"
+
+#: admin/views/caching/page/meta-box-header.php:18
+msgid "Clear all locally cached static pages"
+msgstr "স্ট্যাটিক পেজের সকল লোকাল ক্যাশ ডিলিট করুন"
+
+#: admin/views/caching/page/meta-box-footer.php:16
+#: admin/views/caching/meta-box-footer.php:18
+msgid "Save Settings"
+msgstr "সেটিংস সংরক্ষন"
+
+#: admin/views/caching/gravatar/meta-box-header.php:17
+msgid "Clear all locally cached Gravatars"
+msgstr "লোকাল ক্যাশ করা গ্রাভাটার ডিলিট করুন"
+
+#: admin/pages/class-uptime.php:320
+msgid "Last 30 days"
+msgstr "বিগত ৩০ দিন"
+
+#: admin/pages/class-uptime.php:319
+msgid "Last 7 days"
+msgstr "বিগত ৭ দিন"
+
+#: admin/pages/class-uptime.php:318
+msgid "Last 1 day"
+msgstr "বিগত ১ দিন"
+
+#. translators: %d: number of minutes.
+#: admin/views/performance/metrics-meta-box.php:31
+#: admin/views/performance/report-meta-box-header.php:29
+#: admin/views/dashboard/performance/module-meta-box-header.php:28
+msgid "Hummingbird is just catching her breath - you can run another test in %d minute"
+msgid_plural "Hummingbird is just catching her breath - you can run another test in %d minutes"
+msgstr[0] "Hummingbird এখন ব্যস্ত আছে, আপনি আর একবার টেস্ট করতে পারবেন %d মিনিট পর"
+msgstr[1] ""
+
+#: admin/views/performance/report-meta-box-header.php:23
+#: admin/views/performance/report-meta-box-header.php:40
+msgid "New Test"
+msgstr "নতুন পরীক্ষা"
+
+#: admin/pages/class-dashboard.php:688
+#: admin/assets/js/wphb-react-browser-caching.min.js:3958
+msgid "Using CloudFlare?"
+msgstr "CloudFlare ব‍্যবহার করছেন?"
+
+#: admin/pages/class-dashboard.php:688
+#: admin/assets/js/wphb-react-browser-caching.min.js:3960
+msgid "Ahoi, we’ve detected you’re using CloudFlare!"
+msgstr "আমরা দেখতে পাচ্ছি যে আপনি CloudFlare ব‍্যবহার করছেন!"
+
+#: core/class-utils.php:162
+msgid "Page cache purged."
+msgstr "পেইজ ক‍্যাশ মুছে ফেলা হয়েছে।"
+
+#: admin/class-page.php:367
+msgid "View Documentation"
+msgstr "ডকুমেন্টেশন দেখুন"
+
+#: admin/views/uptime/summary-meta-box.php:79
+#: admin/views/dashboard/welcome/meta-box.php:108
+msgid "Website is reported down"
+msgstr "ওয়েবসাইট ডাউন"
+
+#. translators: %s: Link to TechNet
+#: admin/views/caching/browser/configure-meta-box.php:315
+msgid "For IIS 7 servers and above, <a href=\"%s\" target=\"_blank\">visit Microsoft TechNet</a>"
+msgstr "IIS 7 সার্ভার এবং তার উপড়ের ভার্সনের জন্য <a href=\"%s\" target=\"_blank\">Microsoft TechNet দেখুন</a>"
+
+#: admin/pages/class-performance.php:269
+msgid "Performance test"
+msgstr "কর্মক্ষমতা পরীক্ষা"
+
+#: core/modules/class-gravatar.php:154
+msgid "Error fetching Gravatar. Gravatar not found."
+msgstr "গ্রাভাটার আনতে এরর পাওয়া গেছে। গ্রাভাটার পাওয়া যায়নি।"
+
+#: admin/class-notices.php:158
+msgid "Dismiss this notice."
+msgstr "নোটিশটি সরিয়ে ফেলুন।"
+
+#. translators: %s: file
+#: core/class-filesystem.php:502 core/class-filesystem.php:530
+msgid "Error uploading file %s."
+msgstr "%s ফাইল আপলোডে এরর পাওয়া গেছে।"
+
+#. translators: %s: directory
+#: core/class-filesystem.php:489 core/class-filesystem.php:516
+msgid "Error creating directory %s."
+msgstr "%s ফোল্ডার তৈরীতে এরর পাওয়া গেছে।"
+
+#: core/class-filesystem.php:177
+msgid "Error: The wp-content directory is not writable. Ensure the folder has proper read/write permissions for caching to function successfully."
+msgstr "এররঃ wp-content ফোল্ডার এর রাইট পারমিশন নেই। অনুগ্রহ করে নিশ্চিত হন যে এই ফোল্ডারে রিড/রাইট পারমিশন আছে যাতে সফলভাবে ক্যাশ কাজ করতে পারে।"
+
+#: core/class-filesystem.php:168
+msgid "Error: Unexpected error while writing a file. Please view error log for more information."
+msgstr "এররঃ ফাইল তৈরী করতে অপ্রত্যাশিত এরর পাওয়া গেছে। আরো তথ্যের জন্য লগ দেখুন।"
+
+#: admin/views/minification/advanced-files-rows.php:154
+#: admin/modals/bulk-update-modal.php:45
+msgid "Defer"
+msgstr "ডিফার"
+
+#: admin/views/minification/advanced-files-rows.php:155
+msgid "Force load this file after the page has loaded"
+msgstr "এই ফাইলকে বলপূর্বক আপনার পেজ লোডের পরে লোড করুন"
+
+#: admin/views/minification/advanced-files-rows.php:132
+msgid "This file can’t be combined"
+msgstr "এই ফাইলটি কম্বাইন করা যাবে না।"
+
+#: admin/views/dashboard/uptime/module-meta-box.php:35
+msgid "Calculating..."
+msgstr "গণনা করা হচ্ছে ..."
+
+#: admin/views/dashboard/minification/module-meta-box-footer.php:26
+msgid "WPMU DEV CDN is disabled"
+msgstr "WPMU DEV CDN বন্ধ আছে"
+
+#: admin/views/dashboard/minification/module-meta-box-footer.php:26
+msgid "WPMU DEV CDN is active"
+msgstr "WPMU DEV CDN চালু আছে"
+
+#: admin/views/minification/enqueued-files-meta-box.php:157
+#: admin/views/dashboard/minification/module-meta-box.php:44
+msgid "JavaScript"
+msgstr "জাভাস্ক্রিপ্ট"
+
+#: admin/views/caching/gravatar/meta-box.php:29
+msgid "This will deactivate Gravatar Caching and clear your local avatar storage."
+msgstr "এটি গ্রাভাটার ক্যাশিং ডিএক্টিভেট করবে এবং আপনার লোকাল এ্যাভাটার স্টোরেজ খালি করবে।"
+
+#: admin/views/caching/gravatar/meta-box.php:21
+msgid "Gravatar Caching is currently active."
+msgstr "বর্তমানে গ্র‍্যাভাটার ক‍্যাশিং চালু আছে।"
+
+#: admin/views/caching/page/meta-box-header.php:19
+#: admin/views/caching/gravatar/meta-box-header.php:21
+#: admin/views/minification/enqueued-files-meta-box-header.php:32
+#: core/modules/class-page-cache.php:1814 languages/react.php:121
+msgid "Clear cache"
+msgstr "ক‍্যাশ পরিষ্কার করুন"
+
+#: languages/react.php:192
+#: admin/assets/js/wphb-react-browser-caching.min.js:4177
+msgid "Recommended expiry"
+msgstr "সুপারিশকৃত অবসান"
+
+#: languages/react.php:196
+#: admin/assets/js/wphb-react-browser-caching.min.js:4199
+msgid "Made changes?"
+msgstr "পরিবর্তন করা হয়েছে"
+
+#: admin/views/caching/browser/configure-meta-box.php:399
+msgid "Enter email address"
+msgstr "ই-মেইল এড্রেস দিন"
+
+#: admin/views/caching/gravatar/meta-box.php:16
+#: admin/views/caching/gravatar/disabled-meta-box.php:24
+msgid "Gravatar Caching stores local copies of avatars used in comments and in your theme. You can control how often you want the cache purged depending on how your website is set up."
+msgstr "Gravatar Caching কমেন্ট এবং আপনার থিম-এ ব্যবহৃত avatar-এর স্থানীয় কপি সংরক্ষণ করে। আপনার ওয়েবসাইটটি কীভাবে সেট আপ করা হয়েছে তার উপর নির্ভর করে আপনি কতটা ক্যাশে মুছতে চান তা নিয়ন্ত্রণ করতে পারেন।"
+
+#: admin/views/caching/browser/configure-meta-box.php:398
+msgid "Cloudflare account email"
+msgstr "ক্লাউডফ্লেয়ার একাউন্টের ই-মেইল"
+
+#: languages/react.php:255
+msgid "If .htaccess does not work, and you have access to vhosts.conf or httpd.conf try this:"
+msgstr "যদি .htaccess কাজ না করে এবং আপনার vhosts.conf বা httpd.conf এ এক্সেস থাকে, তবে এটা চেষ্টা করুনঃ"
+
+#: admin/views/caching/browser/configure-meta-box.php:216
+#: admin/views/minification/enqueued-files-meta-box.php:49
+#: admin/modals/automatic-ao-how-does-it-work-modal.php:44
+#: admin/modals/manual-ao-how-does-it-work-modal.php:44 languages/react.php:228
+msgid "Manual"
+msgstr "ম‍্যানুয়াল"
+
+#: admin/views/caching/settings/meta-box.php:72
+#: admin/views/caching/browser/configure-meta-box.php:215
+#: admin/views/minification/enqueued-files-meta-box.php:45
+#: admin/modals/automatic-ao-how-does-it-work-modal.php:39
+#: admin/modals/manual-ao-how-does-it-work-modal.php:39 languages/react.php:224
+msgid "Automatic"
+msgstr "স্বয়ংক্রিয়"
+
+#: admin/views/caching/browser/configure-meta-box-header.php:22
+msgid "Connect account"
+msgstr "একাউন্ট সংযুক্ত করুন"
+
+#: admin/views/caching/browser/configure-meta-box-header.php:20
+msgid "Using Cloudflare?"
+msgstr "Cloudflare ব‍্যবহার করছেন?"
+
+#: admin/pages/class-caching.php:132 admin/pages/class-caching.php:141
+#: admin/pages/class-caching.php:295 admin/pages/class-caching.php:633
+#: admin/pages/class-dashboard.php:356
+#: admin/views/dashboard/welcome/subsite-meta-box.php:72
+msgid "Page Caching"
+msgstr "পেইজ ক‍্যাশিং"
+
+#: core/class-utils.php:161
+msgid "Gravatar cache purged."
+msgstr "গ‍্র‍্যাভাটার ক‍্যাশ পরিষ্কার করা হয়েছে।"
+
+#: admin/pages/class-caching.php:173 admin/pages/class-caching.php:182
+#: admin/pages/class-caching.php:297 admin/pages/class-dashboard.php:398
+#: admin/views/caching/summary-meta-box.php:97
+msgid "Gravatar Caching"
+msgstr "গ‍্র‍্যাভাটার ক‍্যাশিং"
+
+#: admin/class-admin.php:225 admin/class-admin.php:265
+msgid "Gzip Compression"
+msgstr "Gzip সংকোচন"
+
+#: admin/class-admin.php:170 admin/class-notices.php:471
+msgid "Rate Hummingbird"
+msgstr "Hummingbird কে রেটিং দিন"
+
+#: core/modules/minify/class-minify-group.php:917
+msgid "This file has not a linked URL, it will not be combined/minified"
+msgstr "এই ফাইলের কোন লিঙ্ক করা URL নেই, এটা কম্বাইন বা মিনিফাই করা যাবে না"
+
+#: admin/views/performance/summary-meta-box.php:62
+#: admin/views/dashboard/welcome/subsite-meta-box.php:60
+#: admin/views/dashboard/welcome/meta-box.php:63
+msgid "Running scan..."
+msgstr "স্ক‍্যান চালানো হচ্ছে..."
+
+#: admin/class-notices.php:443
+msgid "We noticed you’re running both the free and pro versions of Hummingbird. No biggie! We’ve deactivated the free version for you. Enjoy the pro features!"
+msgstr "আমরা খেয়ার করেছি যে আপনি Hummingbird এর ফ্রি এবং প্রো দু'টো ভার্সনই ব‍্যবহার করছেন। ব‍্যাপার না! আমরা আপনার ফ্রি ভার্সনটি নিষ্ক্রিয় করে দিয়েছি। প্রো ভার্সনের বৈশিষ্টাবলী উপভোগ করুন!"
+
+#. translators: %s: Upgrade URL
+#: admin/class-notices.php:418
+msgid "Awww yeah! You’ve got access to Hummingbird Pro! Let’s upgrade your free version so you can start using premium features. <a href=\"%s\">Upgrade</a>"
+msgstr "অসাধারন! আপনি Hummingbird এর প্রো ভার্সনের একসেস পেয়েছেন! চলুন আপনার ফ্রি ভার্সনটি আপগ্রেড করি যাতে করে আপনি প্রিমিয়াম ফিচারগুলো ব‍্যবহার করতে পারেন। <a href=\"%s\">আপগ্রেড</a>"
+
+#: core/modules/minify/class-minify-group.php:930
+msgid "This file included in your output can't be minified or combined"
+msgstr "আপনার আউটপুটে এই ফাইলটি মিনিফাই বা কম্বাইন করা যাচ্ছে না"
+
+#: admin/views/uptime/summary-meta-box.php:70
+msgid "Up Since"
+msgstr "এই থেকে চালু আছে"
+
+#: admin/views/uptime/summary-meta-box.php:55
+#: admin/views/uptime/summary-meta-box.php:65
+#: admin/views/performance/audits/uses-long-cache-ttl.php:66
+#: admin/views/caching/settings/meta-box.php:90
+msgid "None"
+msgstr "কিছুই না"
+
+#: admin/views/uptime/summary-meta-box.php:44
+msgid "Average server response time during the reporting period"
+msgstr "রিপোর্টিং পিরিয়ডে গড় সার্ভার রেসপন্স টাইম"
+
+#: admin/views/uptime/meta-box.php:57
+msgid ""
+"Server response time is the amount of time it takes for a web server to\n"
+"\t\trespond to a request from a browser. The longer it takes, the longer your visitors wait for the page\n"
+"\t\tto start loading."
+msgstr "ব্রাউজার থেকে অনুরোধ যাবার পর আপনার ওয়েব সার্ভার সাড়া দিতে যতক্ষন সময় নেয় সেটাই সার্ভার রেসপন্স টাইম। এটি যত বেশী সময় নিবে, আপনার সাইটের ভিজিটরদের তত বেশী সময় সাইট লোড হবার জন‍্য অপেক্ষা করতে হবে।"
+
+#: admin/views/uptime/meta-box.php:45
+msgid ""
+"Uptime monitors your server response time and lets you know when your website is down<br>\n"
+"\t\t\tor too slow for your visitors. This service is currently under maintenance as we build a<br>\n"
+"\t\t\tbrand new monitoring service. Check back soon!"
+msgstr "আপটাইম আপনার সার্ভারের রেসপন্স টাইম পর্যবেক্ষন করে এবং আপনার সাইট যদি বন্ধ হয়ে যায় কিংবা<br> খুব ধীর গতির হয়ে যায় তাহলে সেটা আপনাকে জানায়। এই সার্ভিসটি বর্তমানে বন্ধ আছে কারন আমরা সম্পূর্ণ <br> নতুন একটি পর্যবেক্ষন সার্ভিস বানাচ্ছি। কিছু সময় পর আবার চেক করে দেখুন!"
+
+#: admin/views/performance/settings-meta-box-footer.php:11
+msgid "Update Settings"
+msgstr "সেটিংস আপডেট করুন"
+
+#: admin/views/settings/data-meta-box.php:62 core/class-utils.php:153
+msgid "Remove"
+msgstr "সরিয়ে ফেলুন"
+
+#: core/class-utils.php:154
+msgid "You"
+msgstr "আপনি"
+
+#: admin/pages/class-advanced.php:117
+msgid "Schedule"
+msgstr "পরিকল্পনা"
+
+#: admin/views/performance/metrics/speed-index.php:34
+#: admin/views/performance/metrics/interactive.php:43
+#: admin/views/performance/metrics/first-cpu-idle.php:34
+#: admin/views/performance/metrics/first-contentful-paint.php:34
+#: admin/views/performance/metrics/first-meaningful-paint.php:34
+msgid "Recommendations"
+msgstr "সুপারিশ"
+
+#: admin/modals/check-performance-onboard-modal.php:45
+#: admin/modals/tracking-modal.php:51
+msgid "Welcome to Hummingbird, the hottest Performance plugin for WordPress! We recommend running a quick performance test before you start tweaking things. Alternatively you can skip this step if you’d prefer to start customizing."
+msgstr "ওয়ার্ডপ্রেস জন্য হটেস্ট পারফরম্যান্স প্লাগইন হুমিংবার্ডে স্বাগতম! কাজ শুরুর আগে আমরা একটি দ্রুত পারফর্মেন্স পরীক্ষা চালানোর সুপারিশ করি। বিকল্প হিসাবে আপনি এই ধাপটি এড়িয়ে যেতে পারেন যদি আপনি কাস্টমাইজ করা শুরু করতে চান।"
+
+#: admin/modals/membership-modal.php:54
+msgid "Get all of this, plus heaps more as part of a WPMU DEV membership."
+msgstr "WPMU DEV এর মেম্বারশীপের অংশ হিসেবে এর সব পেতে পারেন।"
+
+#: admin/modals/membership-modal.php:48
+msgid "Smush Pro"
+msgstr "Smush Pro"
+
+#: admin/modals/membership-modal.php:41
+msgid "Compress your minified files up to 2x more than regular optimization and reduce your page load time even further."
+msgstr "আপনার মিনিফাই করা ফাইলগুলো দ্বিগুণ মিনিফাই করুন এবং আপনার পেজ লোড স্পীড আরো ভাল করুন।"
+
+#: admin/modals/membership-modal.php:37
+msgid "Schedule Hummingbird to run regular performance tests daily, weekly or monthly and get email reports delivered straight to your inbox."
+msgstr "Hummingbird শিডিউল করুন যাতে নিয়মিত দৈনিক বা সাপ্তাহিক বা মাসিক পারফর্ম্যান্স টেস্ট এবং সাথে সাথেই আপনার ইনবক্সে রিপোর্ট পেয়ে যানে।"
+
+#: admin/modals/membership-modal.php:36
+msgid "Automation"
+msgstr "স্বয়ংক্রিয়তা"
+
+#: admin/modals/membership-modal.php:31
+msgid "Here's what you'll get by upgrading to Hummingbird Pro."
+msgstr "Hummingbird প্রো ভার্সনে আপগ্রেড করলে আপনি যা যা পাবেন।"
+
+#: admin/modals/membership-modal.php:49
+msgid "A membership for Hummingbird Pro also gets you the award winning Smush Pro with unlimited advanced lossy compression that’ll give image heavy websites a speed boost."
+msgstr "Hummingbird এর প্রো মেম্বারশীপের সাথে আপনি আরো পাচ্ছেন পুরষ্কার বিজয়ী Smush প্রো যা দিয়ে আপনি আপনার সাইটের ছবিগুলো অসংখ‍্য এডভান্সড লসি সংকোচন করতে পারবেন এবং আপনার সাইটে যদি প্রচুর ছবি থাকে, তাহলে এটি আপনার সাইটকে দুর্দান্ত গতি দিবে।"
+
+#: admin/modals/membership-modal.php:45
+msgid "By default we minify your files via our API and send them back to your server. Pro users can host their files on WPMU DEV’s secure and hyper fast CDN, which will mean less load on your server and a fast visitor experience."
+msgstr "ডিফল্টরূপে আমরা আপনার ফাইলগুলিকে আমাদের API এর মাধ্যমে মিনিফাই করে দিই এবং সেগুলি আপনার সার্ভারে ফেরত পাঠাই। প্রো ব্যবহারকারীরা তাদের ফাইলগুলিকে WPMU DEV এর নিরাপদ এবং অতি দ্রুত CDN এ হোস্ট করতে পারে, যার মানে আপনার সার্ভার-এর লোড কমে যাবে এবং ভিসিটর-এরা একটি দ্রুত অভিজ্ঞতা পাবে।"
+
+#: admin/views/minification/settings-meta-box.php:100
+msgid "Host my files on the WPMU DEV CDN"
+msgstr "আমার ফাইলগুলো WPMU DEV CDN এ সংরক্ষন করুন"
+
+#: admin/modals/bulk-update-modal.php:63
+msgid "Apply"
+msgstr "প্রয়োগ করুন"
+
+#: admin/modals/clear-cache-network-wide-modal.php:44
+#: admin/modals/clear-cache-network-wide-modal.php:82
+#: admin/modals/clear-cache-modal.php:74
+#: admin/modals/add-recipient-modal.php:47
+#: admin/modals/bulk-update-modal.php:59
+#: admin/modals/dismiss-report-modal.php:35
+#: admin/modals/database-cleanup-modal.php:34
+#: admin/modals/site-health-orphaned-modal.php:78
+#: admin/modals/site-health-orphaned-modal.php:91
+#: admin/modals/reset-settings-modal.php:36
+msgid "Cancel"
+msgstr "বাতিল"
+
+#: admin/views/minification/summary-meta-box.php:62
+#: admin/views/dashboard/minification/network-module-meta-box.php:39
+#: admin/modals/membership-modal.php:44
+msgid "WPMU DEV CDN"
+msgstr "WPMU DEV CDN"
+
+#: admin/views/minification/advanced-files-rows.php:112
+msgid "This file type cannot be compressed and will be left alone"
+msgstr "এই ধরনের ফাইল সংকোচিত করা যাবে না এবং যেভাবে আছে সেভাবেই রেখে দেয়া হবে"
+
+#: admin/views/minification/enqueued-files-meta-box.php:125
+#: admin/views/minification/enqueued-files-meta-box.php:126
+msgid "Search by name or extension"
+msgstr "নাম অথবা এক্সটেনশনের মাধ‍্যমে খুঁজুন"
+
+#: admin/views/minification/enqueued-files-meta-box.php:114
+msgid "Choose Plugin or Theme"
+msgstr "প্লাগিন অথবা থিম নির্বাচন করুন"
+
+#: admin/views/minification/enqueued-files-meta-box-header.php:21
+msgid "Not seeing all your files in this list?"
+msgstr "লিষ্টে আপনার সব ফাইল দেখতে পাচ্ছেন না?"
+
+#: admin/views/minification/settings-meta-box.php:167
+#: admin/views/minification/network-settings-meta-box.php:121
+msgid "WP Smush free installed"
+msgstr "WP Smush ফ্রি ইন্সটল করা আছে"
+
+#: admin/views/minification/settings-meta-box.php:60
+msgid "Auto-enabled"
+msgstr "অটো-এনাবল করা হয়েছে"
+
+#: admin/views/wphb-page.php:93
+msgid "Try pro features for free!"
+msgstr "প্রো ফিচারগুলো ফ্রীতে চেষ্টা করুন!"
+
+#: admin/views/dashboard/welcome/meta-box.php:105
+msgid "Uptime Inactive"
+msgstr "আপটাইম বন্ধ আছে"
+
+#: admin/views/dashboard/minification/network-module-meta-box.php:45
+msgid "Pro Feature"
+msgstr "প্রো ফিচার"
+
+#: admin/views/performance/summary-meta-box.php:64
+#: admin/views/dashboard/welcome/subsite-meta-box.php:62
+#: admin/views/dashboard/welcome/meta-box.php:65
+msgid "Never"
+msgstr "কখনোই না"
+
+#: admin/views/dashboard/uptime/module-meta-box-footer.php:22
+msgid "Downtime notifications are enabled"
+msgstr "ডাউনটাইম নোটিফিকেশন চালু করা হয়েছে"
+
+#: admin/views/dashboard/uptime/module-meta-box-footer.php:18
+msgid "View stats"
+msgstr "পরিসংখ্যান দেখুন"
+
+#: admin/views/dashboard/uptime/module-meta-box.php:21
+msgid "Availability"
+msgstr "লভ্যতা"
+
+#: admin/views/dashboard/uptime/module-meta-box.php:17
+msgid "Your website is currently up and humming."
+msgstr "আপনার ওয়েবসাইট বর্তমানে চালু আছে এবং দারুন চলছে।"
+
+#: admin/views/dashboard/uptime/module-meta-box.php:15
+#: admin/views/dashboard/uptime/no-membership-meta-box.php:14
+#: admin/views/dashboard/uptime/disabled-meta-box.php:15
+msgid "Monitor your website and get notified if/when it’s inaccessible. We’ll also watch your server response time."
+msgstr "আপনার ওয়েবসাইট পর্যবেক্ষন করুন এবং যখন এটি একসেস করা যাবে না তখন অবহিত হোন। আমরা আপনার সার্ভার রেসপন্স টাইমের দিকেও খেয়াল রাখবো।"
+
+#: admin/views/performance/audits/offscreen-images.php:102
+#: admin/views/performance/audits/uses-webp-images.php:102
+#: admin/views/performance/audits/uses-responsive-images.php:105
+#: admin/views/performance/audits/uses-optimized-images.php:109
+#: admin/views/performance/audits/total-byte-weight.php:116
+#: admin/views/dashboard/smush/meta-box.php:52
+msgid "Activate Smush"
+msgstr "Smush সক্রিয় করুন"
+
+#: admin/views/dashboard/smush/meta-box.php:42
+msgid "WP Smush is installed but not activated! Activate and set up now to reduce page load time."
+msgstr "WP Smush ইন্সটল করা আছে, কিন্তু এক্টিভেট হয়নি। পেজ লোড টাইম কমানোর জন্য এখনি এক্টিভেট করুন আর কনফিগার করুন।"
+
+#: admin/views/performance/audits/offscreen-images.php:106
+#: admin/views/performance/audits/uses-webp-images.php:106
+#: admin/views/performance/audits/uses-responsive-images.php:109
+#: admin/views/performance/audits/uses-optimized-images.php:113
+#: admin/views/performance/audits/total-byte-weight.php:120
+#: admin/views/dashboard/smush/meta-box.php:33
+msgid "Install Smush"
+msgstr "Smush ইন্সটল করুন"
+
+#: admin/views/dashboard/smush/meta-box.php:23
+msgid "Automatically compress and optimize your images with our super popular Smush plugin."
+msgstr "আমাদের সুপার পপুলার স্ম্যাশ প্লাগিন দিয়ে আপনার ছবিগুলো অটোমেটিক কমপ্রেস এবং অপটিমাইজ করুন।"
+
+#: admin/views/uptime/no-membership-meta-box.php:28
+#: admin/views/performance/reporting-meta-box-header.php:25
+#: admin/views/advanced/db-settings-meta-box-header.php:22
+#: admin/views/dashboard/smush/meta-box-header.php:19
+msgid "Upgrade to Pro"
+msgstr "প্রো ভার্সনে আপগ্রেড করুন"
+
+#: admin/views/performance/reporting-meta-box-header.php:17
+#: admin/views/caching/page/meta-box.php:326
+#: admin/views/minification/summary-meta-box.php:64
+#: admin/views/dashboard/reports/meta-box-header.php:18
+#: admin/views/dashboard/uptime/module-meta-box-header.php:18
+#: admin/views/dashboard/welcome/upsell-meta-box-header.php:19
+msgid "Pro"
+msgstr "প্রো"
+
+#: admin/views/caching/summary-meta-box.php:52
+#: admin/views/caching/summary-meta-box.php:102
+#: admin/views/dashboard/reports/no-membership-meta-box.php:29
+#: admin/views/dashboard/reports/no-membership-meta-box.php:38
+#: admin/views/dashboard/reports/no-membership-meta-box.php:47
+#: admin/views/dashboard/welcome/subsite-meta-box.php:75
+#: admin/views/dashboard/welcome/subsite-meta-box.php:83
+#: admin/views/dashboard/gzip/module-meta-box.php:38 languages/react.php:326
+msgid "Inactive"
+msgstr "বন্ধ করুন"
+
+#: admin/class-admin.php:211 admin/class-admin.php:263
+#: admin/pages/class-dashboard.php:1137
+#: admin/views/dashboard/reports/no-membership-meta-box.php:26
+msgid "Performance Test"
+msgstr "পারফর্ম্যান্স টেস্ট"
+
+#: admin/views/minification/settings-meta-box-header.php:19
+#: admin/views/dashboard/reports/meta-box-header.php:23
+#: admin/views/dashboard/uptime/module-meta-box-header.php:23
+#: admin/modals/membership-modal.php:25 admin/modals/membership-modal.php:60
+msgid "Upgrade to PRO"
+msgstr "প্রোতে আপগ্রেড করুন"
+
+#: admin/modals/check-performance-modal.php:32
+msgid "Hummingbird is running a test to measure your website performance, please wait."
+msgstr "Hummingbird আপনার সাইটের পারফর্ম্যান্সের টেস্ট চালাচ্ছে, অনুগ্রহ করে অপেক্ষা করুন।"
+
+#: admin/views/dashboard/performance/module-meta-box-footer.php:27
+msgid "View Full Report"
+msgstr "সম্পূর্ন রিপোর্ট দেখুন"
+
+#: admin/views/dashboard/minification/module-meta-box.php:20
+#: admin/views/dashboard/minification/disabled-meta-box.php:15
+msgid "Compress, combine and position your assets to dramatically improve your page load speed."
+msgstr "আপনার পেজ লোড স্পীড বাড়ানোর জন্য আপনার ফাইলগুলো কমপ্রেস, কম্বাইন এবং সাজিয়ে ফেলুন।"
+
+#: admin/views/uptime/disabled-meta-box.php:31
+#: admin/views/caching/page/disabled-meta-box.php:30
+#: admin/views/caching/browser/configure-meta-box.php:243
+#: admin/views/caching/gravatar/disabled-meta-box.php:28
+#: admin/views/minification/empty-files-meta-box.php:34
+#: admin/views/dashboard/uptime/disabled-meta-box.php:18
+#: admin/views/dashboard/caching/gravatar-module-meta-box.php:26
+#: admin/views/dashboard/caching/page-caching-module-meta-box.php:24
+#: admin/views/dashboard/minification/disabled-meta-box.php:18
+msgid "Activate"
+msgstr "সক্রিয় করুন"
+
+#: admin/views/dashboard/gzip/module-meta-box.php:16
+msgid "Gzip compresses your webpages and style sheets before sending them over to the browser."
+msgstr "Gzip আপনার পেজ এবং স্টাইলসীট ব্রাউজারে পাঠানোর আগে কমপ্রেস করবে।"
+
+#: admin/views/caching/browser/configure-meta-box.php:426
+msgid "It appears you have no active zones available. Double check your domain has been added to Cloudflare and try again."
+msgstr "মনে হচ্ছে, আপনার কোন একটিভ জোন নেই। দয়া করে নিশ্চিত করুন যে আপনার ডোমেইন ক্লাউডফ্লেয়ারে যোগ করা হয়েছে এবং এরপর আবার চেষ্টা করুন।"
+
+#: admin/views/caching/browser/configure-meta-box.php:404
+msgid "Enter your 37 digit API key"
+msgstr "আপনার ৩৭ অক্ষরের API কী লিখুন"
+
+#: admin/pages/class-uptime.php:115 admin/pages/class-uptime.php:146
+#: admin/views/uptime/meta-box.php:80
+msgid "Response Time"
+msgstr "রেসপন্স টাইম"
+
+#: admin/pages/class-uptime.php:258
+msgid "Reporting period"
+msgstr "প্রতিবেদনের সময়কাল"
+
+#: admin/pages/class-minification.php:330 admin/pages/class-uptime.php:65
+msgid "Get Started"
+msgstr "শুরু করুন"
+
+#: core/api/class-hub.php:226
+msgid "Monthly"
+msgstr "মাসিক"
+
+#: core/api/class-hub.php:223
+msgid "Weekly"
+msgstr "সাপ্তাহিক"
+
+#: core/api/class-hub.php:219
+msgid "Daily"
+msgstr "দৈনিক"
+
+#: admin/pages/class-dashboard.php:552 admin/pages/class-dashboard.php:1254
+msgid "Reports"
+msgstr "রিপোর্টগুলো"
+
+#: admin/pages/class-performance.php:181 admin/pages/class-performance.php:382
+#: admin/pages/class-uptime.php:149
+msgid "Reporting"
+msgstr "রিপোর্ট করা হচ্ছে"
+
+#: admin/pages/class-dashboard.php:185 admin/class-notices.php:520
+#: admin/views/caching/integrations/meta-box.php:136
+#: admin/views/caching/integrations/meta-box.php:141
+#: admin/views/caching/browser/configure-meta-box.php:493
+#: admin/modals/clear-cache-modal.php:47
+msgid "Clear Cache"
+msgstr "ক্যাশ ক্লিয়ার করুন"
+
+#: admin/pages/class-minification.php:195 admin/pages/class-dashboard.php:161
+msgid "Your local and Cloudflare caches have been successfully cleared. Your assets will regenerate the next time someone visits your website."
+msgstr "আপনার লোকাল এবং ক্লাউডফ্লেয়ার ক্যাশ সফলভাবে ডিলিট হয়েছে। আপনার ফাইলগুলো আবার তৈরী হবে যখন কেউ আপনার সাইটে আবার প্রবেশ করবে।"
+
+#: admin/pages/class-minification.php:191 admin/pages/class-dashboard.php:157
+#: languages/react.php:136
+msgid "Your cache has been successfully cleared. Your assets will regenerate the next time someone visits your website."
+msgstr "আপনার ক্যাশ সফলভাবে ডিলিট হয়েছে। আপনার ফাইলগুলো আবার তৈরী হবে যখন কেউ আপনার সাইটে আবার প্রবেশ করবে।"
+
+#: core/class-utils.php:840
+msgid "CloudFlare"
+msgstr "CloudFlare"
+
+#: core/class-utils.php:165 languages/react.php:11
+msgid "Cloudflare cache successfully purged. Please wait 30 seconds for the purge to complete."
+msgstr "ক্লাউডফ্লেয়ার ক্যাশ পার্জ করা হয়েছে। অনুগ্রহ করে ৩০ সেকন্ড অপেক্ষার করুন।"
+
+#. translators: %s - icon
+#: admin/class-page.php:415
+msgid "Made with %s by WPMU DEV"
+msgstr "WPMU DEV এর %s দিয়ে তৈরী"
+
+#: core/modules/minify/class-minify-group.php:1073
+msgid "Minify callback does not exist"
+msgstr "মিনিফাই কলব‍্যাক নেই"
+
+#: core/modules/minify/class-minify-group.php:1035
+msgid "Hummingbird could not parse the content of this file"
+msgstr "Hummingbird এই ফাইলের কনটেন্ট পড়তে পারে নি"
+
+#: core/modules/minify/class-minify-group.php:1019
+msgid "@import directive is not allowed in stylesheets"
+msgstr "স্টাইলশীটের মধ‍্যে @import ডিরেক্টিভ অনুমোদিত নয়"
+
+#: core/modules/minify/class-minify-group.php:981
+msgid "It looks like this file is empty"
+msgstr "দেখে মনে হচ্ছে ফাইলটি খালি"
+
+#: admin/views/minification/enqueued-files-meta-box.php:115
+msgid "Others"
+msgstr "অন্যান্য"
+
+#. translators: %d: Time left before another retry.
+#: admin/views/minification/enqueued-files-meta-box.php:60
+msgid "It seems that we are having problems in our servers. Asset optimization will be turned off for %d minutes"
+msgstr "মনে হচ্ছে আমাদের সার্ভারে কোন সমস‍্যা হয়েছে। %d মিনিটের জন‍্য এসেট অপটিমাইজেশন বন্ধ থাকবে।"
+
+#: core/modules/class-minify.php:1435 core/class-utils.php:171
+msgid "Settings updated"
+msgstr "সেটিংস আপডেট করা হয়েছে"
+
+#: admin/views/minification/summary-meta-box.php:69
+#: admin/views/minification/settings-meta-box.php:81
+msgid "Enable WPMU DEV CDN"
+msgstr "WPMU DEV CDN চালু করুন"
+
+#: admin/modals/check-files-modal.php:74
+msgid "Store my files on the WPMU DEV CDN"
+msgstr "আমার ফাইলসমূহ WPMU DEV CDN এ সংরক্ষন করুন"
+
+#: admin/views/caching/browser/configure-meta-box.php:409
+msgctxt "Connect to Cloudflare button text"
+msgid "Connect"
+msgstr "সংযুক্ত করুন"
+
+#: core/modules/class-cloudflare.php:549
+msgid "8 hours"
+msgstr "৮ ঘন্টা"
+
+#: core/modules/class-cloudflare.php:545
+msgid "2 hours"
+msgstr "২ ঘন্টা"
+
+#: core/modules/class-cloudflare.php:453
+msgid "Invalid Cloudflare expiration value"
+msgstr "অকার্যকর Cloudflare উত্তীর্ণ মান"
+
+#: core/class-core.php:187
+msgid "See this page unminified"
+msgstr "এই পেইজটি মিনিফাই না করা অবস্থায় দেখুন "
+
+#: core/class-core.php:187
+msgid "See this page minified"
+msgstr "এই পেইজটি মিনিফাই করা অবস্থায় দেখুন"
+
+#: languages/react.php:26
+msgid "Cloudflare"
+msgstr "Cloudflare"
+
+#: core/api/request/class-cloudflare.php:78
+msgid "Cloudflare unknown error"
+msgstr "Cloudflare অজানা সমস‍্যা"
+
+#. translators: %s: cloudflare error
+#: core/api/request/class-cloudflare.php:66
+msgid "Cloudflare error: %s"
+msgstr "Cloudflare সমস‍্যা: %s"
+
+#: admin/views/caching/browser/configure-meta-box.php:453
+msgid "Enable Cloudflare"
+msgstr "Cloudflare চালু করুন"
+
+#: admin/views/caching/browser/configure-meta-box.php:413
+msgid "<a target=\"_blank\" href=\"%s\">Log in</a> to your Cloudflare account."
+msgstr "আপনার Cloudflare একাউন্টে <a target=\"_blank\" href=\"%s\">লগিন</a> করুন।"
+
+#: admin/views/caching/browser/configure-meta-box.php:408
+msgid "Need help getting your API Key?"
+msgstr "আপনার API কী খুঁজে পেতে সাহায‍্য দরকার?"
+
+#: admin/views/caching/browser/configure-meta-box.php:403
+msgid "Cloudflare Global API Key"
+msgstr "Cloudflare গ্লোবাল API কী"
+
+#: admin/views/uptime/settings-meta-box.php:15
+#: admin/views/uptime/settings-meta-box.php:22
+#: admin/views/caching/page/subsite-meta-box.php:58
+#: admin/views/caching/page/subsite-meta-box.php:66
+#: admin/views/caching/page/meta-box.php:497
+#: admin/views/caching/page/meta-box.php:505
+#: admin/views/caching/browser/configure-meta-box.php:239
+#: admin/views/caching/browser/configure-meta-box.php:474
+#: admin/views/caching/browser/configure-meta-box.php:490
+#: admin/views/caching/gravatar/meta-box.php:27
+#: admin/views/caching/gravatar/meta-box.php:35
+#: admin/views/minification/settings-meta-box.php:238
+#: admin/views/minification/settings-meta-box.php:245 languages/react.php:103
+msgid "Deactivate"
+msgstr "নিষ্ক্রিয় করুন"
+
+#: admin/class-ajax.php:1107
+msgid "The selected zone is not valid"
+msgstr "নির্বাচিত জোন টি ভ‍্যালিড নয়"
+
+#: admin/class-ajax.php:1082
+msgid "Please, select a Cloudflare zone. Normally, this is your website"
+msgstr "অনুগ্রহ করে ক্লাউডফ্লেয়ার জোন নির্বাচিত করুন। সাধারণত এটা আপনার ওয়েবসাইট।"
+
+#: admin/views/performance/empty-meta-box.php:29
+msgid "Test my website"
+msgstr "আমার ওয়েবসাইট পরীক্ষা করুন"
+
+#: core/class-utils.php:219
+msgid "Are you sure? All your changes will be lost"
+msgstr "আপনি কি নিশ্চিত? আপনার সব পরিবর্তন হারিয়ে যাবে"
+
+#: admin/views/minification/enqueued-files-meta-box.php:72
+#: admin/modals/bulk-update-modal.php:22
+msgid "Bulk Update"
+msgstr "গণ আপডেট"
+
+#: admin/views/minification/enqueued-files-meta-box.php:110
+msgid "Filter plugin or theme"
+msgstr "প্লাগিন অথবা থিম ফিল্টার করুন"
+
+#: admin/views/caching/browser/configure-meta-box.php:188
+#: admin/views/settings/accessibility-meta-box-footer.php:17
+msgid "Save Changes"
+msgstr "পরিবর্তনসমূহ সংরক্ষন করুন"
+
+#: admin/views/dashboard/smush/meta-box.php:61
+msgid "WP Smush is installed but no images have been smushed yet. Get in there and smush away!"
+msgstr "WP Smush ইন্সটল করা হয়েছে কিন্তু এখনো কোন ছবি স্ম্যাশ হয়নি। এখনি স্ম্যাশ করুন।"
+
+#: core/api/service/class-uptime.php:111 core/api/service/class-uptime.php:132
+msgid "Unknown Error"
+msgstr "অজানা সমস‍্যা"
+
+#. translators: %s: error code
+#: core/api/request/class-wpmudev.php:135
+msgid "Unknown Error. Code: %s"
+msgstr "অজানা সমস‍্যা। কোড: %s"
+
+#: admin/views/dashboard/minification/network-module-meta-box.php:69
+msgid "Please, activate minification first. A new menu will appear in every site on your Network."
+msgstr "অনুগ্রহ করে প্রথমে মিনিফিকেশন সক্রিয় করুন। এরপর আপনার নেটওয়ার্কের প্রতিটি সাইটে একটি নতুন মেনু যোগ হবে।"
+
+#: admin/views/caching/browser/configure-meta-box.php:226
+#: admin/views/caching/browser/configure-meta-box.php:277
+#: admin/views/caching/browser/configure-meta-box.php:303
+#: admin/views/caching/browser/configure-meta-box.php:325
+msgid "Your browser caching is already enabled and working well"
+msgstr "আপনার সাইটের ব্রাউজার ক‍্যাশিং চালু আছে এবং দারুনভাবে কাজ করছে"
+
+#: admin/class-admin.php:148 admin/class-admin.php:243
+#: admin/class-admin.php:269 admin/pages/class-performance.php:182
+#: admin/pages/class-performance.php:396 admin/pages/class-minification.php:159
+#: admin/pages/class-minification.php:313
+#: admin/pages/class-minification.php:396 admin/pages/class-uptime.php:133
+#: admin/pages/class-uptime.php:150 admin/pages/class-caching.php:224
+#: admin/pages/class-caching.php:300 admin/views/caching/page/meta-box.php:232
+#: admin/views/settings/data-meta-box.php:31
+msgid "Settings"
+msgstr "সেটিংস"
+
+#. Author of the plugin
+msgid "WPMU DEV"
+msgstr "WPMU DEV"
+
+#. Description of the plugin
+msgid "Hummingbird zips through your site finding new ways to make it load faster, from file compression and minification to browser caching – because when it comes to pagespeed, every millisecond counts."
+msgstr "হামিংবার্ড আপনার সাইট zip করতে করতে এটিকে দ্রুত লোড করার উপায় বের করে,  ফাইল কমপ্রেশন থেকে শুরু করে মিনিফিকেশন হয়ে ব্রাউজার ক্যাশিং পর্যন্ত - কারণ যখন কথা পেইজ স্পিড-এর, তখন প্রতিটি মিলিসেকেন্ড গুরুত্বপূর্ণ। "
+
+#. translators: %d: second
+#: core/class-utils.php:570
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d সেকেন্ড"
+msgstr[1] "%d সেকেন্ড"
+
+#. translators: %d: minute
+#: core/class-utils.php:567
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "%d মিনিট"
+msgstr[1] "%d মিনিট"
+
+#. translators: %d: hour
+#: core/class-utils.php:564
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "%d ঘন্টা"
+msgstr[1] "%d ঘন্টা"
+
+#. translators: %d: day
+#: core/class-utils.php:561
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "%d দিন"
+msgstr[1] "%d দিন"
+
+#. translators: %d: month
+#: core/class-utils.php:558
+msgid "%d month"
+msgid_plural "%d months"
+msgstr[0] "%d মাস"
+msgstr[1] "%d মাস"
+
+#. translators: %d: year
+#: core/class-utils.php:555
+msgid "%d year"
+msgid_plural "%d years"
+msgstr[0] "%d বছর"
+msgstr[1] "%d বছর"
+
+#: core/modules/class-cloudflare.php:564 core/modules/class-caching.php:331
+#: core/modules/class-caching.php:343 core/modules/class-caching.php:347
+#: core/modules/class-caching.php:351 core/modules/class-caching.php:355
+msgid "1 year"
+msgstr "১ বছর"
+
+#: core/modules/class-cloudflare.php:563 core/modules/class-caching.php:330
+msgid "6 months"
+msgstr "৬ মাস"
+
+#: core/modules/class-caching.php:329
+msgid "3 months"
+msgstr "৩ মাস"
+
+#: core/modules/class-cloudflare.php:562 core/modules/class-caching.php:328
+msgid "2 months"
+msgstr "২ মাস"
+
+#: core/modules/class-cloudflare.php:561 core/modules/class-caching.php:327
+msgid "1 month"
+msgstr "১ মাস"
+
+#: core/modules/class-cloudflare.php:560 core/modules/class-caching.php:326
+msgid "24 days"
+msgstr "২৪ দিন"
+
+#: core/modules/class-cloudflare.php:559 core/modules/class-caching.php:325
+msgid "16 days"
+msgstr "১৬ দিন"
+
+#: core/modules/class-cloudflare.php:558 core/modules/class-caching.php:324
+msgid "8 days"
+msgstr "৮ দিন"
+
+#: core/modules/class-cloudflare.php:557 core/modules/class-caching.php:323
+msgid "5 days"
+msgstr "৫ দিন"
+
+#: core/modules/class-cloudflare.php:556 core/modules/class-caching.php:322
+msgid "4 days"
+msgstr "৪ দিন"
+
+#: core/modules/class-cloudflare.php:555 core/modules/class-caching.php:321
+msgid "3 days"
+msgstr "৩ দিন"
+
+#: core/modules/class-cloudflare.php:554 core/modules/class-caching.php:320
+msgid "2 days"
+msgstr "২ দিন"
+
+#: admin/pages/class-uptime.php:465 core/modules/class-cloudflare.php:553
+#: core/modules/class-caching.php:319
+msgid "1 day"
+msgstr "১ দিন"
+
+#: core/modules/class-cloudflare.php:552 core/modules/class-caching.php:318
+msgid "20 hours"
+msgstr "২০ ঘন্টা"
+
+#: core/modules/class-cloudflare.php:551 core/modules/class-caching.php:317
+msgid "16 hours"
+msgstr "১৬ ঘন্টা"
+
+#: core/modules/class-cloudflare.php:550 core/modules/class-caching.php:316
+msgid "12 hours"
+msgstr "১২ ঘন্টা"
+
+#: core/modules/class-caching.php:315
+msgid "6 hours"
+msgstr "৬ ঘন্টা"
+
+#: core/modules/class-cloudflare.php:548 core/modules/class-caching.php:314
+msgid "5 hours"
+msgstr "৫ ঘন্টা"
+
+#: core/modules/class-cloudflare.php:547 core/modules/class-caching.php:313
+msgid "4 hours"
+msgstr "৪ ঘন্টা"
+
+#: core/modules/class-cloudflare.php:546 core/modules/class-caching.php:312
+msgid "3 hours"
+msgstr "৩ ঘন্টা"
+
+#: core/modules/class-caching.php:311
+msgid "1 hour"
+msgstr "১ ঘন্টা"
+
+#: core/modules/class-uptime.php:53
+msgid "You need to be a WPMU DEV Member"
+msgstr "আপনার একজন WPMU DEV সদস‍্য হতে হবে"
+
+#: admin/views/minification/advanced-files-rows.php:54
+msgid "Select file"
+msgstr "ফাইল সিলেক্ট করুন"
+
+#: admin/views/uptime/summary-meta-box.php:50
+msgid "Outages"
+msgstr "আউটেজ"
+
+#: languages/react.php:111
+msgid "Re-check"
+msgstr "পুনরায় পরীক্ষা"
+
+#: admin/views/performance/audits/server-response-time.php:20
+#: admin/views/performance/audits/bootup-time.php:17
+#: admin/views/performance/audits/offscreen-images.php:18
+#: admin/views/performance/audits/uses-rel-preload.php:17
+#: admin/views/performance/audits/render-blocking-resources.php:17
+#: admin/views/performance/audits/uses-webp-images.php:18
+#: admin/views/performance/audits/unminified-css.php:17
+#: admin/views/performance/audits/uses-long-cache-ttl.php:17
+#: admin/views/performance/audits/dom-size.php:17
+#: admin/views/performance/audits/font-display.php:17
+#: admin/views/performance/audits/redirects.php:17
+#: admin/views/performance/audits/unminified-javascript.php:17
+#: admin/views/performance/audits/mainthread-work-breakdown.php:17
+#: admin/views/performance/audits/uses-responsive-images.php:18
+#: admin/views/performance/audits/uses-rel-preconnect.php:17
+#: admin/views/performance/audits/uses-text-compression.php:17
+#: admin/views/performance/audits/uses-optimized-images.php:18
+#: admin/views/performance/audits/efficient-animated-content.php:17
+#: admin/views/performance/audits/unused-css-rules.php:17
+#: admin/views/performance/audits/total-byte-weight.php:18
+#: admin/views/performance/metrics/speed-index.php:18
+#: admin/views/performance/metrics/interactive.php:18
+#: admin/views/performance/metrics/first-cpu-idle.php:18
+#: admin/views/performance/metrics/first-contentful-paint.php:18
+#: admin/views/performance/metrics/first-meaningful-paint.php:18
+#: admin/views/caching/integrations/meta-box.php:76 languages/react.php:88
+msgid "Overview"
+msgstr "পরিস্থিতি"
+
+#: admin/views/minification/advanced-files-rows.php:146
+#: admin/modals/bulk-update-modal.php:40
+msgid "Footer"
+msgstr "ফুটার"
+
+#: admin/views/minification/advanced-files-rows.php:130
+#: admin/views/minification/advanced-files-rows.php:139
+#: admin/modals/bulk-update-modal.php:35 admin/modals/bulk-update-modal.php:36
+msgid "Combine"
+msgstr "সংযোজন"
+
+#: admin/modals/check-files-modal.php:19
+msgid "Checking files"
+msgstr "ফাইলসমূহ চেক করা হচ্ছে"
+
+#: languages/react.php:345
+msgid "Gzip is not working properly:"
+msgstr "Gzip ঠিকমত কাজ করছে না:"
+
+#: admin/views/caching/browser/configure-meta-box.php:429
+msgid "Re-Check"
+msgstr "পুনরায় চেক করুন"
+
+#: languages/react.php:205
+msgid "Enable compression"
+msgstr "সংকোচন সক্রিয় করুন"
+
+#: admin/views/minification/enqueued-files-meta-box-header.php:27
+#: languages/react.php:378
+msgid "Re-Check Files"
+msgstr "ফাইলসমূহ পুনরায় চেক করুন"
+
+#: admin/views/dashboard/welcome/meta-box.php:97
+msgid "Last Down"
+msgstr "সর্বশেষ ডাউন"
+
+#: admin/pages/class-uptime.php:124 admin/pages/class-uptime.php:147
+#: admin/views/uptime/summary-meta-box.php:60
+#: admin/views/uptime/downtime-meta-box.php:29
+#: admin/views/uptime/meta-box.php:82
+#: admin/views/dashboard/uptime/module-meta-box.php:27
+msgid "Downtime"
+msgstr "ডাউনটাইম"
+
+#: admin/views/dashboard/smush/meta-box.php:48
+msgid "Activate Smush Pro"
+msgstr "Smush প্রো সক্রিয় করুন"
+
+#: admin/views/dashboard/smush/meta-box.php:31
+msgid "Install Smush Pro"
+msgstr "Smush প্রো ইন্সটল করুন"
+
+#: admin/views/wphb-uptime-page.php:36
+msgid "Try again"
+msgstr "আবার চেষ্টা করুন"
+
+#: admin/views/minification/enqueued-files-meta-box.php:144
+#: admin/views/dashboard/minification/module-meta-box.php:51
+#: admin/views/dashboard/minification/module-meta-box.php:52
+msgid "CSS"
+msgstr "সিএসএস"
+
+#: admin/views/dashboard/minification/module-meta-box.php:43
+msgid "JS"
+msgstr "জেএস"
+
+#: admin/class-page.php:439 admin/class-page.php:454 admin/class-admin.php:171
+msgid "Support"
+msgstr "সাপোর্ট"
+
+#: admin/modals/check-performance-modal.php:26
+msgid "Test in progress"
+msgstr "পরীক্ষা চলছে"
+
+#. translators: %1$s: compressions status; %2$s: compression type
+#. translators: %1$s - status label, %2$s - type
+#: admin/views/dashboard/gzip/module-meta-box.php:66 languages/react.php:333
+msgid "Gzip compression is %1$s for %2$s"
+msgstr "%2$s এর জন্য %1$s হল Gzip কমপ্রেশন"
+
+#: admin/views/performance/audits/server-response-time.php:25
+#: admin/views/performance/audits/bootup-time.php:22
+#: admin/views/performance/audits/offscreen-images.php:23
+#: admin/views/performance/audits/uses-rel-preload.php:28
+#: admin/views/performance/audits/render-blocking-resources.php:25
+#: admin/views/performance/audits/uses-webp-images.php:23
+#: admin/views/performance/audits/unminified-css.php:22
+#: admin/views/performance/audits/uses-long-cache-ttl.php:22
+#: admin/views/performance/audits/dom-size.php:22
+#: admin/views/performance/audits/font-display.php:29
+#: admin/views/performance/audits/redirects.php:22
+#: admin/views/performance/audits/unminified-javascript.php:22
+#: admin/views/performance/audits/mainthread-work-breakdown.php:22
+#: admin/views/performance/audits/uses-responsive-images.php:23
+#: admin/views/performance/audits/uses-rel-preconnect.php:28
+#: admin/views/performance/audits/uses-text-compression.php:22
+#: admin/views/performance/audits/uses-optimized-images.php:23
+#: admin/views/performance/audits/efficient-animated-content.php:22
+#: admin/views/performance/audits/unused-css-rules.php:22
+#: admin/views/performance/audits/total-byte-weight.php:23
+#: admin/views/performance/metrics/speed-index.php:21
+#: admin/views/performance/metrics/interactive.php:30
+#: admin/views/performance/metrics/first-cpu-idle.php:21
+#: admin/views/performance/metrics/first-contentful-paint.php:21
+#: admin/views/performance/metrics/first-meaningful-paint.php:21
+#: admin/views/caching/integrations/meta-box.php:81
+#: admin/views/dashboard/gzip/module-meta-box.php:34 languages/react.php:93
+#: admin/assets/js/wphb-react-browser-caching.min.js:4229
+msgid "Status"
+msgstr "অবস্থা"
+
+#: languages/react.php:339
+msgid "Gzip compresses your web pages and style sheets before sending them over to the browser. This drastically reduces transfer time since the files are much smaller."
+msgstr "Gzip ব্রাউজার-এ আপনার ওয়েব পেইজ এবং স্টাইলশিট পাঠানোর আগে সেগুলোকে কমপ্রেস করে। এটা ডেটা স্থানান্তরের জন্য ব্যয়িত সময় বহুলাংশে কমায় কারণ ফাইলগুলো অত্যন্ত ছোট থাকে।"
+
+#: admin/pages/class-caching.php:160 admin/pages/class-caching.php:659
+#: admin/views/performance/reporting-meta-box.php:19
+#: admin/views/caching/integrations/meta-box.php:119
+#: admin/views/caching/integrations/meta-box.php:126
+#: admin/views/dashboard/performance/module-meta-box-footer.php:22
+#: admin/views/dashboard/caching/gravatar-module-meta-box-footer.php:18
+#: admin/views/dashboard/caching/module-meta-box-footer.php:18
+#: admin/views/dashboard/caching/page-caching-module-meta-box-footer.php:18
+#: admin/views/dashboard/gzip/module-meta-box-footer.php:17
+#: admin/views/dashboard/smush/meta-box-footer.php:18
+#: admin/views/dashboard/advanced/module-meta-box-footer.php:19
+#: admin/views/dashboard/minification/module-meta-box-footer.php:20
+#: languages/react.php:52
+msgid "Configure"
+msgstr "কনফিগার"
+
+#: admin/class-admin.php:221 admin/class-admin.php:264
+msgid "Caching"
+msgstr "ক‍্যাশিং"
+
+#: admin/views/dashboard/caching/module-meta-box.php:60
+#: admin/views/dashboard/caching/cloudflare-module-meta-box.php:60
+msgid "Caching is disabled"
+msgstr "ক‍্যাশিং বন্ধ আছে"
+
+#: admin/views/minification/summary-meta-box.php:83
+#: admin/views/dashboard/caching/module-meta-box.php:58
+#: admin/views/dashboard/caching/cloudflare-module-meta-box.php:58
+#: admin/views/dashboard/minification/network-module-meta-box.php:48
+#: admin/views/dashboard/minification/network-module-meta-box.php:59
+#: core/class-utils.php:506
+msgid "Disabled"
+msgstr "বন্ধ"
+
+#: admin/pages/class-dashboard.php:683
+#: admin/views/dashboard/caching/module-meta-box.php:56
+#: admin/views/dashboard/caching/cloudflare-module-meta-box.php:56
+msgid "Caching is enabled but you aren't using our recommended value"
+msgstr "ক‍্যাশিং বন্ধ আছে কিন্তু আপনি আমাদের সুপারিশকৃত মান ব‍্যবহার করছেন না"
+
+#: admin/pages/class-dashboard.php:683
+#: admin/views/dashboard/caching/module-meta-box.php:52
+#: admin/views/dashboard/caching/cloudflare-module-meta-box.php:52
+msgid "Caching is enabled"
+msgstr "ক‍্যাশিং চালু আছে"
+
+#: languages/react.php:149
+#: admin/assets/js/wphb-react-browser-caching.min.js:3923
+msgid "Browser Caching is not working properly:"
+msgstr "ব্রাউজার ক‍্যাশিং ঠিকমত কাজ করছে না:"
+
+#: languages/react.php:279
+msgid "If you do not have access to your NGINX config files you will need to contact your hosting provider to make these changes."
+msgstr "যদি আপনি আপনার NGINX কনফিগারেশন ফাইল এক্সেস করতে না পারেন, তবে আপনার হোস্ট এর সাথে যোগাযোগ করে এই পরিবর্তন করতে হবে।"
+
+#: languages/react.php:267
+msgid "For NGINX servers:"
+msgstr "NGINX সার্ভারের জন‍্য:"
+
+#: core/class-utils.php:742 languages/react.php:297
+msgid "Open a support ticket."
+msgstr "একটি সাপোর্ট টিকেট খুলুন।"
+
+#: core/class-utils.php:734
+msgid "Still having trouble? "
+msgstr "এখনো সমস‍্যা হচ্ছে?"
+
+#: languages/react.php:258
+msgid "Look for your site in the file and find the line that starts with <Directory> - add the code above into that section and save the file."
+msgstr "ফাইলের মধ‍্যে আপনার সাইট খুঁজে বের করুন এবং সেই লাইটি খুঁজে বের করুন যেটি শুরু হয়েছে <Directory> দিয়ে। এরপর উপরের কোডটি সেই অংশে যোগ করুন এবং ফাইলটি সংরক্ষন করুন।"
+
+#: admin/views/dashboard/performance/module-meta-box-header.php:22
+#: admin/views/dashboard/performance/module-meta-box-header.php:39
+#: admin/views/dashboard/performance/disabled-meta-box.php:18
+msgid "Run Test"
+msgstr "পরীক্ষা চালান"
+
+#: admin/pages/class-dashboard.php:488 admin/pages/class-dashboard.php:1231
+msgid "Image Optimization"
+msgstr "ছবি অপটিমাইজেশন"
+
+#: admin/modals/check-files-modal.php:22
+msgid "File check in progress..."
+msgstr "ফাইল চেক করা হচ্ছে..."
+
+#: admin/pages/class-dashboard.php:283
+msgid "Performance test in progress"
+msgstr "কার্যকারিতা পরীক্ষা চলছে"
+
+#. Translators: %s: username
+#: admin/pages/class-dashboard.php:610
+msgid "Welcome %s"
+msgstr "স্বাগতম %s"
+
+#: admin/pages/class-caching.php:392
+msgid "Browser cache disabled. Your .htaccess file has been updated"
+msgstr "ব্রাউজার ক‍্যাশ বন্ধ হয়েছে। আপনার .htaccess ফাইল আপডেট করা হয়েছে।"
+
+#: admin/pages/class-caching.php:390
+msgid "Browser cache enabled. Your .htaccess file has been updated"
+msgstr "ব্রাউজার ক‍্যাশ চালু হয়েছে। আপনার .htaccess ফাইল আপডেট করা হয়েছে।"
+
+#: core/class-utils.php:168
+msgid "Your .htaccess file has been updated"
+msgstr "আপনার .htaccess ফাইল আপডেট করা হয়েছে"
+
+#: admin/views/caching/browser/configure-meta-box.php:152
+msgid "Code snippet updated."
+msgstr "কোড স্নিপেট আপডেট করা হয়েছে"
+
+#: admin/class-admin.php:242 admin/class-admin.php:268
+#: admin/views/uptime/downtime-meta-box.php:28
+#: admin/views/uptime/meta-box.php:81 admin/views/wphb-uptime-page.php:27
+#: admin/views/dashboard/reports/no-membership-meta-box.php:44
+msgid "Uptime"
+msgstr "আপটাইম"
+
+#: admin/pages/class-uptime.php:83 admin/pages/class-dashboard.php:507
+#: admin/pages/class-dashboard.php:519 admin/pages/class-dashboard.php:528
+#: admin/pages/class-dashboard.php:537 admin/pages/class-dashboard.php:844
+msgid "Uptime Monitoring"
+msgstr "আপটাইম পর্যবেক্ষন"
+
+#: admin/pages/class-dashboard.php:410 admin/pages/class-dashboard.php:1049
+#: admin/views/dashboard/welcome/meta-box.php:87
+msgid "GZIP Compression"
+msgstr "GZIP সংকোচন"
+
+#: admin/pages/class-caching.php:296 admin/pages/class-dashboard.php:381
+#: admin/pages/class-dashboard.php:727
+#: admin/views/caching/summary-meta-box.php:87
+#: admin/views/dashboard/welcome/meta-box.php:75 languages/react.php:96
+msgid "Browser Caching"
+msgstr "ব্রাউজার ক‍্যাশিং"
+
+#: admin/pages/class-dashboard.php:292 admin/pages/class-dashboard.php:303
+#: admin/pages/class-dashboard.php:316 admin/pages/class-dashboard.php:325
+msgid "Performance Report"
+msgstr "কার্যকারিতা প্রতিবেদন"
+
+#. Plugin Name of the plugin
+#: admin/class-page.php:122 admin/class-admin.php:203 admin/class-admin.php:259
+#: core/class-core.php:199 core/class-core.php:282
+msgid "Hummingbird"
+msgstr "Hummingbird"
+
+#: admin/class-admin.php:208 admin/class-admin.php:262
+msgid "Dashboard"
+msgstr "ড‍্যাশবোর্ড"
+
+#: admin/class-admin.php:148
+msgid "Go to Hummingbird Dashboard"
+msgstr "Hummingbird ড‍্যাশবোর্ডে যান"
+
+#: admin/pages/class-minification.php:298 admin/class-notices.php:374
+#: admin/class-notices.php:593 core/externals/plugin-notice/notice.php:491
+#: core/class-utils.php:180
+msgid "Dismiss"
+msgstr "বাতিল"
+
+#: admin/views/dashboard/smush/meta-box.php:88
+msgid "Did you know WP Smush Pro delivers up to 2x better compression, allows you to smush your originals and removes any bulk smushing limits? <a href=\"%s\" target=\"_blank\">Try it absolutely FREE</a>"
+msgstr "আপনি জানতেন কি WP Smush Pro 2x পর্যন্ত বেশি কমপ্রেশন প্রদান করে, আপনার অরিজিনাল-গুলি smush করতে দেয় এবং যেকোনো bulk smushing সীমা অপসারণ করে? <a href=\"%s\" target=\"_blank\">একেবারে বিনামূল্যে চেষ্টা করুন</a>"

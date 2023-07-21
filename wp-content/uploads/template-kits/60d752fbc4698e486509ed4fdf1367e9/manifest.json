@@ -1,0 +1,1837 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "Taleem - Online Education Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kit-demos.envalab.com\/taleem",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Taleem - Home Page",
+            "screenshot": "screenshots\/taleem-home-page.jpg",
+            "source": "templates\/taleem-home-page.json",
+            "preview_url": "https:\/\/kit-demos.envalab.com\/taleem\/template-kit\/taleem-home_page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Taleem \u2013 About Page",
+            "screenshot": "screenshots\/taleem-about-page.jpg",
+            "source": "templates\/taleem-about-page.json",
+            "preview_url": "https:\/\/kit-demos.envalab.com\/taleem\/template-kit\/taleem-about_page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Taleem \u2013 Courses Page",
+            "screenshot": "screenshots\/taleem-courses-page.jpg",
+            "source": "templates\/taleem-courses-page.json",
+            "preview_url": "https:\/\/kit-demos.envalab.com\/taleem\/template-kit\/taleem-courses_page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Taleem \u2013 Courses Details Page",
+            "screenshot": "screenshots\/taleem-courses-details-page.jpg",
+            "source": "templates\/taleem-courses-details-page.json",
+            "preview_url": "https:\/\/kit-demos.envalab.com\/taleem\/template-kit\/taleem-courses_details_page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Taleem \u2013 Instructor Page",
+            "screenshot": "screenshots\/taleem-instructor-page.jpg",
+            "source": "templates\/taleem-instructor-page.json",
+            "preview_url": "https:\/\/kit-demos.envalab.com\/taleem\/template-kit\/taleem-instructor_page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Taleem \u2013 Instructor Profile Page",
+            "screenshot": "screenshots\/taleem-instructor-profile-page.jpg",
+            "source": "templates\/taleem-instructor-profile-page.json",
+            "preview_url": "https:\/\/kit-demos.envalab.com\/taleem\/template-kit\/taleem-instructor_profile_page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/kit-demos.envalab.com\/taleem\/?elementor_library=blog",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/kit-demos.envalab.com\/taleem\/?elementor_library=single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Error 404",
+            "screenshot": "screenshots\/error-404.jpg",
+            "source": "templates\/error-404.json",
+            "preview_url": "https:\/\/kit-demos.envalab.com\/taleem\/?elementor_library=error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Taleem \u2013 Contact Page",
+            "screenshot": "screenshots\/taleem-contact-page.jpg",
+            "source": "templates\/taleem-contact-page.json",
+            "preview_url": "https:\/\/kit-demos.envalab.com\/taleem\/template-kit\/taleem-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Taleem - Header",
+            "screenshot": "screenshots\/taleem-header.jpg",
+            "source": "templates\/taleem-header.json",
+            "preview_url": "https:\/\/kit-demos.envalab.com\/taleem\/?elementor_library=taleem-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Taleem \u2013 Footer",
+            "screenshot": "screenshots\/taleem-footer.jpg",
+            "source": "templates\/taleem-footer.json",
+            "preview_url": "https:\/\/kit-demos.envalab.com\/taleem\/?elementor_library=taleem-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Taleem \u2013 Hero Section",
+            "screenshot": "screenshots\/taleem-hero-section.jpg",
+            "source": "templates\/taleem-hero-section.json",
+            "preview_url": "https:\/\/kit-demos.envalab.com\/taleem\/template-kit\/taleem-hero_section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Taleem \u2013 Brand Carousel Section",
+            "screenshot": "screenshots\/taleem-brand-carousel-section.png",
+            "source": "templates\/taleem-brand-carousel-section.json",
+            "preview_url": "https:\/\/kit-demos.envalab.com\/taleem\/template-kit\/taleem-brand_carousel_section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-clients",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Taleem \u2013 Course Categories Section",
+            "screenshot": "screenshots\/taleem-course-categories-section.jpg",
+            "source": "templates\/taleem-course-categories-section.json",
+            "preview_url": "https:\/\/kit-demos.envalab.com\/taleem\/template-kit\/taleem-course_categories_section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Taleem \u2013Contact Form Section",
+            "screenshot": "screenshots\/taleem-contact-form-section.jpg",
+            "source": "templates\/taleem-contact-form-section.json",
+            "preview_url": "https:\/\/kit-demos.envalab.com\/taleem\/template-kit\/taleem-instructor_form_section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Taleem \u2013 Teachers Section",
+            "screenshot": "screenshots\/taleem-teachers-section.jpg",
+            "source": "templates\/taleem-teachers-section.json",
+            "preview_url": "https:\/\/kit-demos.envalab.com\/taleem\/template-kit\/taleem-teachers_section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-team",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Taleem \u2013 Courses Section",
+            "screenshot": "screenshots\/taleem-courses-section.jpg",
+            "source": "templates\/taleem-courses-section.json",
+            "preview_url": "https:\/\/kit-demos.envalab.com\/taleem\/template-kit\/taleem-header_section-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Taleem \u2013 About Section",
+            "screenshot": "screenshots\/taleem-about-section.png",
+            "source": "templates\/taleem-about-section.json",
+            "preview_url": "https:\/\/kit-demos.envalab.com\/taleem\/template-kit\/taleem-about_section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Taleem \u2013 Error 404 Section",
+            "screenshot": "screenshots\/taleem-error-404-section.jpg",
+            "source": "templates\/taleem-error-404-section.json",
+            "preview_url": "https:\/\/kit-demos.envalab.com\/taleem\/template-kit\/taleem-error_404_section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Taleem \u2013 Blog Section",
+            "screenshot": "screenshots\/taleem-blog-section.jpg",
+            "source": "templates\/taleem-blog-section.json",
+            "preview_url": "https:\/\/kit-demos.envalab.com\/taleem\/template-kit\/taleem-blog_section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Taleem \u2013 Instructor Form Section",
+            "screenshot": "screenshots\/taleem-instructor-form-section.jpg",
+            "source": "templates\/taleem-instructor-form-section.json",
+            "preview_url": "https:\/\/kit-demos.envalab.com\/taleem\/template-kit\/taleem-instructor_form_section-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "3.0.10",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.2.5",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.3.0",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "PowerPack Lite for Elementor",
+            "version": "2.3.6",
+            "file": "powerpack-lite-for-elementor\/powerpack-lite-elementor.php",
+            "author": "IdeaBox Creations"
+        }
+    ],
+    "images": [
+        {
+            "filename": "banner-overla_01.png",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/banner-overla_01-800x379.png",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                }
+            ],
+            "filesize": 201549,
+            "dimensions": [
+                1920,
+                910
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "girl-bg.png",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/girl-bg.png",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                }
+            ],
+            "filesize": 20764,
+            "dimensions": [
+                565,
+                460
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "banner-girl-v1-min.png",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/banner-girl-v1-min-800x1240.png",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                }
+            ],
+            "filesize": 246952,
+            "dimensions": [
+                968,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-an-asian-student-standing-outdoors-on--7JCLTAH"
+        },
+        {
+            "filename": "online-education-isometric-abc.png",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/online-education-isometric-abc.png",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                },
+                {
+                    "source": "templates\/taleem-about-page.json",
+                    "name": "Taleem \u2013 About Page"
+                },
+                {
+                    "source": "templates\/taleem-about-section.json",
+                    "name": "Taleem \u2013 About Section"
+                }
+            ],
+            "filesize": 9390,
+            "dimensions": [
+                200,
+                232
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/online-education-isometric-landing-page-web-banner_12272979.htm"
+        },
+        {
+            "filename": "enroll-icon.png",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/enroll-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                },
+                {
+                    "source": "templates\/taleem-about-page.json",
+                    "name": "Taleem \u2013 About Page"
+                },
+                {
+                    "source": "templates\/taleem-about-section.json",
+                    "name": "Taleem \u2013 About Section"
+                }
+            ],
+            "filesize": 1612,
+            "dimensions": [
+                50,
+                43
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "faculty-icon.png",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/faculty-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                },
+                {
+                    "source": "templates\/taleem-about-page.json",
+                    "name": "Taleem \u2013 About Page"
+                },
+                {
+                    "source": "templates\/taleem-about-section.json",
+                    "name": "Taleem \u2013 About Section"
+                }
+            ],
+            "filesize": 1571,
+            "dimensions": [
+                60,
+                58
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "franchise-icon.png",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/franchise-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                },
+                {
+                    "source": "templates\/taleem-about-page.json",
+                    "name": "Taleem \u2013 About Page"
+                },
+                {
+                    "source": "templates\/taleem-about-section.json",
+                    "name": "Taleem \u2013 About Section"
+                }
+            ],
+            "filesize": 1591,
+            "dimensions": [
+                34,
+                54
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "register-icon.png",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/register-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                },
+                {
+                    "source": "templates\/taleem-about-page.json",
+                    "name": "Taleem \u2013 About Page"
+                },
+                {
+                    "source": "templates\/taleem-about-section.json",
+                    "name": "Taleem \u2013 About Section"
+                }
+            ],
+            "filesize": 1846,
+            "dimensions": [
+                60,
+                40
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "shape-1.png",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/shape-1.png",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                },
+                {
+                    "source": "templates\/taleem-course-categories-section.json",
+                    "name": "Taleem \u2013 Course Categories Section"
+                }
+            ],
+            "filesize": 58092,
+            "dimensions": [
+                364,
+                455
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "dots-shape.png",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/dots-shape.png",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                },
+                {
+                    "source": "templates\/taleem-course-categories-section.json",
+                    "name": "Taleem \u2013 Course Categories Section"
+                }
+            ],
+            "filesize": 12218,
+            "dimensions": [
+                228,
+                224
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "line.png",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/line.png",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                },
+                {
+                    "source": "templates\/taleem-about-page.json",
+                    "name": "Taleem \u2013 About Page"
+                },
+                {
+                    "source": "templates\/taleem-courses-details-page.json",
+                    "name": "Taleem \u2013 Courses Details Page"
+                },
+                {
+                    "source": "templates\/taleem-instructor-page.json",
+                    "name": "Taleem \u2013 Instructor Page"
+                },
+                {
+                    "source": "templates\/taleem-instructor-profile-page.json",
+                    "name": "Taleem \u2013 Instructor Profile Page"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/taleem-contact-page.json",
+                    "name": "Taleem \u2013 Contact Page"
+                },
+                {
+                    "source": "templates\/taleem-brand-carousel-section.json",
+                    "name": "Taleem \u2013 Brand Carousel Section"
+                },
+                {
+                    "source": "templates\/taleem-course-categories-section.json",
+                    "name": "Taleem \u2013 Course Categories Section"
+                },
+                {
+                    "source": "templates\/taleem-contact-form-section.json",
+                    "name": "Taleem \u2013Contact Form Section"
+                },
+                {
+                    "source": "templates\/taleem-teachers-section.json",
+                    "name": "Taleem \u2013 Teachers Section"
+                },
+                {
+                    "source": "templates\/taleem-blog-section.json",
+                    "name": "Taleem \u2013 Blog Section"
+                },
+                {
+                    "source": "templates\/taleem-instructor-form-section.json",
+                    "name": "Taleem \u2013 Instructor Form Section"
+                }
+            ],
+            "filesize": 991,
+            "dimensions": [
+                61,
+                4
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "ui-ux-icon.png",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/ui-ux-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                },
+                {
+                    "source": "templates\/taleem-course-categories-section.json",
+                    "name": "Taleem \u2013 Course Categories Section"
+                }
+            ],
+            "filesize": 1457,
+            "dimensions": [
+                58,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "art-icon.png",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/art-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                },
+                {
+                    "source": "templates\/taleem-course-categories-section.json",
+                    "name": "Taleem \u2013 Course Categories Section"
+                }
+            ],
+            "filesize": 1619,
+            "dimensions": [
+                59,
+                59
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "it-software-icon.png",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/it-software-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                },
+                {
+                    "source": "templates\/taleem-course-categories-section.json",
+                    "name": "Taleem \u2013 Course Categories Section"
+                }
+            ],
+            "filesize": 1872,
+            "dimensions": [
+                60,
+                58
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "music-icon.png",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/music-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                },
+                {
+                    "source": "templates\/taleem-course-categories-section.json",
+                    "name": "Taleem \u2013 Course Categories Section"
+                }
+            ],
+            "filesize": 1643,
+            "dimensions": [
+                54,
+                60
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "health-fitness-icon.png",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/health-fitness-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                },
+                {
+                    "source": "templates\/taleem-course-categories-section.json",
+                    "name": "Taleem \u2013 Course Categories Section"
+                }
+            ],
+            "filesize": 1847,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "course1.jpg",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/course1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                },
+                {
+                    "source": "templates\/taleem-courses-page.json",
+                    "name": "Taleem \u2013 Courses Page"
+                },
+                {
+                    "source": "templates\/taleem-instructor-profile-page.json",
+                    "name": "Taleem \u2013 Instructor Profile Page"
+                },
+                {
+                    "source": "templates\/taleem-courses-section.json",
+                    "name": "Taleem \u2013 Courses Section"
+                }
+            ],
+            "filesize": 77188,
+            "dimensions": [
+                392,
+                262
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pretty-little-girl-busy-with-drawing-at-kitchen-ta-FVNTG9X"
+        },
+        {
+            "filename": "circle-bg.png",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/circle-bg.png",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                },
+                {
+                    "source": "templates\/taleem-courses-page.json",
+                    "name": "Taleem \u2013 Courses Page"
+                },
+                {
+                    "source": "templates\/taleem-instructor-profile-page.json",
+                    "name": "Taleem \u2013 Instructor Profile Page"
+                },
+                {
+                    "source": "templates\/taleem-courses-section.json",
+                    "name": "Taleem \u2013 Courses Section"
+                }
+            ],
+            "filesize": 1974,
+            "dimensions": [
+                72,
+                72
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "course2.jpg",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/course2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                },
+                {
+                    "source": "templates\/taleem-courses-page.json",
+                    "name": "Taleem \u2013 Courses Page"
+                },
+                {
+                    "source": "templates\/taleem-instructor-profile-page.json",
+                    "name": "Taleem \u2013 Instructor Profile Page"
+                },
+                {
+                    "source": "templates\/taleem-courses-section.json",
+                    "name": "Taleem \u2013 Courses Section"
+                }
+            ],
+            "filesize": 73338,
+            "dimensions": [
+                381,
+                253
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-teacher-with-seniors-attending-compute-T3T7L5V"
+        },
+        {
+            "filename": "course3.jpg",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/course3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                },
+                {
+                    "source": "templates\/taleem-courses-page.json",
+                    "name": "Taleem \u2013 Courses Page"
+                },
+                {
+                    "source": "templates\/taleem-instructor-profile-page.json",
+                    "name": "Taleem \u2013 Instructor Profile Page"
+                },
+                {
+                    "source": "templates\/taleem-courses-section.json",
+                    "name": "Taleem \u2013 Courses Section"
+                }
+            ],
+            "filesize": 67842,
+            "dimensions": [
+                383,
+                256
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/education-8345AGC"
+        },
+        {
+            "filename": "course4.jpg",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/course4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                }
+            ],
+            "filesize": 59890,
+            "dimensions": [
+                374,
+                249
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/education-4PW4WB4"
+        },
+        {
+            "filename": "course5.jpg",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/course5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                }
+            ],
+            "filesize": 102871,
+            "dimensions": [
+                397,
+                265
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/people-knowledge-education-and-school-concept-WTH3DXG"
+        },
+        {
+            "filename": "course6.jpg",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/course6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                }
+            ],
+            "filesize": 88501,
+            "dimensions": [
+                384,
+                256
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/education-KHB6HZT"
+        },
+        {
+            "filename": "form-bg-min.png",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/form-bg-min-800x564.png",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                },
+                {
+                    "source": "templates\/taleem-instructor-page.json",
+                    "name": "Taleem \u2013 Instructor Page"
+                },
+                {
+                    "source": "templates\/taleem-instructor-form-section.json",
+                    "name": "Taleem \u2013 Instructor Form Section"
+                }
+            ],
+            "filesize": 178443,
+            "dimensions": [
+                1208,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pretty-little-girl-busy-with-drawing-at-kitchen-ta-FVNTG9X"
+        },
+        {
+            "filename": "line3.png",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/line3.png",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                },
+                {
+                    "source": "templates\/taleem-instructor-page.json",
+                    "name": "Taleem \u2013 Instructor Page"
+                },
+                {
+                    "source": "templates\/taleem-instructor-form-section.json",
+                    "name": "Taleem \u2013 Instructor Form Section"
+                }
+            ],
+            "filesize": 1008,
+            "dimensions": [
+                63,
+                6
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "education-teachers-university-and-schools-concept-JA74V7F.jpg",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/education-teachers-university-and-schools-concept-JA74V7F.jpg",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                },
+                {
+                    "source": "templates\/taleem-about-page.json",
+                    "name": "Taleem \u2013 About Page"
+                },
+                {
+                    "source": "templates\/taleem-instructor-page.json",
+                    "name": "Taleem \u2013 Instructor Page"
+                },
+                {
+                    "source": "templates\/taleem-teachers-section.json",
+                    "name": "Taleem \u2013 Teachers Section"
+                }
+            ],
+            "filesize": 131390,
+            "dimensions": [
+                370,
+                360
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JA74V7F"
+        },
+        {
+            "filename": "teacher-sitting-in-classroom-EDLH44H.jpg",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/teacher-sitting-in-classroom-EDLH44H.jpg",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                },
+                {
+                    "source": "templates\/taleem-about-page.json",
+                    "name": "Taleem \u2013 About Page"
+                },
+                {
+                    "source": "templates\/taleem-instructor-page.json",
+                    "name": "Taleem \u2013 Instructor Page"
+                },
+                {
+                    "source": "templates\/taleem-teachers-section.json",
+                    "name": "Taleem \u2013 Teachers Section"
+                }
+            ],
+            "filesize": 112204,
+            "dimensions": [
+                370,
+                360
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EDLH44H"
+        },
+        {
+            "filename": "successful-teacher-R3C4GL6.jpg",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/successful-teacher-R3C4GL6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                },
+                {
+                    "source": "templates\/taleem-about-page.json",
+                    "name": "Taleem \u2013 About Page"
+                },
+                {
+                    "source": "templates\/taleem-instructor-page.json",
+                    "name": "Taleem \u2013 Instructor Page"
+                },
+                {
+                    "source": "templates\/taleem-teachers-section.json",
+                    "name": "Taleem \u2013 Teachers Section"
+                }
+            ],
+            "filesize": 156989,
+            "dimensions": [
+                370,
+                360
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-R3C4GL6"
+        },
+        {
+            "filename": "experienced-teacher-YAVD779.jpg",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/experienced-teacher-YAVD779.jpg",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                },
+                {
+                    "source": "templates\/taleem-about-page.json",
+                    "name": "Taleem \u2013 About Page"
+                },
+                {
+                    "source": "templates\/taleem-instructor-page.json",
+                    "name": "Taleem \u2013 Instructor Page"
+                },
+                {
+                    "source": "templates\/taleem-teachers-section.json",
+                    "name": "Taleem \u2013 Teachers Section"
+                }
+            ],
+            "filesize": 184115,
+            "dimensions": [
+                370,
+                360
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YAVD779"
+        },
+        {
+            "filename": "portrait-of-an-asian-student-standing-outdoors-on-7JCLTAH.jpg",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/portrait-of-an-asian-student-standing-outdoors-on-7JCLTAH.jpg",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                },
+                {
+                    "source": "templates\/taleem-about-page.json",
+                    "name": "Taleem \u2013 About Page"
+                },
+                {
+                    "source": "templates\/taleem-instructor-page.json",
+                    "name": "Taleem \u2013 Instructor Page"
+                },
+                {
+                    "source": "templates\/taleem-teachers-section.json",
+                    "name": "Taleem \u2013 Teachers Section"
+                }
+            ],
+            "filesize": 122381,
+            "dimensions": [
+                370,
+                360
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7JCLTAH"
+        },
+        {
+            "filename": "bg.png",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/bg-800x239.png",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                },
+                {
+                    "source": "templates\/taleem-about-page.json",
+                    "name": "Taleem \u2013 About Page"
+                }
+            ],
+            "filesize": 13759,
+            "dimensions": [
+                1171,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "line2-1.png",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/line2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                },
+                {
+                    "source": "templates\/taleem-about-page.json",
+                    "name": "Taleem \u2013 About Page"
+                }
+            ],
+            "filesize": 996,
+            "dimensions": [
+                60,
+                6
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo1_03.png",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/logo1_03.png",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                },
+                {
+                    "source": "templates\/taleem-instructor-page.json",
+                    "name": "Taleem \u2013 Instructor Page"
+                },
+                {
+                    "source": "templates\/taleem-instructor-profile-page.json",
+                    "name": "Taleem \u2013 Instructor Profile Page"
+                },
+                {
+                    "source": "templates\/taleem-brand-carousel-section.json",
+                    "name": "Taleem \u2013 Brand Carousel Section"
+                }
+            ],
+            "filesize": 4941,
+            "dimensions": [
+                183,
+                44
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "log2_03.png",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/log2_03.png",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                },
+                {
+                    "source": "templates\/taleem-instructor-page.json",
+                    "name": "Taleem \u2013 Instructor Page"
+                },
+                {
+                    "source": "templates\/taleem-instructor-profile-page.json",
+                    "name": "Taleem \u2013 Instructor Profile Page"
+                },
+                {
+                    "source": "templates\/taleem-brand-carousel-section.json",
+                    "name": "Taleem \u2013 Brand Carousel Section"
+                }
+            ],
+            "filesize": 4863,
+            "dimensions": [
+                183,
+                44
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo3_03.png",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/logo3_03.png",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                },
+                {
+                    "source": "templates\/taleem-instructor-page.json",
+                    "name": "Taleem \u2013 Instructor Page"
+                },
+                {
+                    "source": "templates\/taleem-instructor-profile-page.json",
+                    "name": "Taleem \u2013 Instructor Profile Page"
+                },
+                {
+                    "source": "templates\/taleem-brand-carousel-section.json",
+                    "name": "Taleem \u2013 Brand Carousel Section"
+                }
+            ],
+            "filesize": 5557,
+            "dimensions": [
+                183,
+                44
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo4_03.png",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/logo4_03.png",
+            "templates": [
+                {
+                    "source": "templates\/taleem-home-page.json",
+                    "name": "Taleem - Home Page"
+                },
+                {
+                    "source": "templates\/taleem-instructor-page.json",
+                    "name": "Taleem \u2013 Instructor Page"
+                },
+                {
+                    "source": "templates\/taleem-instructor-profile-page.json",
+                    "name": "Taleem \u2013 Instructor Profile Page"
+                },
+                {
+                    "source": "templates\/taleem-brand-carousel-section.json",
+                    "name": "Taleem \u2013 Brand Carousel Section"
+                }
+            ],
+            "filesize": 5387,
+            "dimensions": [
+                190,
+                39
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "hero-banner-overlay_02.png",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/hero-banner-overlay_02-800x208.png",
+            "templates": [
+                {
+                    "source": "templates\/taleem-about-page.json",
+                    "name": "Taleem \u2013 About Page"
+                },
+                {
+                    "source": "templates\/taleem-courses-page.json",
+                    "name": "Taleem \u2013 Courses Page"
+                },
+                {
+                    "source": "templates\/taleem-courses-details-page.json",
+                    "name": "Taleem \u2013 Courses Details Page"
+                },
+                {
+                    "source": "templates\/taleem-instructor-page.json",
+                    "name": "Taleem \u2013 Instructor Page"
+                },
+                {
+                    "source": "templates\/taleem-instructor-profile-page.json",
+                    "name": "Taleem \u2013 Instructor Profile Page"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/error-404.json",
+                    "name": "Error 404"
+                },
+                {
+                    "source": "templates\/taleem-contact-page.json",
+                    "name": "Taleem \u2013 Contact Page"
+                },
+                {
+                    "source": "templates\/taleem-hero-section.json",
+                    "name": "Taleem \u2013 Hero Section"
+                }
+            ],
+            "filesize": 50042,
+            "dimensions": [
+                1920,
+                500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "hero-bg-min-1.jpg",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/hero-bg-min-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/taleem-about-page.json",
+                    "name": "Taleem \u2013 About Page"
+                },
+                {
+                    "source": "templates\/taleem-instructor-page.json",
+                    "name": "Taleem \u2013 Instructor Page"
+                },
+                {
+                    "source": "templates\/taleem-instructor-profile-page.json",
+                    "name": "Taleem \u2013 Instructor Profile Page"
+                },
+                {
+                    "source": "templates\/taleem-contact-page.json",
+                    "name": "Taleem \u2013 Contact Page"
+                }
+            ],
+            "filesize": 235405,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/teacher-sitting-in-classroom-EDLH44H"
+        },
+        {
+            "filename": "teacher-working-at-school-VSBYE9U.jpg",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/teacher-working-at-school-VSBYE9U.jpg",
+            "templates": [
+                {
+                    "source": "templates\/taleem-about-page.json",
+                    "name": "Taleem \u2013 About Page"
+                },
+                {
+                    "source": "templates\/taleem-instructor-page.json",
+                    "name": "Taleem \u2013 Instructor Page"
+                },
+                {
+                    "source": "templates\/taleem-teachers-section.json",
+                    "name": "Taleem \u2013 Teachers Section"
+                }
+            ],
+            "filesize": 138059,
+            "dimensions": [
+                370,
+                360
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VSBYE9U"
+        },
+        {
+            "filename": "education-RNEA562-min.jpg",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/education-RNEA562-min-800x570.jpg",
+            "templates": [
+                {
+                    "source": "templates\/taleem-about-page.json",
+                    "name": "Taleem \u2013 About Page"
+                }
+            ],
+            "filesize": 245840,
+            "dimensions": [
+                2400,
+                1709
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/education-RNEA562"
+        },
+        {
+            "filename": "education-4PW4WB4-min.jpg",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/education-4PW4WB4-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/taleem-about-page.json",
+                    "name": "Taleem \u2013 About Page"
+                }
+            ],
+            "filesize": 228852,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/education-4PW4WB4"
+        },
+        {
+            "filename": "pretty-little-girl-busy-with-drawing-at-kitchen-ta-FVNTG9X-min.jpg",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/pretty-little-girl-busy-with-drawing-at-kitchen-ta-FVNTG9X-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/taleem-about-page.json",
+                    "name": "Taleem \u2013 About Page"
+                }
+            ],
+            "filesize": 236707,
+            "dimensions": [
+                2450,
+                1633
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pretty-little-girl-busy-with-drawing-at-kitchen-ta-FVNTG9X"
+        },
+        {
+            "filename": "blog.jpg",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/blog.jpg",
+            "templates": [
+                {
+                    "source": "templates\/taleem-courses-page.json",
+                    "name": "Taleem \u2013 Courses Page"
+                },
+                {
+                    "source": "templates\/taleem-courses-details-page.json",
+                    "name": "Taleem \u2013 Courses Details Page"
+                },
+                {
+                    "source": "templates\/taleem-hero-section.json",
+                    "name": "Taleem \u2013 Hero Section"
+                }
+            ],
+            "filesize": 133670,
+            "dimensions": [
+                603,
+                402
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/education-PH8BPVE"
+        },
+        {
+            "filename": "blog2.jpg",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/blog2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/taleem-courses-page.json",
+                    "name": "Taleem \u2013 Courses Page"
+                },
+                {
+                    "source": "templates\/taleem-courses-section.json",
+                    "name": "Taleem \u2013 Courses Section"
+                }
+            ],
+            "filesize": 120816,
+            "dimensions": [
+                584,
+                389
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/education-4PW4WB4"
+        },
+        {
+            "filename": "blog1.jpg",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/blog1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/taleem-courses-page.json",
+                    "name": "Taleem \u2013 Courses Page"
+                },
+                {
+                    "source": "templates\/taleem-courses-section.json",
+                    "name": "Taleem \u2013 Courses Section"
+                }
+            ],
+            "filesize": 201610,
+            "dimensions": [
+                597,
+                398
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/people-knowledge-education-and-school-concept-WTH3DXG"
+        },
+        {
+            "filename": "blog3.jpg",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/blog3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/taleem-courses-page.json",
+                    "name": "Taleem \u2013 Courses Page"
+                },
+                {
+                    "source": "templates\/taleem-courses-section.json",
+                    "name": "Taleem \u2013 Courses Section"
+                }
+            ],
+            "filesize": 194776,
+            "dimensions": [
+                616,
+                411
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/education-KHB6HZT"
+        },
+        {
+            "filename": "instructor.png",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/instructor.png",
+            "templates": [
+                {
+                    "source": "templates\/taleem-courses-details-page.json",
+                    "name": "Taleem \u2013 Courses Details Page"
+                }
+            ],
+            "filesize": 7302,
+            "dimensions": [
+                48,
+                48
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/teacher-at-work-XMEDPW5"
+        },
+        {
+            "filename": "insturctor.png",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/insturctor.png",
+            "templates": [
+                {
+                    "source": "templates\/taleem-courses-details-page.json",
+                    "name": "Taleem \u2013 Courses Details Page"
+                }
+            ],
+            "filesize": 25573,
+            "dimensions": [
+                109,
+                109
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/teacher-at-work-XMEDPW5"
+        },
+        {
+            "filename": "ball.png",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/ball.png",
+            "templates": [
+                {
+                    "source": "templates\/taleem-instructor-profile-page.json",
+                    "name": "Taleem \u2013 Instructor Profile Page"
+                }
+            ],
+            "filesize": 18607,
+            "dimensions": [
+                218,
+                218
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "teacher-min.jpg",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/teacher-min-800x603.jpg",
+            "templates": [
+                {
+                    "source": "templates\/taleem-instructor-profile-page.json",
+                    "name": "Taleem \u2013 Instructor Profile Page"
+                }
+            ],
+            "filesize": 146041,
+            "dimensions": [
+                1608,
+                1213
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VSBYE9U"
+        },
+        {
+            "filename": "hero-bg-min-e1624028250297.jpg",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/hero-bg-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/error-404.json",
+                    "name": "Error 404"
+                }
+            ],
+            "filesize": 239762,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/teacher-sitting-in-classroom-EDLH44H"
+        },
+        {
+            "filename": "thumb.jpg",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/thumb.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 11136,
+            "dimensions": [
+                103,
+                76
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/close-up-shot-of-education-supplies-lying-on-windo-TF4R6NC"
+        },
+        {
+            "filename": "thumb2.jpg",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/thumb2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 11276,
+            "dimensions": [
+                103,
+                76
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/education-8345AGC"
+        },
+        {
+            "filename": "thumb3.jpg",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/thumb3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 9772,
+            "dimensions": [
+                103,
+                76
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/education-PH8BPVE"
+        },
+        {
+            "filename": "404_Error.png",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/404_Error-800x427.png",
+            "templates": [
+                {
+                    "source": "templates\/error-404.json",
+                    "name": "Error 404"
+                },
+                {
+                    "source": "templates\/taleem-error-404-section.json",
+                    "name": "Taleem \u2013 Error 404 Section"
+                }
+            ],
+            "filesize": 101070,
+            "dimensions": [
+                1170,
+                625
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "14_contact.jpg",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/14_contact.jpg",
+            "templates": [
+                {
+                    "source": "templates\/taleem-contact-page.json",
+                    "name": "Taleem \u2013 Contact Page"
+                },
+                {
+                    "source": "templates\/taleem-contact-form-section.json",
+                    "name": "Taleem \u2013Contact Form Section"
+                }
+            ],
+            "filesize": 96613,
+            "dimensions": [
+                541,
+                378
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo.png",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/logo.png",
+            "templates": [
+                {
+                    "source": "templates\/taleem-header.json",
+                    "name": "Taleem - Header"
+                }
+            ],
+            "filesize": 2525,
+            "dimensions": [
+                100,
+                41
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-white.png",
+            "thumbnail_url": "http:\/\/kit-demos.envalab.com\/taleem\/wp-content\/uploads\/2021\/06\/logo-white.png",
+            "templates": [
+                {
+                    "source": "templates\/taleem-footer.json",
+                    "name": "Taleem \u2013 Footer"
+                }
+            ],
+            "filesize": 2309,
+            "dimensions": [
+                102,
+                41
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

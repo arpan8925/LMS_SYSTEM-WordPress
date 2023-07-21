@@ -1,0 +1,87 @@
+# BEGIN LSCACHE
+# END LSCACHE
+# BEGIN NON_LSCACHE
+# END NON_LSCACHE
+# BEGIN Imagify: webp file type
+<IfModule mod_mime.c>
+	AddType image/webp .webp
+</IfModule>
+# END Imagify: webp file type
+# BEGIN HMWP_RULES
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^([_0-9a-zA-Z-]+/)?pixeladmin/(.*) /wp-admin/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?pixelogin$ /wp-login.php [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?pixelogin/(.*) /wp-login.php$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?pixelostpass$ /wp-login.php?action=lostpassword [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?pixelregister$ /wp-login.php?action=register [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/d0f4711431/(.*) /wp-content/plugins/hide-my-wp/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/a66e60888f/(.*) /wp-content/plugins/certificate-customizer-for-tutor-lms/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/434b8996f4/(.*) /wp-content/plugins/classic-editor/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/8516d2654f/(.*) /wp-content/plugins/contact-form-7/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/03637876b5/(.*) /wp-content/plugins/custom-fonts/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/a4f631e86c/(.*) /wp-content/plugins/digits/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/a3ea8c86a9/(.*) /wp-content/plugins/disable-right-click-for-wp/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/3173b6da1d/(.*) /wp-content/plugins/easy-theme-and-plugin-upgrades/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/ccc473c329/(.*) /wp-content/plugins/elementor-pro/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/f65f29574d/(.*) /wp-content/plugins/elementor/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/ee3d367a9e/(.*) /wp-content/plugins/elementskit-lite/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/df89d9cf6c/(.*) /wp-content/plugins/facebook-messenger-customer-chat/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/1a60a0f6ed/(.*) /wp-content/plugins/google-site-kit/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/b0af3ba1fc/(.*) /wp-content/plugins/hummingbird-performance/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/e88b0641d7/(.*) /wp-content/plugins/imagify/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/b7b83e499b/(.*) /wp-content/plugins/jeg-elementor-kit/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/85e5f69829/(.*) /wp-content/plugins/loco-translate/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/9e697a2d5d/(.*) /wp-content/plugins/metform/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/5dc0d3ef4c/(.*) /wp-content/plugins/payment-gateways-per-product-categories-for-woocommerce/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/c9b9622e44/(.*) /wp-content/plugins/powerpack-lite-for-elementor/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/f73730c2cd/(.*) /wp-content/plugins/seo-by-rank-math/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/03d467ae53/(.*) /wp-content/plugins/sliced-invoices/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/a3c351fbc7/(.*) /wp-content/plugins/tutor-lms-elementor-addons/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/144c3597b3/(.*) /wp-content/plugins/tutor-pro/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/1b166b7e2f/(.*) /wp-content/plugins/tutor/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/6d42aa5957/(.*) /wp-content/plugins/user-role-editor/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/6627c527b6/(.*) /wp-content/plugins/visibility-logic-elementor/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/d0ae73cefa/(.*) /wp-content/plugins/wcm-user-language-switcher/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/64661b86c7/(.*) /wp-content/plugins/woo-checkout-field-editor-pro/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/911f8c6924/(.*) /wp-content/plugins/woo-invoices/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/94de11ecce/(.*) /wp-content/plugins/woo-wallet/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/0336b1b1f5/(.*) /wp-content/plugins/woocommerce-direct-checkout/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/39d10ee62c/(.*) /wp-content/plugins/woocommerce/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/(.*) /wp-content/plugins/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/assets/7a3fccae50/(.*) /wp-content/themes/hello-elementor/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/assets/(.*) /wp-content/themes/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?storage/(.*) /wp-content/uploads/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/(.*) /wp-content/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?lib/(.*) /wp-includes/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?comments/(.*) /wp-comments-post.php$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?writer/(.*) /author/$2 [QSA,L]
+</IfModule>
+# END HMWP_RULES
+php_value max_input_vars 5000
+php_value max_execution_time 300
+php_value post_max_size 128M
+php_value upload_max_filesize 128M
+php_value memory_limit 512M
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php74” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php74 .php .php7 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

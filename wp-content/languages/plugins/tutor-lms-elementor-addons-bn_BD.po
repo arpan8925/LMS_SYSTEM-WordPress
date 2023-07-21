@@ -1,0 +1,1809 @@
+# Translation of Plugins - Tutor LMS Elementor Addons - Stable (latest release) in Bengali (Bangladesh)
+# This file is distributed under the same license as the Plugins - Tutor LMS Elementor Addons - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-01-12 06:58:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: bn_BD\n"
+"Project-Id-Version: Plugins - Tutor LMS Elementor Addons - Stable (latest release)\n"
+
+#: includes/addons/CourseList.php:82
+msgid "Course Per Page"
+msgstr "কোর্স প্রতি পৃষ্ঠা"
+
+#: includes/addons/CourseCarousel.php:352
+msgid "Limit"
+msgstr "সীমা"
+
+#: includes/addons/CourseCarousel.php:343 includes/addons/CourseList.php:385
+msgid "DESC"
+msgstr "নিম্নক্রমে"
+
+#: includes/addons/CourseCarousel.php:342 includes/addons/CourseList.php:384
+msgid "ASC"
+msgstr "ASC"
+
+#: includes/addons/CourseCarousel.php:339 includes/addons/CourseList.php:381
+msgid "Order"
+msgstr "যাতে"
+
+#: includes/addons/CourseCarousel.php:329 includes/addons/CourseList.php:371
+msgid "Date"
+msgstr "আপলোড"
+
+#: includes/addons/CourseCarousel.php:326 includes/addons/CourseList.php:368
+msgid "Order By"
+msgstr "যাতে করে"
+
+#: includes/addons/CourseCarousel.php:292 includes/addons/CourseList.php:334
+msgid "Exclude"
+msgstr "অগ্রাহ্য"
+
+#: includes/addons/CourseCarousel.php:278
+#: includes/addons/CourseCarousel.php:310 includes/addons/CourseList.php:320
+#: includes/addons/CourseList.php:352
+msgid "Authors"
+msgstr "লেখক"
+
+#: includes/addons/CourseCarousel.php:267
+#: includes/addons/CourseCarousel.php:299 includes/addons/CourseList.php:309
+#: includes/addons/CourseList.php:341
+msgid "Categories"
+msgstr "বিভাগ"
+
+#: includes/addons/CourseCarousel.php:260 includes/addons/CourseList.php:302
+msgid "Include"
+msgstr "অন্তর্ভুক্ত"
+
+#: includes/addons/CourseCarousel.php:245 includes/addons/CourseList.php:287
+msgid "Query"
+msgstr "ক্যোয়ারী"
+
+#: classes/Base.php:89
+msgid "Tutor LMS"
+msgstr "গৃহশিক্ষক LMS"
+
+#: classes/Base.php:74
+msgid "<strong style=\"color: #03bd24\">Get Support</strong>"
+msgstr "<strong style=\"color: #03bd24\">সহায়তা</strong>"
+
+#: classes/Base.php:69
+msgid "<strong style=\"color: #03bd24\">Documentation</strong>"
+msgstr "<strong style=\"color: #03bd24\">ডকুমেন্টেশন</strong>"
+
+#: classes/AddonsTrait.php:113
+msgid "Justified"
+msgstr "সমর্থনযোগ্য"
+
+#: classes/AddonsTrait.php:75
+msgid "Icon Position"
+msgstr "আইকন অবস্থান"
+
+#: classes/AddonsTrait.php:33
+msgid "Up"
+msgstr "আপ"
+
+#: classes/Installer.php:187
+msgid "Unknown Plugin"
+msgstr "অজানা প্লাগইন"
+
+#: classes/Installer.php:180
+msgid "Installing Plugin: %s"
+msgstr "প্লাগইন ইন্সটল হচ্ছে: %s"
+
+#: classes/Installer.php:130
+msgid "Learn more about Elementor"
+msgstr "সম্পর্কে আরও জানুন Elementor"
+
+#: classes/Installer.php:129
+msgid "To use Tutor LMS Elementor Integration, you must have <a href=\"%s\" target=\"_blank\">Elementor</a> Free installed and activated"
+msgstr "To use Tutor LMS Elementor Integration, you must have <a href=\"%s\" target=\"_blank\">Elementor</a> Free installed and activated"
+
+#: classes/Installer.php:117
+msgid "Install Elementor"
+msgstr "ইনস্টল Elementor"
+
+#: classes/Installer.php:114
+msgid "Activate Elementor"
+msgstr "সক্রিয় Elementor"
+
+#: classes/Installer.php:92
+msgid "Learn more about Tutor LMS"
+msgstr "সম্পর্কে আরও জানুন গৃহশিক্ষক LMS"
+
+#: classes/Installer.php:91
+msgid "To use Tutor LMS Elementor Integration, you must have <a href=\"%s\" target=\"_blank\">Tutor LMS</a> Free installed and activated"
+msgstr "To use Tutor LMS Elementor Integration, you must have <a href=\"%s\" target=\"_blank\">Tutor LMS</a> Free installed and activated"
+
+#: classes/Installer.php:90 classes/Installer.php:128
+msgid "Thanks for using Tutor LMS Elementor Addons"
+msgstr "ব্যবহার করার জন্য ধন্যবাদ গৃহশিক্ষক LMS Elementor অ্যাডঅনস"
+
+#: classes/Installer.php:79
+msgid "Install Tutor LMS"
+msgstr "ইনস্টল গৃহশিক্ষক LMS"
+
+#: classes/Installer.php:76
+msgid "Activate Tutor LMS"
+msgstr "সক্রিয় গৃহশিক্ষক LMS"
+
+#: classes/Template.php:153
+msgid "Tutor LMS Single Course Template"
+msgstr "গৃহশিক্ষক LMS একক কোর্স টেমপ্লেট"
+
+#: includes/addons/CourseRating.php:49
+msgid "Rating Stars"
+msgstr "তারার রেটিং"
+
+#: classes/AddonsManager.php:75 includes/addons/CourseRating.php:22
+msgid "Course Rating"
+msgstr "অবশ্যই রেটিং"
+
+#: includes/addons/CourseLevel.php:182
+msgid "All Levels"
+msgstr "সব মাত্রা"
+
+#: includes/addons/CourseLevel.php:174
+msgid "Please enable course level from tutor settings"
+msgstr "দয়া করে সক্রিয় কোর্স লেভেল থেকে গৃহশিক্ষক সেটিংস"
+
+#: includes/addons/CourseLevel.php:42
+msgid "Course level:"
+msgstr "কোর্স লেভেল:"
+
+#: classes/AddonsManager.php:84 includes/addons/CourseLevel.php:23
+msgid "Course Level"
+msgstr "অবশ্যই স্তর"
+
+#: includes/addons/CourseInstructors.php:439
+msgid "Bottom Info Padding"
+msgstr "নীচে তথ্য প্যাডিং"
+
+#: includes/addons/CourseInstructors.php:419
+msgid "Instructor Padding"
+msgstr "প্রশিক্ষক প্যাডিং"
+
+#: includes/addons/CourseInstructors.php:381
+msgid "Value Typography"
+msgstr "মান ছাপাখানার বিদ্যা"
+
+#: includes/addons/CourseInstructors.php:369
+msgid "Value Color"
+msgstr "মান রঙ"
+
+#: includes/addons/CourseInstructors.php:329
+msgid "Rating Size"
+msgstr "রেটিং আকার"
+
+#: includes/addons/CourseInstructors.php:318
+msgid "Rating Color"
+msgstr "রেটিং রঙ"
+
+#: includes/addons/CourseInstructors.php:310
+msgid "Bottom Info"
+msgstr "নীচে তথ্য"
+
+#: includes/addons/CourseInstructors.php:295
+msgid "Biography Typography"
+msgstr "জীবনী ছাপাখানার বিদ্যা"
+
+#: includes/addons/CourseInstructors.php:283
+msgid "Biography Color"
+msgstr "জীবনী রঙ"
+
+#: includes/addons/CourseInstructors.php:275
+msgid "Designation Typography"
+msgstr "উপাধি, ছাপাখানার বিদ্যা"
+
+#: includes/addons/CourseInstructors.php:263
+msgid "Designation Color"
+msgstr "উপাধি রঙ"
+
+#: includes/addons/CourseInstructors.php:173
+msgid "Instructor"
+msgstr "প্রশিক্ষক"
+
+#: includes/addons/CourseInstructors.php:93
+msgid "Link for the Author Name and Image"
+msgstr "লিঙ্ক জন্য লেখক নাম এবং ইমেজ"
+
+#: includes/addons/CourseInstructors.php:77
+msgid "Designation"
+msgstr "উপাধি"
+
+#: includes/addons/CourseInstructors.php:43
+msgid "About the instructors"
+msgstr "সম্পর্কে প্রশিক্ষক"
+
+#: includes/addons/CourseInstructors.php:33
+msgid "Author Info"
+msgstr "লেখক তথ্য"
+
+#: classes/AddonsManager.php:138 includes/addons/CourseInstructors.php:25
+msgid "Course Instructors"
+msgstr "কোর্সের প্রশিক্ষক"
+
+#: includes/addons/CourseTags.php:37 includes/addons/CourseTags.php:103
+msgid "Tags"
+msgstr "বিভাগ"
+
+#: classes/AddonsManager.php:120 includes/addons/CourseTags.php:19
+msgid "Course Tags"
+msgstr "অবশ্যই বিভাগ"
+
+#: classes/AddonsManager.php:90 includes/addons/CourseCategories.php:22
+msgid "Course Categories"
+msgstr "অবশ্যই বিভাগ"
+
+#: includes/addons/CourseList.php:1682
+msgid "Colors"
+msgstr "রং"
+
+#: includes/addons/CourseList.php:1084 includes/addons/CourseList.php:1096
+msgid "Shadow Control"
+msgstr "ছায়া নিয়ন্ত্রণ"
+
+#: includes/addons/CourseList.php:663
+msgid "Rows Gap"
+msgstr "সারি ফাঁক"
+
+#: includes/addons/CourseList.php:612 includes/addons/CourseList.php:637
+msgid "Columns Gap"
+msgstr "কলাম ফাঁক"
+
+#: includes/addons/CourseList.php:443
+msgid "Next"
+msgstr "পরবর্তী"
+
+#: includes/addons/CourseList.php:441
+msgid "Next Label"
+msgstr "পরবর্তী লেবেল"
+
+#: includes/addons/CourseList.php:434
+msgid "&laquo; Previous"
+msgstr "\"পূর্ববর্তী"
+
+#: includes/addons/CourseList.php:432
+msgid "Previous Label"
+msgstr "পূর্ববর্তী লেবেল"
+
+#: includes/addons/CourseList.php:420
+msgid "Page Limit"
+msgstr "পাতা সীমা"
+
+#: includes/addons/CourseList.php:412
+msgid "Numbers"
+msgstr "নাম্বার"
+
+#: includes/addons/CourseList.php:411
+msgid "Numbers + Previous/Next"
+msgstr "নাম্বার + পূর্ববর্তী/পরবর্তী"
+
+#: includes/addons/CourseList.php:410
+msgid "Previous/Next"
+msgstr "পূর্ববর্তী/পরবর্তী"
+
+#: includes/addons/CourseList.php:271 includes/addons/CourseList.php:397
+#: includes/addons/CourseList.php:405 includes/addons/CourseList.php:1664
+msgid "Pagination"
+msgstr "Pagination"
+
+#: includes/addons/CourseList.php:211
+msgid "Author"
+msgstr "লেখক"
+
+#: includes/addons/CourseList.php:118
+msgid "Masonry"
+msgstr "রাজমিস্ত্রির"
+
+#: includes/addons/CourseList.php:74
+msgid "5"
+msgstr "5"
+
+#: includes/addons/CourseList.php:73
+msgid "4"
+msgstr "4"
+
+#: includes/addons/CourseList.php:72
+msgid "3"
+msgstr "3"
+
+#: includes/addons/CourseList.php:71
+msgid "2"
+msgstr "2"
+
+#: includes/addons/CourseList.php:70
+msgid "1"
+msgstr "1"
+
+#: includes/addons/CourseList.php:66
+msgid "Columns"
+msgstr "কলাম"
+
+#: classes/AddonsManager.php:147 includes/addons/CourseList.php:24
+msgid "Course List"
+msgstr "কোর্স তালিকা"
+
+#: includes/addons/CourseSocialShare.php:345
+msgid "Please enable course share from tutor settings"
+msgstr "দয়া করে সক্রিয় অবশ্যই শেয়ার থেকে গৃহশিক্ষক সেটিংস"
+
+#: includes/addons/CourseSocialShare.php:270
+msgid "Icon Hover"
+msgstr "আইকন উপর কার্সার রেখে দেখুন"
+
+#: includes/addons/CourseSocialShare.php:123
+msgid "Custom"
+msgstr "কাস্টম"
+
+#: includes/addons/CourseSocialShare.php:122
+msgid "Official Color"
+msgstr "অফিসিয়াল রঙ"
+
+#: includes/addons/CourseSocialShare.php:58
+msgid "circle"
+msgstr "বৃত্ত"
+
+#: includes/addons/CourseSocialShare.php:57
+msgid "Square"
+msgstr "স্কয়ার"
+
+#: includes/addons/CourseSocialShare.php:56
+msgid "Rounded"
+msgstr "বৃত্তাকার"
+
+#: includes/addons/CourseSocialShare.php:53
+msgid "Shape"
+msgstr "আকৃতি"
+
+#: includes/addons/CourseSocialShare.php:32
+msgid "Social Icons"
+msgstr "সামাজিক আইকন"
+
+#: classes/AddonsManager.php:87 includes/addons/CourseSocialShare.php:24
+msgid "Course Social Share"
+msgstr "অবশ্যই সামাজিক সেয়ার"
+
+#: classes/AddonsTrait.php:63 classes/AddonsTrait.php:83
+#: classes/AddonsTrait.php:109 classes/AddonsTrait.php:158
+#: includes/addons/CourseCarousel.php:2210 includes/addons/CourseList.php:462
+#: includes/addons/CourseList.php:699
+msgid "Right"
+msgstr "ডান"
+
+#: classes/AddonsTrait.php:59 classes/AddonsTrait.php:105
+#: classes/AddonsTrait.php:132 classes/AddonsTrait.php:154
+#: includes/addons/CourseCarousel.php:2206 includes/addons/CourseList.php:458
+#: includes/addons/CourseList.php:695
+msgid "Center"
+msgstr "কেন্দ্র"
+
+#: classes/AddonsTrait.php:29 classes/AddonsTrait.php:55
+#: classes/AddonsTrait.php:79 classes/AddonsTrait.php:101
+#: classes/AddonsTrait.php:128 classes/AddonsTrait.php:150
+#: includes/addons/CourseCarousel.php:2202 includes/addons/CourseList.php:454
+#: includes/addons/CourseList.php:691
+msgid "Left"
+msgstr "বাম"
+
+#: classes/AddonsTrait.php:51 classes/AddonsTrait.php:97
+#: classes/AddonsTrait.php:146 includes/addons/CourseCarousel.php:2198
+#: includes/addons/CourseList.php:450 includes/addons/CourseList.php:687
+msgid "Alignment"
+msgstr "প্রান্তিককরণ"
+
+#: includes/addons/CourseCarousel.php:2024
+#: includes/addons/CourseCarousel.php:2140
+msgid "Shadow"
+msgstr "ছায়া"
+
+#: includes/addons/CourseCarousel.php:1993
+#: includes/addons/CourseCarousel.php:2108
+msgid "Shape Radius"
+msgstr "আকৃতি ব্যাসার্ধ"
+
+#: includes/addons/CourseCarousel.php:1928
+#: includes/addons/CourseCarousel.php:2053
+#: includes/addons/CourseSocialShare.php:145
+#: includes/addons/CourseSocialShare.php:293
+msgid "Shape Color"
+msgstr "আকৃতি, রঙ"
+
+#: includes/addons/CourseCarousel.php:1917
+#: includes/addons/CourseCarousel.php:2042
+msgid "Arrow Color"
+msgstr "তীর রঙ"
+
+#: includes/addons/CourseCarousel.php:1854
+msgid "Shape Size"
+msgstr "আকৃতি, আকার"
+
+#: includes/addons/CourseCarousel.php:1833
+msgid "Ghost / Outlined"
+msgstr "গোস্ট / বিবেচ্য"
+
+#: includes/addons/CourseCarousel.php:1828
+msgid "Arrow Style"
+msgstr "তীর শৈলী"
+
+#: includes/addons/CourseCarousel.php:1769 includes/addons/CourseList.php:2150
+msgid "Border Type"
+msgstr "সীমান্ত টাইপ"
+
+#: includes/addons/CourseCarousel.php:1606 includes/addons/CourseList.php:1987
+msgid "Text Shadow"
+msgstr "টেক্সট ছায়া"
+
+#: includes/addons/CourseCarousel.php:1588 includes/addons/CourseList.php:1969
+msgid "Cart Button"
+msgstr "কার্ট বাটন"
+
+#: includes/addons/CourseCarousel.php:1559 includes/addons/CourseList.php:1940
+msgid "Price"
+msgstr "মূল্য"
+
+#: includes/addons/CourseCarousel.php:1454 includes/addons/CourseRating.php:57
+#: includes/addons/CourseList.php:1596
+msgid "Star Color"
+msgstr "তারকা রঙ"
+
+#: includes/addons/CourseCarousel.php:1365 includes/addons/CourseList.php:1507
+msgid "Separator Color"
+msgstr "বিভাজক রঙ"
+
+#: includes/addons/CourseCarousel.php:1346 includes/addons/CourseList.php:1488
+msgid "Meta"
+msgstr "মেটা"
+
+#: includes/addons/CourseCarousel.php:1327
+#: includes/addons/CourseCarousel.php:1422 includes/addons/CourseList.php:1469
+#: includes/addons/CourseList.php:1564
+msgid "Space"
+msgstr "স্থান"
+
+#: includes/addons/CourseCarousel.php:1291 includes/addons/CourseList.php:1433
+msgid "Content"
+msgstr "কন্টেন্ট"
+
+#: includes/addons/CourseTags.php:166 includes/addons/CourseTags.php:269
+#: includes/addons/CourseCarousel.php:1210 includes/addons/CourseList.php:1352
+msgid "Margin"
+msgstr "মার্জিন"
+
+#: includes/addons/CourseCarousel.php:1150 includes/addons/CourseList.php:1292
+msgid "Badge"
+msgstr "ব্যাজ"
+
+#: includes/addons/CourseCarousel.php:928
+#: includes/addons/CourseCarousel.php:975 includes/addons/CourseList.php:1026
+#: includes/addons/CourseList.php:1118
+msgid "Footer Seperator Width"
+msgstr "পাদচরণ প্রস্থ Seperator"
+
+#: includes/addons/CourseCarousel.php:917
+#: includes/addons/CourseCarousel.php:964 includes/addons/CourseList.php:1015
+#: includes/addons/CourseList.php:1107
+msgid "Footer Seperator Color"
+msgstr "পাদচরণ রঙ Seperator"
+
+#: includes/addons/CourseCarousel.php:893
+#: includes/addons/CourseCarousel.php:1043
+#: includes/addons/CourseCarousel.php:1057
+#: includes/addons/CourseCarousel.php:1090
+#: includes/addons/CourseCarousel.php:1105 includes/addons/CourseList.php:1188
+#: includes/addons/CourseList.php:1202 includes/addons/CourseList.php:1234
+#: includes/addons/CourseList.php:1248
+msgid "Overlay"
+msgstr "আস্তরণ"
+
+#: includes/addons/CourseCarousel.php:556
+msgid "Paush on Hover"
+msgstr "Paush উপর কার্সার রেখে দেখুন"
+
+#: includes/addons/CourseCarousel.php:544
+msgid "Infinite Loop"
+msgstr "অসীম লুপ"
+
+#: includes/addons/CourseCarousel.php:535
+msgid "Auto Play Speed"
+msgstr "অটো প্লে স্পিড"
+
+#: includes/addons/CourseCarousel.php:523
+msgid "Auto Play"
+msgstr "অটো প্লে"
+
+#: includes/addons/CourseCarousel.php:511
+msgid "Smooth Scrolling"
+msgstr "মসৃণ স্ক্রলিং"
+
+#: includes/addons/CourseCarousel.php:499
+msgid "Centered Slides"
+msgstr "কেন্দ্রিক স্লাইড"
+
+#: includes/addons/CourseCarousel.php:490
+msgid "Transition Duration"
+msgstr "ট্রানজিশন ডিউরেশন"
+
+#: includes/addons/CourseCarousel.php:478
+#: includes/addons/CourseCarousel.php:2155
+msgid "Dots"
+msgstr "বিন্দু"
+
+#: includes/addons/CourseCarousel.php:466
+#: includes/addons/CourseCarousel.php:1820
+msgid "Arrows"
+msgstr "তীর"
+
+#: includes/addons/CourseCarousel.php:458
+msgid "Carousel Settings"
+msgstr "ক্যারোউজেল সেটিংস"
+
+#: includes/addons/CourseCarousel.php:417 includes/addons/CourseList.php:534
+msgid "Icon Spacing"
+msgstr "আইকন ফাঁক"
+
+#: includes/addons/CourseCarousel.php:386 includes/addons/CourseList.php:503
+msgid "Text with Cart"
+msgstr "টেক্সট সঙ্গে কার্ট"
+
+#: includes/addons/CourseCarousel.php:385 includes/addons/CourseList.php:502
+msgid "Text Button"
+msgstr "টেক্সট বাটন"
+
+#: includes/addons/CourseCarousel.php:384 includes/addons/CourseList.php:501
+msgid "Default with Cart Icon"
+msgstr "ডিফল্ট সঙ্গে কার্ট আইকন"
+
+#: includes/addons/CourseCarousel.php:380 includes/addons/CourseList.php:497
+msgid "Button Type"
+msgstr "বাটন টাইপ"
+
+#: includes/addons/CourseCarousel.php:231
+#: includes/addons/CourseCarousel.php:1522 includes/addons/CourseList.php:259
+#: includes/addons/CourseList.php:1903
+msgid "Footer"
+msgstr "পাদচরণ"
+
+#: includes/addons/CourseCarousel.php:219 includes/addons/CourseList.php:247
+msgid "Wishlist"
+msgstr "ইসলাম"
+
+#: includes/addons/CourseCarousel.php:207
+#: includes/addons/CourseCarousel.php:1394 includes/addons/CourseList.php:235
+#: includes/addons/CourseList.php:1536
+msgid "Category"
+msgstr "বিভাগ"
+
+#: includes/addons/CourseCarousel.php:195 includes/addons/CourseList.php:223
+msgid "Difficulty Level"
+msgstr "অসুবিধা স্তর"
+
+#: includes/addons/CourseCarousel.php:183
+#: includes/addons/CourseCarousel.php:1236 includes/addons/CourseList.php:199
+#: includes/addons/CourseList.php:1378
+msgid "Avatar"
+msgstr "অবতার"
+
+#: includes/addons/CourseCarousel.php:170
+#: includes/addons/CourseCarousel.php:1446 includes/addons/CourseList.php:186
+#: includes/addons/CourseList.php:1588
+msgid "Rating"
+msgstr "রেটিং"
+
+#: includes/addons/CourseCarousel.php:126 includes/addons/CourseList.php:142
+msgid "Meta Data"
+msgstr "মেটা তথ্য"
+
+#: includes/addons/CourseCarousel.php:102 includes/addons/CourseList.php:106
+msgid "Show Image"
+msgstr "শো ইমেজ"
+
+#: includes/addons/CourseCarousel.php:93 includes/addons/CourseCarousel.php:502
+#: includes/addons/CourseCarousel.php:514
+#: includes/addons/CourseCarousel.php:526
+#: includes/addons/CourseCarousel.php:547
+#: includes/addons/CourseCarousel.php:559 includes/addons/CourseList.php:97
+#: includes/addons/CourseList.php:121 includes/addons/CourseList.php:1063
+msgid "No"
+msgstr "কোন"
+
+#: includes/addons/CourseCarousel.php:92 includes/addons/CourseCarousel.php:501
+#: includes/addons/CourseCarousel.php:513
+#: includes/addons/CourseCarousel.php:525
+#: includes/addons/CourseCarousel.php:546
+#: includes/addons/CourseCarousel.php:558 includes/addons/CourseList.php:96
+#: includes/addons/CourseList.php:120 includes/addons/CourseList.php:1062
+msgid "Yes"
+msgstr "হ্যাঁ"
+
+#: includes/addons/CourseCarousel.php:90
+#: includes/addons/CourseCarousel.php:1130
+#: includes/addons/CourseSocialShare.php:327 includes/addons/CourseList.php:94
+#: includes/addons/CourseList.php:1271
+msgid "Hover Animation"
+msgstr "উপর কার্সার রেখে দেখুন অ্যানিমেশন"
+
+#: includes/addons/CourseCarousel.php:80 includes/addons/CourseCarousel.php:383
+#: includes/addons/CourseCarousel.php:1832 includes/addons/CourseList.php:500
+msgid "Default"
+msgstr "ডিফল্ট"
+
+#: includes/addons/CourseCarousel.php:77
+msgid "Slides to Show"
+msgstr "স্লাইড প্রদর্শন করতে"
+
+#: includes/addons/CourseCarousel.php:64 includes/addons/CourseList.php:57
+msgid "Overlayed"
+msgstr "Overlayed"
+
+#: includes/addons/CourseCarousel.php:63 includes/addons/CourseList.php:56
+msgid "Stacked"
+msgstr "স্তুপীকৃত"
+
+#: includes/addons/CourseCarousel.php:62 includes/addons/CourseCarousel.php:599
+#: includes/addons/CourseList.php:55 includes/addons/CourseList.php:715
+msgid "Card"
+msgstr "কার্ড"
+
+#: includes/addons/CourseCarousel.php:61 includes/addons/CourseList.php:54
+msgid "Classic"
+msgstr "ক্লাসিক"
+
+#: includes/addons/CourseCarousel.php:57 includes/addons/CourseList.php:50
+msgid "Skin"
+msgstr "ত্বক"
+
+#: classes/AddonsManager.php:144 includes/addons/CourseCarousel.php:24
+msgid "Course Carousel"
+msgstr "অবশ্যই Carousel"
+
+#: includes/addons/CourseTargetAudience.php:294
+msgid "Please enable course target audience from tutor settings"
+msgstr "দয়া করে সক্রিয় অবশ্যই লক্ষ্য শ্রোতা থেকে গৃহশিক্ষক সেটিংস"
+
+#: includes/addons/CourseTargetAudience.php:38
+msgid "Target Audience"
+msgstr "লক্ষ্য শ্রোতা"
+
+#: classes/AddonsManager.php:123 includes/addons/CourseTargetAudience.php:22
+msgid "Course Target Audience"
+msgstr "অবশ্যই লক্ষ্য শ্রোতা"
+
+#: includes/addons/CourseBenefits.php:294
+msgid "Please enable course benefits from tutor settings"
+msgstr "দয়া করে সক্রিয় কোর্সের সুবিধা থেকে গৃহশিক্ষক সেটিংস"
+
+#: includes/addons/CourseBenefits.php:38
+msgid "What Will I Learn?"
+msgstr "আমি কি জানতে হবে?"
+
+#: classes/AddonsManager.php:132 includes/addons/CourseBenefits.php:22
+msgid "Course Benefits"
+msgstr "কোর্সের সুবিধা"
+
+#: includes/addons/CourseThumbnail.php:46
+#: includes/addons/CourseThumbnail.php:103
+#: includes/addons/CourseCarousel.php:1069
+#: includes/addons/CourseCarousel.php:1117 includes/addons/CourseList.php:1214
+#: includes/addons/CourseList.php:1261
+msgid "CSS Filters"
+msgstr "সিএসএস ফিল্টার"
+
+#: includes/addons/CourseThumbnail.php:29
+#: includes/addons/CourseCategories.php:86
+msgid "Style"
+msgstr "শৈলী"
+
+#: classes/AddonsManager.php:105 includes/addons/CourseThumbnail.php:19
+msgid "Course Thumbnail"
+msgstr "অবশ্যই থাম্বনেইল"
+
+#: includes/addons/CourseMaterials.php:294
+msgid "Please enable course materials from tutor settings"
+msgstr "দয়া করে সক্রিয় কোর্সের উপকরণ থেকে গৃহশিক্ষক সেটিংস"
+
+#: includes/addons/CourseMaterials.php:38
+msgid "Material Includes"
+msgstr "উপাদান রয়েছে"
+
+#: classes/AddonsManager.php:114 includes/addons/CourseMaterials.php:22
+msgid "Course Materials"
+msgstr "কোর্সের উপকরণ"
+
+#: includes/addons/CourseTitle.php:62
+msgid "Color & Typography"
+msgstr "রঙ ও ছাপাখানার বিদ্যা"
+
+#: includes/addons/CourseTitle.php:35
+msgid "Select Tag"
+msgstr "ট্যাগ নির্বাচন করুন"
+
+#: classes/AddonsManager.php:78 includes/addons/CourseTitle.php:22
+#: includes/addons/CourseTitle.php:92
+msgid "Course Title"
+msgstr "কোর্সের শিরোনাম"
+
+#: includes/addons/CourseAuthor.php:245
+msgid "Please enable course author from tutor settings"
+msgstr "দয়া করে সক্রিয় অবশ্যই লেখক থেকে গৃহশিক্ষক সেটিংস"
+
+#: includes/addons/CourseAuthor.php:213
+msgid "Name"
+msgstr "নাম"
+
+#: includes/addons/CourseAuthor.php:92 includes/addons/CourseCarousel.php:1006
+#: includes/addons/CourseList.php:1149
+msgid "Image"
+msgstr "ইমেজ"
+
+#: includes/addons/CourseInstructors.php:91 includes/addons/CourseAuthor.php:63
+msgid "Link"
+msgstr "লিঙ্ক"
+
+#: includes/addons/CourseInstructors.php:65 includes/addons/CourseAuthor.php:51
+msgid "Display Name"
+msgstr "প্রদর্শন নাম"
+
+#: includes/addons/CourseInstructors.php:52 includes/addons/CourseAuthor.php:39
+msgid "Profile Picture"
+msgstr "প্রোফাইল ছবি"
+
+#: classes/AddonsManager.php:81 includes/addons/CourseAuthor.php:25
+msgid "Course Author"
+msgstr "অবশ্যই লেখক"
+
+#: includes/addons/CourseStatus.php:249
+msgid "Please enable course status from tutor settings"
+msgstr "দয়া করে সক্রিয় কোর্স অবস্থা থেকে গৃহশিক্ষক সেটিংস"
+
+#: includes/addons/CourseStatus.php:216
+msgid "Progress Text"
+msgstr "টেক্সট অগ্রগতি"
+
+#: includes/addons/CourseStatus.php:135
+msgid "Progress Bar"
+msgstr "অগ্রগতি বার"
+
+#: includes/addons/CourseStatus.php:62
+msgid "On top"
+msgstr "উপরে"
+
+#: includes/addons/CourseCarousel.php:1847
+#: includes/addons/CourseCarousel.php:2168 includes/addons/CourseStatus.php:61
+msgid "Outside"
+msgstr "বাইরে"
+
+#: includes/addons/CourseCarousel.php:1846
+#: includes/addons/CourseCarousel.php:2167 includes/addons/CourseStatus.php:60
+msgid "Inside"
+msgstr "ভিতরে"
+
+#: includes/addons/CourseCarousel.php:1842
+#: includes/addons/CourseCarousel.php:2163 includes/addons/CourseStatus.php:57
+msgid "Position"
+msgstr "অবস্থান"
+
+#: includes/addons/CourseInstructors.php:56
+#: includes/addons/CourseInstructors.php:68
+#: includes/addons/CourseInstructors.php:80 includes/addons/CourseAuthor.php:42
+#: includes/addons/CourseAuthor.php:54 includes/addons/CourseCarousel.php:105
+#: includes/addons/CourseCarousel.php:129
+#: includes/addons/CourseCarousel.php:173
+#: includes/addons/CourseCarousel.php:186
+#: includes/addons/CourseCarousel.php:198
+#: includes/addons/CourseCarousel.php:210
+#: includes/addons/CourseCarousel.php:222
+#: includes/addons/CourseCarousel.php:234
+#: includes/addons/CourseCarousel.php:469
+#: includes/addons/CourseCarousel.php:481 includes/addons/CourseStatus.php:48
+#: includes/addons/CourseSocialShare.php:43 includes/addons/CourseList.php:109
+#: includes/addons/CourseList.php:145 includes/addons/CourseList.php:189
+#: includes/addons/CourseList.php:202 includes/addons/CourseList.php:214
+#: includes/addons/CourseList.php:226 includes/addons/CourseList.php:238
+#: includes/addons/CourseList.php:250 includes/addons/CourseList.php:262
+#: includes/addons/CourseList.php:274
+msgid "Hide"
+msgstr "আড়াল"
+
+#: includes/addons/CourseInstructors.php:55
+#: includes/addons/CourseInstructors.php:67
+#: includes/addons/CourseInstructors.php:79 includes/addons/CourseAuthor.php:41
+#: includes/addons/CourseAuthor.php:53 includes/addons/CourseCarousel.php:104
+#: includes/addons/CourseCarousel.php:128
+#: includes/addons/CourseCarousel.php:172
+#: includes/addons/CourseCarousel.php:185
+#: includes/addons/CourseCarousel.php:197
+#: includes/addons/CourseCarousel.php:209
+#: includes/addons/CourseCarousel.php:221
+#: includes/addons/CourseCarousel.php:233
+#: includes/addons/CourseCarousel.php:468
+#: includes/addons/CourseCarousel.php:480 includes/addons/CourseStatus.php:47
+#: includes/addons/CourseSocialShare.php:42 includes/addons/CourseList.php:108
+#: includes/addons/CourseList.php:144 includes/addons/CourseList.php:188
+#: includes/addons/CourseList.php:201 includes/addons/CourseList.php:213
+#: includes/addons/CourseList.php:225 includes/addons/CourseList.php:237
+#: includes/addons/CourseList.php:249 includes/addons/CourseList.php:261
+#: includes/addons/CourseList.php:273
+msgid "Show"
+msgstr "শো"
+
+#: includes/addons/CourseStatus.php:44
+msgid "Display Percentage"
+msgstr "প্রদর্শন শতাংশ"
+
+#: classes/AddonsManager.php:102 includes/addons/CourseStatus.php:17
+#: includes/addons/CourseStatus.php:35
+msgid "Course Status"
+msgstr "অবশ্যই অবস্থা"
+
+#: includes/addons/CourseDescription.php:129
+msgid "Please enable course description from tutor settings"
+msgstr "দয়া করে সক্রিয় কোর্স থেকে বর্ণনা গৃহশিক্ষক সেটিংস"
+
+#: includes/addons/CourseDescription.php:35
+msgid "Description"
+msgstr "বিবরণ:"
+
+#: classes/AddonsManager.php:129 includes/addons/CourseDescription.php:17
+msgid "Course Description"
+msgstr "কোর্সের বিবরণ"
+
+#: includes/addons/CourseReviews.php:489 includes/addons/CourseRating.php:136
+msgid "Please enable course review from tutor settings"
+msgstr "দয়া করে সক্রিয় কোর্স পর্যালোচনা থেকে গৃহশিক্ষক সেটিংস"
+
+#: includes/addons/CourseReviews.php:478
+msgid "Comment Typography"
+msgstr "মন্তব্য ছাপাখানার বিদ্যা"
+
+#: includes/addons/CourseReviews.php:466
+msgid "Comment Color"
+msgstr "মন্তব্য রং"
+
+#: includes/addons/CourseReviews.php:428
+msgid "Time Text Typography"
+msgstr "সময়, টেক্সট, ছাপাখানার বিদ্যা"
+
+#: includes/addons/CourseReviews.php:416
+msgid "Time Text Color"
+msgstr "সময় টেক্সট রঙ"
+
+#: includes/addons/CourseInstructors.php:256
+#: includes/addons/CourseReviews.php:409
+msgid "Name Typography"
+msgstr "নাম ছাপাখানার বিদ্যা"
+
+#: includes/addons/CourseInstructors.php:244
+#: includes/addons/CourseReviews.php:397
+msgid "Name Color"
+msgstr "নাম রঙ"
+
+#: includes/addons/CourseInstructors.php:202
+#: includes/addons/CourseReviews.php:355
+msgid "Background Type"
+msgstr "ব্যাকগ্রাউন্ড টাইপ"
+
+#: includes/addons/CourseInstructors.php:180
+#: includes/addons/CourseCarousel.php:115 includes/addons/CourseReviews.php:333
+#: includes/addons/CourseList.php:131
+msgid "Image Size"
+msgstr "ইমেজ সাইজ"
+
+#: includes/addons/CourseReviews.php:325
+msgid "Review list"
+msgstr "পর্যালোচনা তালিকা"
+
+#: includes/addons/CourseCarousel.php:1464
+#: includes/addons/CourseReviews.php:271 includes/addons/CourseRating.php:69
+#: includes/addons/CourseList.php:1606
+msgid "Star Size"
+msgstr "রাশি আকার"
+
+#: includes/addons/CourseStatus.php:164 includes/addons/CourseReviews.php:237
+msgid "Height"
+msgstr "উচ্চতা"
+
+#: includes/addons/CourseCarousel.php:2276
+#: includes/addons/CourseCarousel.php:2297
+#: includes/addons/CourseReviews.php:226
+msgid "Fill Color"
+msgstr "ভরাট রঙ"
+
+#: includes/addons/CourseReviews.php:208
+msgid "Right Rating Bar"
+msgstr "ডান রেটিং বার"
+
+#: includes/addons/CourseReviews.php:194
+msgid "Total Count Typography"
+msgstr "মোট গণনা, ছাপাখানার বিদ্যা"
+
+#: includes/addons/CourseReviews.php:183
+msgid "Total Count Color"
+msgstr "মোট গণনা, রঙ"
+
+#: includes/addons/CourseReviews.php:176
+msgid "Total Label Typography"
+msgstr "মোট লেবেল ছাপাখানার বিদ্যা"
+
+#: includes/addons/CourseReviews.php:164
+msgid "Total Label Color"
+msgstr "মোট লেবেল রঙ"
+
+#: includes/addons/CourseReviews.php:143 includes/addons/CourseReviews.php:446
+msgid "Stars Size"
+msgstr "বড় সাইজ"
+
+#: includes/addons/CourseReviews.php:132 includes/addons/CourseReviews.php:260
+#: includes/addons/CourseReviews.php:435
+msgid "Stars Color"
+msgstr "তারা রঙ"
+
+#: includes/addons/CourseReviews.php:125 includes/addons/CourseReviews.php:307
+msgid "Text Typography"
+msgstr "টেক্সট, ছাপাখানার বিদ্যা"
+
+#: includes/addons/CourseReviews.php:106
+msgid "Review Avg"
+msgstr "পর্যালোচনা গড়"
+
+#: includes/addons/CourseReviews.php:37
+msgid "Student Ratings & Reviews"
+msgstr "ছাত্র রেটিং ও পর্যালোচনা"
+
+#: classes/AddonsManager.php:141 includes/addons/CourseReviews.php:19
+msgid "Course Reviews"
+msgstr "কোর্স পর্যালোচনা"
+
+#: includes/addons/CourseRequirements.php:294
+msgid "Please enable course requirements from tutor settings"
+msgstr "দয়া করে সক্রিয় অবশ্যই প্রয়োজনীয়তা থেকে গৃহশিক্ষক সেটিংস"
+
+#: includes/addons/CourseBenefits.php:205
+#: includes/addons/CourseMaterials.php:205
+#: includes/addons/CourseCarousel.php:396
+#: includes/addons/CourseSocialShare.php:111
+#: includes/addons/CourseRequirements.php:205
+#: includes/addons/CourseTargetAudience.php:205
+#: includes/addons/CourseList.php:513
+msgid "Icon"
+msgstr "আইকন"
+
+#: includes/addons/CourseInstructors.php:460
+#: includes/addons/CourseBenefits.php:150
+#: includes/addons/CourseMaterials.php:150
+#: includes/addons/CourseCarousel.php:138
+#: includes/addons/CourseCarousel.php:2245
+#: includes/addons/CourseRequirements.php:150
+#: includes/addons/CourseTargetAudience.php:150
+#: includes/addons/CourseList.php:154 includes/addons/CourseList.php:1871
+msgid "Space Between"
+msgstr "স্থান মধ্যে"
+
+#: includes/addons/CourseInstructors.php:119 includes/addons/CourseTags.php:55
+#: includes/addons/CourseBenefits.php:95 includes/addons/CourseMaterials.php:95
+#: includes/addons/CourseStatus.php:86 includes/addons/CourseReviews.php:54
+#: includes/addons/CourseRequirements.php:95
+#: includes/addons/CourseTargetAudience.php:95
+msgid "Section Title"
+msgstr "অধ্যায় শিরোনাম"
+
+#: includes/addons/CourseBenefits.php:67 includes/addons/CourseMaterials.php:67
+#: includes/addons/CourseRequirements.php:67
+#: includes/addons/CourseTargetAudience.php:67
+msgid "List Icon"
+msgstr "তালিকায় আইকন"
+
+#: includes/addons/CourseBenefits.php:55 includes/addons/CourseMaterials.php:55
+#: includes/addons/CourseRequirements.php:55
+#: includes/addons/CourseTargetAudience.php:55
+msgid "Inline"
+msgstr "ইনলাইন"
+
+#: includes/addons/CourseBenefits.php:51 includes/addons/CourseBenefits.php:143
+#: includes/addons/CourseMaterials.php:51
+#: includes/addons/CourseMaterials.php:143
+#: includes/addons/CourseRequirements.php:51
+#: includes/addons/CourseRequirements.php:143
+#: includes/addons/CourseTargetAudience.php:51
+#: includes/addons/CourseTargetAudience.php:143
+msgid "List"
+msgstr "তালিকা"
+
+#: classes/AddonsTrait.php:25 classes/AddonsTrait.php:124
+#: includes/addons/CourseBenefits.php:47 includes/addons/CourseMaterials.php:47
+#: includes/addons/CourseCarousel.php:49
+#: includes/addons/CourseRequirements.php:47
+#: includes/addons/CourseTargetAudience.php:47
+#: includes/addons/CourseList.php:42 includes/addons/CourseList.php:604
+msgid "Layout"
+msgstr "বিন্যাস"
+
+#: includes/addons/CourseRequirements.php:38
+msgid "Requirements"
+msgstr "প্রয়োজনীয়তা"
+
+#: classes/AddonsManager.php:117 includes/addons/CourseRequirements.php:22
+msgid "Course Requirements"
+msgstr "অবশ্যই প্রয়োজনীয়তা"
+
+#: includes/addons/CoursePrice.php:127
+msgid "Since you are already enrolled, the price will not appear"
+msgstr "যেহেতু আপনি ইতিমধ্যে নাম নথিভুক্ত দাম প্রদর্শিত হবে না"
+
+#: includes/addons/CoursePrice.php:91
+msgid "Strike"
+msgstr "ধর্মঘট"
+
+#: classes/AddonsManager.php:108 includes/addons/CoursePrice.php:21
+msgid "Course Price"
+msgstr "কোর্স মূল্য"
+
+#: includes/addons/CourseDuration.php:172
+msgid "Please enable course duration from tutor settings"
+msgstr "দয়া করে সক্রিয় কোর্স সময়কাল থেকে গৃহশিক্ষক সেটিংস"
+
+#: includes/addons/CourseDuration.php:40
+msgid "Course Duration:"
+msgstr "কোর্স সময়কাল:"
+
+#: classes/AddonsManager.php:93 includes/addons/CourseDuration.php:22
+msgid "Course Duration"
+msgstr "কোর্স সময়কাল"
+
+#: includes/addons/CourseEnrolmentBox.php:1057
+msgid "Date Typography"
+msgstr "আপলোড ছাপাখানার বিদ্যা"
+
+#: includes/addons/CourseEnrolmentBox.php:1046
+msgid "Date Color"
+msgstr "তারিখ রঙ"
+
+#: includes/addons/CourseInstructors.php:361
+#: includes/addons/CourseEnrolmentBox.php:1039
+msgid "Label Typography"
+msgstr "লেবেল ছাপাখানার বিদ্যা"
+
+#: includes/addons/CourseInstructors.php:350
+#: includes/addons/CourseEnrolmentBox.php:1028
+msgid "Label Color"
+msgstr "লেবেল রঙ"
+
+#: includes/addons/CourseEnrolmentBox.php:990
+msgid "Enrolled Info"
+msgstr "ভর্তি তথ্য"
+
+#: includes/addons/CourseEnrolmentBox.php:816
+msgid "Gradebook Button"
+msgstr "Gradebook বাটন"
+
+#: includes/addons/CourseEnrolmentBox.php:644
+msgid "Complete Button"
+msgstr "সম্পূর্ণ বাটন"
+
+#: includes/addons/CourseEnrolmentBox.php:472
+msgid "Start/Continue Button"
+msgstr "শুরু/বাটন চালিয়ে"
+
+#: includes/addons/CourseCarousel.php:367 includes/addons/CourseList.php:483
+#: includes/addons/CourseEnrolmentBox.php:300
+msgid "Enroll Button"
+msgstr "নথিভুক্ত বাটন"
+
+#: includes/addons/CourseThumbnail.php:84
+#: includes/addons/CourseThumbnail.php:133 includes/addons/CourseTags.php:208
+#: includes/addons/CourseTags.php:302 includes/addons/CourseAuthor.php:173
+#: includes/addons/CourseCarousel.php:735
+#: includes/addons/CourseCarousel.php:748
+#: includes/addons/CourseCarousel.php:851
+#: includes/addons/CourseCarousel.php:863
+#: includes/addons/CourseCarousel.php:1789 includes/addons/CourseList.php:850
+#: includes/addons/CourseList.php:862 includes/addons/CourseList.php:963
+#: includes/addons/CourseList.php:975 includes/addons/CourseList.php:1060
+#: includes/addons/CourseList.php:1838 includes/addons/CourseList.php:2170
+#: includes/addons/CourseEnrolmentBox.php:211
+#: includes/addons/CourseEnrolmentBox.php:286
+#: includes/addons/CourseEnrolmentBox.php:384
+#: includes/addons/CourseEnrolmentBox.php:459
+#: includes/addons/CourseEnrolmentBox.php:556
+#: includes/addons/CourseEnrolmentBox.php:631
+#: includes/addons/CourseEnrolmentBox.php:728
+#: includes/addons/CourseEnrolmentBox.php:803
+#: includes/addons/CourseEnrolmentBox.php:900
+#: includes/addons/CourseEnrolmentBox.php:975
+msgid "Box Shadow"
+msgstr "বক্স ছায়া"
+
+#: includes/addons/CourseTags.php:179 includes/addons/CourseTags.php:282
+#: includes/addons/CourseBenefits.php:172 includes/addons/CourseAuthor.php:144
+#: includes/addons/CourseMaterials.php:172
+#: includes/addons/CourseCarousel.php:654
+#: includes/addons/CourseCarousel.php:665
+#: includes/addons/CourseCarousel.php:769
+#: includes/addons/CourseCarousel.php:780
+#: includes/addons/CourseRequirements.php:172
+#: includes/addons/CourseTargetAudience.php:172
+#: includes/addons/CourseList.php:770 includes/addons/CourseList.php:781
+#: includes/addons/CourseList.php:882 includes/addons/CourseList.php:894
+#: includes/addons/CourseList.php:1728 includes/addons/CourseList.php:1773
+#: includes/addons/CourseList.php:1818
+#: includes/addons/CourseEnrolmentBox.php:185
+#: includes/addons/CourseEnrolmentBox.php:268
+#: includes/addons/CourseEnrolmentBox.php:358
+#: includes/addons/CourseEnrolmentBox.php:441
+#: includes/addons/CourseEnrolmentBox.php:530
+#: includes/addons/CourseEnrolmentBox.php:613
+#: includes/addons/CourseEnrolmentBox.php:702
+#: includes/addons/CourseEnrolmentBox.php:785
+#: includes/addons/CourseEnrolmentBox.php:874
+#: includes/addons/CourseEnrolmentBox.php:957
+msgid "Border"
+msgstr "সীমান্ত"
+
+#: includes/addons/CourseTags.php:154 includes/addons/CourseTags.php:257
+#: includes/addons/CourseBenefits.php:190
+#: includes/addons/CourseMaterials.php:190
+#: includes/addons/CourseCarousel.php:880
+#: includes/addons/CourseCarousel.php:1540
+#: includes/addons/CourseCarousel.php:1804
+#: includes/addons/CourseSocialShare.php:180
+#: includes/addons/CourseRequirements.php:190
+#: includes/addons/CourseTargetAudience.php:190
+#: includes/addons/CourseList.php:992 includes/addons/CourseList.php:1859
+#: includes/addons/CourseList.php:1921 includes/addons/CourseList.php:2185
+#: includes/addons/CourseEnrolmentBox.php:173
+#: includes/addons/CourseEnrolmentBox.php:256
+#: includes/addons/CourseEnrolmentBox.php:346
+#: includes/addons/CourseEnrolmentBox.php:429
+#: includes/addons/CourseEnrolmentBox.php:518
+#: includes/addons/CourseEnrolmentBox.php:601
+#: includes/addons/CourseEnrolmentBox.php:690
+#: includes/addons/CourseEnrolmentBox.php:773
+#: includes/addons/CourseEnrolmentBox.php:862
+#: includes/addons/CourseEnrolmentBox.php:945
+msgid "Padding"
+msgstr "প্যাডিং"
+
+#: includes/addons/CourseEnrolmentBox.php:128
+msgid "Add to Cart Button"
+msgstr "কার্ট বাটন যুক্ত করুন"
+
+#: includes/addons/CourseEnrolmentBox.php:94
+msgid "Fixed Width"
+msgstr "নির্দিষ্ট প্রস্থ"
+
+#: includes/addons/CourseEnrolmentBox.php:84
+msgid "Fixed"
+msgstr "সংশোধন করা হয়েছে"
+
+#: includes/addons/CourseCarousel.php:1834
+#: includes/addons/CourseEnrolmentBox.php:83
+msgid "Fill"
+msgstr "ভরাট"
+
+#: includes/addons/CourseEnrolmentBox.php:82
+msgid "Auto"
+msgstr "অটো"
+
+#: includes/addons/CourseEnrolmentBox.php:79
+msgid "Width"
+msgstr "প্রস্থ"
+
+#: includes/addons/CourseEnrolmentBox.php:69
+msgid "Large"
+msgstr "বড়"
+
+#: includes/addons/CourseEnrolmentBox.php:68
+msgid "Medium"
+msgstr "মাঝারি"
+
+#: includes/addons/CourseEnrolmentBox.php:67
+msgid "Small"
+msgstr "ছোট"
+
+#: includes/addons/CourseBenefits.php:222 includes/addons/CourseAuthor.php:100
+#: includes/addons/CourseMaterials.php:222
+#: includes/addons/CourseCarousel.php:1192
+#: includes/addons/CourseCarousel.php:1244
+#: includes/addons/CourseCarousel.php:2177
+#: includes/addons/CourseSocialShare.php:159
+#: includes/addons/CourseRequirements.php:222
+#: includes/addons/CourseTargetAudience.php:222
+#: includes/addons/CourseList.php:1334 includes/addons/CourseList.php:1386
+#: includes/addons/CourseEnrolmentBox.php:64
+msgid "Size"
+msgstr "আকার"
+
+#: includes/addons/CourseEnrolmentBox.php:52
+msgid "Button"
+msgstr "বাটন"
+
+#: includes/addons/CourseEnrolmentBox.php:38
+msgid "Select Mode"
+msgstr "নির্বাচন মোড"
+
+#: includes/addons/CourseEnrolmentBox.php:32
+msgid "Preview Mode"
+msgstr "প্রাকদর্শন মোড"
+
+#: classes/AddonsManager.php:111 includes/addons/CourseEnrolmentBox.php:24
+msgid "Course Enrolment Box"
+msgstr "কোর্স তালিকাভুক্তি বক্স"
+
+#: includes/addons/CourseLastUpdate.php:173
+msgid "Please enable course last update from tutor settings"
+msgstr "দয়া করে সক্ষম, অবশ্যই, সর্বশেষ আপডেট থেকে গৃহশিক্ষক সেটিংস"
+
+#: includes/addons/CourseLastUpdate.php:41
+msgid "Last Updated:"
+msgstr "সর্বশেষ আপডেট:"
+
+#: classes/AddonsManager.php:99 includes/addons/CourseLastUpdate.php:22
+msgid "Course Last Update"
+msgstr "অবশ্যই, সর্বশেষ"
+
+#: includes/addons/CourseTotalEnrolled.php:173
+msgid "Please enable course total enrolled from tutor settings"
+msgstr "দয়া করে সক্রিয় কোর্সের মোট ভর্তি থেকে গৃহশিক্ষক সেটিংস"
+
+#: includes/addons/CourseLastUpdate.php:137 includes/addons/CourseLevel.php:138
+#: includes/addons/CourseTotalEnrolled.php:137
+#: includes/addons/CourseDuration.php:136
+msgid "Value"
+msgstr "মান"
+
+#: includes/addons/CoursePrice.php:48 includes/addons/CourseBenefits.php:245
+#: includes/addons/CourseLastUpdate.php:95
+#: includes/addons/CourseMaterials.php:245 includes/addons/CourseLevel.php:96
+#: includes/addons/CourseTotalEnrolled.php:95
+#: includes/addons/CourseRequirements.php:245
+#: includes/addons/CourseTargetAudience.php:245
+#: includes/addons/CourseDuration.php:94
+msgid "Text"
+msgstr "টেক্সট"
+
+#: includes/addons/CourseLastUpdate.php:42 includes/addons/CourseLevel.php:43
+#: includes/addons/CourseTotalEnrolled.php:42
+#: includes/addons/CourseDuration.php:41
+msgid "Type your label here"
+msgstr "টাইপ এখানে আপনার লেবেল"
+
+#: includes/addons/CourseTotalEnrolled.php:41
+msgid "Enrolled:"
+msgstr "নাম নথিভুক্ত:"
+
+#: includes/addons/CourseLastUpdate.php:39
+#: includes/addons/CourseLastUpdate.php:107
+#: includes/addons/CourseAuthor.php:185
+#: includes/addons/CourseSocialShare.php:40
+#: includes/addons/CourseSocialShare.php:80 includes/addons/CourseLevel.php:40
+#: includes/addons/CourseLevel.php:108
+#: includes/addons/CourseTotalEnrolled.php:39
+#: includes/addons/CourseTotalEnrolled.php:107
+#: includes/addons/CourseDuration.php:38 includes/addons/CourseDuration.php:106
+msgid "Label"
+msgstr "লেবেল"
+
+#: classes/AddonsManager.php:96 includes/addons/CourseTotalEnrolled.php:22
+msgid "Course Total Enrolled"
+msgstr "কোর্সের মোট নথিভুক্ত"
+
+#: includes/addons/CourseAbout.php:143
+msgid "Please enable course about from tutor settings"
+msgstr "দয়া করে সক্রিয় কোর্স থেকে প্রায় গৃহশিক্ষক সেটিংস"
+
+#: includes/addons/CourseDescription.php:100
+#: includes/addons/CourseAbout.php:113
+msgid "Paragraph"
+msgstr "অনুচ্ছেদ"
+
+#: includes/addons/CourseInstructors.php:126 includes/addons/CourseTags.php:62
+#: includes/addons/CourseTags.php:121 includes/addons/CourseTags.php:226
+#: includes/addons/CoursePrice.php:67 includes/addons/CoursePrice.php:98
+#: includes/addons/CourseBenefits.php:102
+#: includes/addons/CourseBenefits.php:212
+#: includes/addons/CourseBenefits.php:252
+#: includes/addons/CourseLastUpdate.php:114
+#: includes/addons/CourseLastUpdate.php:144
+#: includes/addons/CourseDescription.php:59
+#: includes/addons/CourseDescription.php:107
+#: includes/addons/CourseAuthor.php:192 includes/addons/CourseAuthor.php:220
+#: includes/addons/CourseMaterials.php:102
+#: includes/addons/CourseMaterials.php:212
+#: includes/addons/CourseMaterials.php:252
+#: includes/addons/CourseCarousel.php:1307
+#: includes/addons/CourseCarousel.php:1354
+#: includes/addons/CourseCarousel.php:1402 includes/addons/CourseStatus.php:93
+#: includes/addons/CourseStatus.php:142 includes/addons/CourseStatus.php:225
+#: includes/addons/CourseSocialShare.php:88
+#: includes/addons/CourseSocialShare.php:118 includes/addons/CourseTitle.php:70
+#: includes/addons/CourseCategories.php:102
+#: includes/addons/CourseCategories.php:129
+#: includes/addons/CourseReviews.php:61 includes/addons/CourseReviews.php:215
+#: includes/addons/CourseAbout.php:69 includes/addons/CourseAbout.php:120
+#: includes/addons/CourseLevel.php:115 includes/addons/CourseLevel.php:145
+#: includes/addons/CourseTotalEnrolled.php:114
+#: includes/addons/CourseTotalEnrolled.php:144
+#: includes/addons/CourseRequirements.php:102
+#: includes/addons/CourseRequirements.php:212
+#: includes/addons/CourseRequirements.php:252
+#: includes/addons/CourseTargetAudience.php:102
+#: includes/addons/CourseTargetAudience.php:212
+#: includes/addons/CourseTargetAudience.php:252
+#: includes/addons/CourseDuration.php:113
+#: includes/addons/CourseDuration.php:143 includes/addons/CourseList.php:1449
+#: includes/addons/CourseList.php:1496 includes/addons/CourseList.php:1544
+msgid "Color"
+msgstr "রঙ"
+
+#: includes/addons/CourseDescription.php:52 includes/addons/CourseAbout.php:62
+msgid "Heading"
+msgstr "শিরোনাম"
+
+#: includes/addons/CourseAbout.php:40
+msgid "About Course"
+msgstr "সম্পর্কে অবশ্যই"
+
+#: classes/AddonsManager.php:126 includes/addons/CourseAbout.php:22
+msgid "Course About"
+msgstr "কোর্স সম্পর্কে"
+
+#: includes/addons/CourseCurriculum.php:759
+msgid "Space Between Topic"
+msgstr "স্থান মধ্যে বিষয়"
+
+#: includes/addons/CourseCurriculum.php:740
+msgid "Lesson Padding"
+msgstr "পাঠ প্যাডিং"
+
+#: includes/addons/CourseCurriculum.php:721
+msgid "Topic Padding"
+msgstr "বিষয় প্যাডিং"
+
+#: includes/addons/CourseInstructors.php:411
+#: includes/addons/CourseCarousel.php:1014
+#: includes/addons/CourseSocialShare.php:202
+#: includes/addons/CourseCurriculum.php:714 includes/addons/CourseList.php:1157
+msgid "Spacing"
+msgstr "ফাঁক"
+
+#: includes/addons/CourseCarousel.php:1979
+#: includes/addons/CourseCarousel.php:2094
+#: includes/addons/CourseSocialShare.php:312
+#: includes/addons/CourseCurriculum.php:610
+#: includes/addons/CourseCurriculum.php:698
+msgid "Border Color"
+msgstr "সীমানা রং"
+
+#: includes/addons/CourseCarousel.php:1949
+#: includes/addons/CourseCarousel.php:2064
+#: includes/addons/CourseCurriculum.php:589
+#: includes/addons/CourseCurriculum.php:677
+msgid "Border Width"
+msgstr "সীমানা প্রস্থ"
+
+#: includes/addons/CourseCurriculum.php:564
+#: includes/addons/CourseCurriculum.php:654
+msgid "Info Text Color"
+msgstr "তথ্য টেক্সট রঙ"
+
+#: includes/addons/CourseCurriculum.php:490
+msgid "Lesson"
+msgstr "পাঠ"
+
+#: includes/addons/CourseThumbnail.php:96 includes/addons/CourseTags.php:220
+#: includes/addons/CourseCarousel.php:762
+#: includes/addons/CourseCarousel.php:956
+#: includes/addons/CourseCarousel.php:1081
+#: includes/addons/CourseCarousel.php:1689
+#: includes/addons/CourseCarousel.php:2035
+#: includes/addons/CourseCarousel.php:2290
+#: includes/addons/CourseCategories.php:123
+#: includes/addons/CourseCurriculum.php:419
+#: includes/addons/CourseCurriculum.php:625 includes/addons/CourseList.php:875
+#: includes/addons/CourseList.php:1054 includes/addons/CourseList.php:1226
+#: includes/addons/CourseList.php:1740 includes/addons/CourseList.php:2070
+#: includes/addons/CourseEnrolmentBox.php:222
+#: includes/addons/CourseEnrolmentBox.php:395
+#: includes/addons/CourseEnrolmentBox.php:567
+#: includes/addons/CourseEnrolmentBox.php:739
+#: includes/addons/CourseEnrolmentBox.php:911
+msgid "Hover"
+msgstr "উপর কার্সার রেখে দেখুন"
+
+#: includes/addons/CourseCurriculum.php:355 includes/addons/CourseList.php:1785
+msgid "Active"
+msgstr "সক্রিয়"
+
+#: includes/addons/CourseThumbnail.php:63
+#: includes/addons/CourseThumbnail.php:120
+#: includes/addons/CourseInstructors.php:219 includes/addons/CourseTags.php:187
+#: includes/addons/CourseTags.php:290 includes/addons/CourseBenefits.php:179
+#: includes/addons/CourseAuthor.php:152 includes/addons/CourseMaterials.php:179
+#: includes/addons/CourseCarousel.php:676
+#: includes/addons/CourseCarousel.php:695
+#: includes/addons/CourseCarousel.php:714
+#: includes/addons/CourseCarousel.php:791
+#: includes/addons/CourseCarousel.php:811
+#: includes/addons/CourseCarousel.php:830
+#: includes/addons/CourseCarousel.php:1180
+#: includes/addons/CourseCarousel.php:1263
+#: includes/addons/CourseCarousel.php:1777 includes/addons/CourseStatus.php:187
+#: includes/addons/CourseSocialShare.php:229
+#: includes/addons/CourseReviews.php:372
+#: includes/addons/CourseRequirements.php:179
+#: includes/addons/CourseTargetAudience.php:179
+#: includes/addons/CourseCurriculum.php:332
+#: includes/addons/CourseCurriculum.php:404
+#: includes/addons/CourseCurriculum.php:468 includes/addons/CourseList.php:792
+#: includes/addons/CourseList.php:811 includes/addons/CourseList.php:830
+#: includes/addons/CourseList.php:905 includes/addons/CourseList.php:924
+#: includes/addons/CourseList.php:943 includes/addons/CourseList.php:1322
+#: includes/addons/CourseList.php:1405 includes/addons/CourseList.php:1847
+#: includes/addons/CourseList.php:2158
+#: includes/addons/CourseEnrolmentBox.php:192
+#: includes/addons/CourseEnrolmentBox.php:275
+#: includes/addons/CourseEnrolmentBox.php:365
+#: includes/addons/CourseEnrolmentBox.php:448
+#: includes/addons/CourseEnrolmentBox.php:537
+#: includes/addons/CourseEnrolmentBox.php:620
+#: includes/addons/CourseEnrolmentBox.php:709
+#: includes/addons/CourseEnrolmentBox.php:792
+#: includes/addons/CourseEnrolmentBox.php:881
+#: includes/addons/CourseEnrolmentBox.php:964
+msgid "Border Radius"
+msgstr "সীমানা ব্যাসার্ধ"
+
+#: includes/addons/CourseTags.php:142 includes/addons/CourseTags.php:246
+#: includes/addons/CourseCarousel.php:607
+#: includes/addons/CourseCarousel.php:629
+#: includes/addons/CourseCarousel.php:1158
+#: includes/addons/CourseCarousel.php:1529
+#: includes/addons/CourseCarousel.php:1661
+#: includes/addons/CourseCarousel.php:1732 includes/addons/CourseStatus.php:153
+#: includes/addons/CourseCurriculum.php:311
+#: includes/addons/CourseCurriculum.php:384
+#: includes/addons/CourseCurriculum.php:447
+#: includes/addons/CourseCurriculum.php:576
+#: includes/addons/CourseCurriculum.php:665 includes/addons/CourseList.php:723
+#: includes/addons/CourseList.php:745 includes/addons/CourseList.php:1300
+#: includes/addons/CourseList.php:1715 includes/addons/CourseList.php:1760
+#: includes/addons/CourseList.php:1805 includes/addons/CourseList.php:1910
+#: includes/addons/CourseList.php:2042 includes/addons/CourseList.php:2113
+#: includes/addons/CourseEnrolmentBox.php:155
+#: includes/addons/CourseEnrolmentBox.php:238
+#: includes/addons/CourseEnrolmentBox.php:328
+#: includes/addons/CourseEnrolmentBox.php:411
+#: includes/addons/CourseEnrolmentBox.php:500
+#: includes/addons/CourseEnrolmentBox.php:583
+#: includes/addons/CourseEnrolmentBox.php:672
+#: includes/addons/CourseEnrolmentBox.php:755
+#: includes/addons/CourseEnrolmentBox.php:844
+#: includes/addons/CourseEnrolmentBox.php:927
+msgid "Background Color"
+msgstr "পটভূমির রঙ"
+
+#: includes/addons/CourseCarousel.php:1169
+#: includes/addons/CourseCarousel.php:1491
+#: includes/addons/CourseCarousel.php:1576
+#: includes/addons/CourseCarousel.php:1624
+#: includes/addons/CourseCarousel.php:1695
+#: includes/addons/CourseReviews.php:113 includes/addons/CourseReviews.php:295
+#: includes/addons/CourseRating.php:99 includes/addons/CourseCurriculum.php:299
+#: includes/addons/CourseCurriculum.php:372
+#: includes/addons/CourseCurriculum.php:436
+#: includes/addons/CourseCurriculum.php:552
+#: includes/addons/CourseCurriculum.php:643 includes/addons/CourseList.php:1311
+#: includes/addons/CourseList.php:1633 includes/addons/CourseList.php:1702
+#: includes/addons/CourseList.php:1747 includes/addons/CourseList.php:1793
+#: includes/addons/CourseList.php:1957 includes/addons/CourseList.php:2005
+#: includes/addons/CourseList.php:2076
+#: includes/addons/CourseEnrolmentBox.php:145
+#: includes/addons/CourseEnrolmentBox.php:228
+#: includes/addons/CourseEnrolmentBox.php:318
+#: includes/addons/CourseEnrolmentBox.php:401
+#: includes/addons/CourseEnrolmentBox.php:490
+#: includes/addons/CourseEnrolmentBox.php:573
+#: includes/addons/CourseEnrolmentBox.php:662
+#: includes/addons/CourseEnrolmentBox.php:745
+#: includes/addons/CourseEnrolmentBox.php:834
+#: includes/addons/CourseEnrolmentBox.php:917
+msgid "Text Color"
+msgstr "টেক্সট রঙ"
+
+#: includes/addons/CourseCarousel.php:1635
+#: includes/addons/CourseCarousel.php:1706
+#: includes/addons/CourseSocialShare.php:131
+#: includes/addons/CourseSocialShare.php:278
+#: includes/addons/CourseCurriculum.php:287
+#: includes/addons/CourseCurriculum.php:361
+#: includes/addons/CourseCurriculum.php:425
+#: includes/addons/CourseCurriculum.php:540
+#: includes/addons/CourseCurriculum.php:632 includes/addons/CourseList.php:2016
+#: includes/addons/CourseList.php:2087
+#: includes/addons/CourseEnrolmentBox.php:998
+msgid "Icon Color"
+msgstr "আইকন রঙ"
+
+#: includes/addons/CourseThumbnail.php:40 includes/addons/CourseTags.php:115
+#: includes/addons/CoursePrice.php:60 includes/addons/CourseCarousel.php:647
+#: includes/addons/CourseCarousel.php:907
+#: includes/addons/CourseCarousel.php:1034
+#: includes/addons/CourseCarousel.php:1618
+#: includes/addons/CourseCarousel.php:1910
+#: includes/addons/CourseCarousel.php:2269
+#: includes/addons/CourseCategories.php:96
+#: includes/addons/CourseCurriculum.php:281
+#: includes/addons/CourseCurriculum.php:533 includes/addons/CourseList.php:763
+#: includes/addons/CourseList.php:1007 includes/addons/CourseList.php:1179
+#: includes/addons/CourseList.php:1695 includes/addons/CourseList.php:1999
+#: includes/addons/CourseEnrolmentBox.php:139
+#: includes/addons/CourseEnrolmentBox.php:312
+#: includes/addons/CourseEnrolmentBox.php:484
+#: includes/addons/CourseEnrolmentBox.php:656
+#: includes/addons/CourseEnrolmentBox.php:828
+msgid "Normal"
+msgstr "স্বাভাবিক"
+
+#: includes/addons/CourseBenefits.php:262
+#: includes/addons/CourseMaterials.php:262
+#: includes/addons/CourseRequirements.php:262
+#: includes/addons/CourseTargetAudience.php:262
+#: includes/addons/CourseCurriculum.php:256
+msgid "Text Indent"
+msgstr "টেক্সট ইন্ডেন্ট"
+
+#: includes/addons/CourseInstructors.php:137 includes/addons/CourseTags.php:73
+#: includes/addons/CourseTags.php:134 includes/addons/CourseTags.php:238
+#: includes/addons/CoursePrice.php:80 includes/addons/CoursePrice.php:111
+#: includes/addons/CourseBenefits.php:113
+#: includes/addons/CourseBenefits.php:283
+#: includes/addons/CourseLastUpdate.php:126
+#: includes/addons/CourseLastUpdate.php:156
+#: includes/addons/CourseDescription.php:70
+#: includes/addons/CourseDescription.php:118
+#: includes/addons/CourseAuthor.php:203 includes/addons/CourseAuthor.php:232
+#: includes/addons/CourseMaterials.php:113
+#: includes/addons/CourseMaterials.php:283
+#: includes/addons/CourseCarousel.php:1319
+#: includes/addons/CourseCarousel.php:1377
+#: includes/addons/CourseCarousel.php:1414
+#: includes/addons/CourseCarousel.php:1483
+#: includes/addons/CourseCarousel.php:1568
+#: includes/addons/CourseCarousel.php:1597 includes/addons/CourseStatus.php:104
+#: includes/addons/CourseStatus.php:237
+#: includes/addons/CourseSocialShare.php:100 includes/addons/CourseTitle.php:83
+#: includes/addons/CourseCategories.php:113
+#: includes/addons/CourseCategories.php:140
+#: includes/addons/CourseReviews.php:72 includes/addons/CourseRating.php:91
+#: includes/addons/CourseAbout.php:81 includes/addons/CourseAbout.php:131
+#: includes/addons/CourseLevel.php:127 includes/addons/CourseLevel.php:157
+#: includes/addons/CourseTotalEnrolled.php:126
+#: includes/addons/CourseTotalEnrolled.php:156
+#: includes/addons/CourseRequirements.php:113
+#: includes/addons/CourseRequirements.php:283
+#: includes/addons/CourseTargetAudience.php:113
+#: includes/addons/CourseTargetAudience.php:283
+#: includes/addons/CourseDuration.php:125
+#: includes/addons/CourseDuration.php:155
+#: includes/addons/CourseCurriculum.php:247
+#: includes/addons/CourseCurriculum.php:521 includes/addons/CourseList.php:1461
+#: includes/addons/CourseList.php:1519 includes/addons/CourseList.php:1556
+#: includes/addons/CourseList.php:1625 includes/addons/CourseList.php:1673
+#: includes/addons/CourseList.php:1949 includes/addons/CourseList.php:1978
+#: includes/addons/CourseEnrolmentBox.php:166
+#: includes/addons/CourseEnrolmentBox.php:249
+#: includes/addons/CourseEnrolmentBox.php:339
+#: includes/addons/CourseEnrolmentBox.php:422
+#: includes/addons/CourseEnrolmentBox.php:511
+#: includes/addons/CourseEnrolmentBox.php:594
+#: includes/addons/CourseEnrolmentBox.php:683
+#: includes/addons/CourseEnrolmentBox.php:766
+#: includes/addons/CourseEnrolmentBox.php:855
+#: includes/addons/CourseEnrolmentBox.php:938
+msgid "Typography"
+msgstr "ছাপাখানার বিদ্যা"
+
+#: includes/addons/CourseInstructors.php:388
+#: includes/addons/CourseCarousel.php:1881
+#: includes/addons/CourseCurriculum.php:225
+#: includes/addons/CourseCurriculum.php:498
+#: includes/addons/CourseEnrolmentBox.php:1008
+msgid "Icon Size"
+msgstr "আইকন সাইজ"
+
+#: includes/addons/CourseCurriculum.php:217
+msgid "Topic"
+msgstr "বিষয়"
+
+#: includes/addons/CourseInstructors.php:144 includes/addons/CourseTags.php:80
+#: includes/addons/CourseBenefits.php:120
+#: includes/addons/CourseLastUpdate.php:62
+#: includes/addons/CourseDescription.php:77
+#: includes/addons/CourseAuthor.php:121 includes/addons/CourseMaterials.php:120
+#: includes/addons/CourseCarousel.php:1501
+#: includes/addons/CourseCarousel.php:2224 includes/addons/CourseStatus.php:111
+#: includes/addons/CourseCategories.php:54 includes/addons/CourseReviews.php:79
+#: includes/addons/CourseRating.php:111 includes/addons/CourseAbout.php:89
+#: includes/addons/CourseLevel.php:63
+#: includes/addons/CourseTotalEnrolled.php:62
+#: includes/addons/CourseRequirements.php:120
+#: includes/addons/CourseTargetAudience.php:120
+#: includes/addons/CourseDuration.php:61
+#: includes/addons/CourseCurriculum.php:192 includes/addons/CourseList.php:1643
+msgid "Gap"
+msgstr "ফাঁক"
+
+#: includes/addons/CourseCurriculum.php:184
+msgid "Info Typography"
+msgstr "তথ্য ছাপাখানার বিদ্যা"
+
+#: includes/addons/CourseCurriculum.php:172
+msgid "Info Color"
+msgstr "তথ্য রঙ"
+
+#: includes/addons/CourseCurriculum.php:164
+msgid "Title Typography"
+msgstr "শিরোনাম, ছাপাখানার বিদ্যা"
+
+#: includes/addons/CourseCurriculum.php:153
+msgid "Title Color"
+msgstr "শিরোনাম রঙ"
+
+#: includes/addons/CourseCurriculum.php:146
+msgid "Header"
+msgstr "হেডার"
+
+#: includes/addons/CourseCurriculum.php:98
+msgid "Expand Icon"
+msgstr "প্রসারিত আইকন"
+
+#: includes/addons/CourseCurriculum.php:65
+msgid "Collapse Icon"
+msgstr "ধসে আইকন"
+
+#: includes/addons/CourseInstructors.php:44 includes/addons/CourseTags.php:38
+#: includes/addons/CourseBenefits.php:39
+#: includes/addons/CourseDescription.php:36
+#: includes/addons/CourseMaterials.php:39 includes/addons/CourseStatus.php:36
+#: includes/addons/CourseReviews.php:38 includes/addons/CourseAbout.php:41
+#: includes/addons/CourseRequirements.php:39
+#: includes/addons/CourseTargetAudience.php:39
+#: includes/addons/CourseCurriculum.php:57
+msgid "Type your title here"
+msgstr "টাইপ আপনার শিরোনাম এখানে"
+
+#: includes/addons/CourseCurriculum.php:56
+msgid "Topics for this course"
+msgstr "বিষয় এই কোর্সের জন্য"
+
+#: includes/addons/CourseInstructors.php:41 includes/addons/CourseTags.php:35
+#: includes/addons/CourseBenefits.php:36
+#: includes/addons/CourseDescription.php:33
+#: includes/addons/CourseMaterials.php:36
+#: includes/addons/CourseCarousel.php:330
+#: includes/addons/CourseCarousel.php:1299 includes/addons/CourseStatus.php:33
+#: includes/addons/CourseReviews.php:35 includes/addons/CourseAbout.php:38
+#: includes/addons/CourseRequirements.php:36
+#: includes/addons/CourseTargetAudience.php:36
+#: includes/addons/CourseCurriculum.php:54 includes/addons/CourseList.php:372
+#: includes/addons/CourseList.php:1441
+msgid "Title"
+msgstr "শিরোনাম"
+
+#: includes/addons/CoursePrice.php:28 includes/addons/CourseBenefits.php:29
+#: includes/addons/CourseLastUpdate.php:30 includes/addons/CourseAuthor.php:32
+#: includes/addons/CourseMaterials.php:29 includes/addons/CourseTitle.php:29
+#: includes/addons/CourseCategories.php:31 includes/addons/CourseRating.php:29
+#: includes/addons/CourseLevel.php:31
+#: includes/addons/CourseTotalEnrolled.php:30
+#: includes/addons/CourseRequirements.php:29
+#: includes/addons/CourseTargetAudience.php:29
+#: includes/addons/CourseDuration.php:30
+#: includes/addons/CourseCurriculum.php:46
+msgid "General Settings"
+msgstr "সাধারণ সেটিংস"
+
+#: classes/AddonsManager.php:135 includes/addons/CourseCurriculum.php:23
+msgid "Course Curriculum"
+msgstr "কোর্স কারিকুলাম"
+
+#: templates/course/enrolled-box.php:33
+msgid "You have been enrolled on"
+msgstr "আপনি হয়েছে ভর্তি"
+
+#: templates/course/enrolled-box.php:18
+msgid "Start Course"
+msgstr "কোর্স শুরু"
+
+#: templates/course/enrolled-box.php:16
+msgid "Continue to lesson"
+msgstr "অবিরত পাঠ"
+
+#: templates/course/instructors.php:89
+msgid "students"
+msgstr "ছাত্র"
+
+#: templates/course/instructors.php:78
+msgid "Courses"
+msgstr "কোর্স"
+
+#: templates/course/share.php:12
+msgid "Share:"
+msgstr "শেয়ার করুন:"
+
+#: templates/course/course-topics.php:156
+msgid "Live"
+msgstr "লাইভ"
+
+#: templates/course/course-topics.php:154
+msgid "Expired"
+msgstr "মেয়াদ শেষ"
+
+#: templates/course/course-topics.php:66
+msgid " Lessons"
+msgstr " পাঠ"
+
+#: templates/course/rating.php:10
+msgid "Ratings"
+msgstr "রেটিং"
+
+#: templates/course/course-carousel.php:216
+#: templates/course/course-list.php:234
+msgid "In"
+msgstr "এ"
+
+#: templates/course/description.php:13
+msgid "This is demo content for preview purposes. Dynamic content will be viewable from the frontend once you have published the course and template."
+msgstr "এই ডেমো বিষয়বস্তু প্রাকদর্শন উদ্দেশ্যে. ডাইনামিক কন্টেন্ট হতে হবে দর্শনীয় ফ্রন্টএন্ড থেকে আপনি একবার প্রকাশিত, কোর্স এবং টেমপ্লেট."
+
+#: templates/course/author.php:20 templates/course/course-carousel.php:205
+#: templates/course/course-list.php:223
+msgid "by"
+msgstr "দ্বারা"
+
+#: templates/course/reviews.php:94
+msgid "Course review not found"
+msgstr "কোর্স পর্যালোচনা পাওয়া যায়নি"
+
+#: templates/course/reviews.php:74
+msgid "%s ago"
+msgstr "%s আগে"
+
+#: templates/course/reviews.php:48
+msgid "rating"
+msgstr "রেটিং"
+
+#: templates/course/instructors.php:71 templates/course/reviews.php:48
+msgid "ratings"
+msgstr "রেটিং"
+
+#: templates/course/tags.php:16 templates/course/benefits.php:15
+#: templates/course/materials.php:15 templates/course/about.php:11
+#: templates/course/requirements.php:15 templates/course/target-audience.php:15
+#: templates/course/course-topics.php:184
+msgid "Please add data from the course editor"
+msgstr "দয়া করে তথ্য যোগ থেকে কোর্স সম্পাদক"
+
+#. Author URI of the plugin
+msgid "http://themeum.com"
+msgstr "http://themeum.com"
+
+#. Author of the plugin
+msgid "Themeum"
+msgstr "থিমিয়াম"
+
+#. Description of the plugin
+msgid "Elementor Addons Integration - Tutor LMS plugin lets you design course pages with Elementor."
+msgstr "Elementor Addons Integration - Tutor LMS plugin lets you design course pages with Elementor."
+
+#. Plugin URI of the plugin
+msgid "https://www.themeum.com/product/tutor-lms/"
+msgstr "https://www.themeum.com/product/tutor-lms/"
+
+#. Plugin Name of the plugin
+msgid "Tutor LMS Elementor Addons"
+msgstr "টিউটর এলএমএস এলিমেন্টর এডঅন"

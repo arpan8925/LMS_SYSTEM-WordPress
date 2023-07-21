@@ -1,0 +1,1199 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "Moverie \u2013 Movers & Packers Service Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/moverie\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/moverie\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/moverie\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/moverie\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Detail",
+            "screenshot": "screenshots\/service-detail.jpg",
+            "source": "templates\/service-detail.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/moverie\/template-kit\/service-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/moverie\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pircing",
+            "screenshot": "screenshots\/pircing.jpg",
+            "source": "templates\/pircing.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/moverie\/template-kit\/pircing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/moverie\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/moverie\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/moverie\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/moverie\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/moverie\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm Quote",
+            "screenshot": "screenshots\/metform-quote.jpg",
+            "source": "templates\/metform-quote.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/moverie\/template-kit\/metform-quote\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Booking",
+            "screenshot": "screenshots\/metform-booking.jpg",
+            "source": "templates\/metform-booking.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/moverie\/template-kit\/metform-booking\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/moverie\/template-kit\/metform-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/moverie\/template-kit\/404-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.1.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.2.2",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "1.5.0",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "JegStudio"
+        },
+        {
+            "name": "JetSticky For Elementor",
+            "version": "1.0.2",
+            "file": "jetsticky-for-elementor\/jetsticky-for-elementor.php",
+            "author": "Crocoblock"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.4.6",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "young-female-manager-explaining-place-for-uploading-e1618304226988.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/young-female-manager-explaining-place-for-uploading-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 221235,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MKD3AYV"
+        },
+        {
+            "filename": "female-restaurant-manager-signing-for-delivery-e1618129026283.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/female-restaurant-manager-signing-for-delivery-e1618129026283-800x867.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 187533,
+            "dimensions": [
+                1200,
+                1300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9PUFDXB"
+        },
+        {
+            "filename": "moving-foreman-controlling-uploading-and-managing-mover-e1618304365123.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/moving-foreman-controlling-uploading-and-managing-mover-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 273596,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WQ2YPMN"
+        },
+        {
+            "filename": "work-of-delivery-service-staff-e1618304068198.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/work-of-delivery-service-staff-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 123351,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZFXQCHQ"
+        },
+        {
+            "filename": "boxing-products-ready-for-dispatching-e1618304794383.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/boxing-products-ready-for-dispatching-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 140191,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-V8LMVS5"
+        },
+        {
+            "filename": "professional-workers-helping-with-moving-e1617543925671.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/professional-workers-helping-with-moving-e1617543925671-800x904.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 159543,
+            "dimensions": [
+                1310,
+                1480
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-M7L92DY"
+        },
+        {
+            "filename": "GDB9KJ.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/GDB9KJ.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 5674,
+            "dimensions": [
+                368,
+                83
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-GDB9KJ"
+        },
+        {
+            "filename": "MQTL8L.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/MQTL8L.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 3413,
+            "dimensions": [
+                312,
+                72
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-MQTL8L"
+        },
+        {
+            "filename": "PEYRAY.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/PEYRAY.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 5123,
+            "dimensions": [
+                369,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PEYRAY"
+        },
+        {
+            "filename": "HPHBLHQ.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/HPHBLHQ.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 3283,
+            "dimensions": [
+                315,
+                78
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-HPHBLHQ"
+        },
+        {
+            "filename": "5Z6DUAR.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/5Z6DUAR.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 3940,
+            "dimensions": [
+                422,
+                79
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-5Z6DUAR"
+        },
+        {
+            "filename": "world-map-KAKTEK5-e1618304397221.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/world-map-KAKTEK5-800x454.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 300594,
+            "dimensions": [
+                1000,
+                568
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-KAKTEK5"
+        },
+        {
+            "filename": "two-movers-in-uniform-using-hand-truck-while-transporting-refrigerator-in-apartment-e1618304086417.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/two-movers-in-uniform-using-hand-truck-while-transporting-refrigerator-in-apartment-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pircing.json",
+                    "name": "Pircing"
+                }
+            ],
+            "filesize": 183063,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7JKTR9L"
+        },
+        {
+            "filename": "arrow-moverie.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/arrow-moverie.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pircing.json",
+                    "name": "Pircing"
+                }
+            ],
+            "filesize": 3121,
+            "dimensions": [
+                675,
+                90
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/moverie\/"
+        },
+        {
+            "filename": "white-wall-background-e1618304095255.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/white-wall-background-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 142026,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-3LHGQ9J"
+        },
+        {
+            "filename": "deliveryman-in-uniform-holds-carton-box-at-the-car-ZFTZSH2.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/deliveryman-in-uniform-holds-carton-box-at-the-car-ZFTZSH2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 295801,
+            "dimensions": [
+                800,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZFTZSH2"
+        },
+        {
+            "filename": "busy-mover-making-notes-in-sketchpad-e1618304386283.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/busy-mover-making-notes-in-sketchpad-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 204733,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BW5GZJH"
+        },
+        {
+            "filename": "two-movers-in-uniform-transporting-cardboard-boxes-and-furniture-in-apartment-e1618304373690.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/two-movers-in-uniform-transporting-cardboard-boxes-and-furniture-in-apartment-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 108421,
+            "dimensions": [
+                1440,
+                961
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-M8M474T"
+        },
+        {
+            "filename": "female-manager-interacting-with-mover-e1618304379678.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/female-manager-interacting-with-mover-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 161308,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NRH4JDM"
+        },
+        {
+            "filename": "courier-and-woman-holding-cardboard-box-e1618304314543.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/courier-and-woman-holding-cardboard-box-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 279692,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5BXBPJ7"
+        },
+        {
+            "filename": "moving-in-new-house-e1618304356777.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/moving-in-new-house-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 137867,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-A3PQYVW"
+        },
+        {
+            "filename": "couple-unloading-truck-e1618304349965.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/couple-unloading-truck-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 245560,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-45T3DWN"
+        },
+        {
+            "filename": "business-lady-asking-mover-about-delivery-order-e1618304340560.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/business-lady-asking-mover-about-delivery-order-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 198408,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TZVEYWC"
+        },
+        {
+            "filename": "courier-working-with-parcels-in-warehouse-e1618304334390.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/courier-working-with-parcels-in-warehouse-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 146997,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8WVNX8C"
+        },
+        {
+            "filename": "happy-delivery-man-with-cardboard-boxes-on-cart-e1618304324777.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/happy-delivery-man-with-cardboard-boxes-on-cart-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 158444,
+            "dimensions": [
+                1000,
+                1498
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9Z4A9TP"
+        },
+        {
+            "filename": "elderly-cargo-man-in-uniform-poses-in-home-office-6XAG2PS.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/elderly-cargo-man-in-uniform-poses-in-home-office-6XAG2PS-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 167359,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6XAG2PS"
+        },
+        {
+            "filename": "deliveryman-with-carton-box-at-the-car-delivery-8W4L4MW.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/deliveryman-with-carton-box-at-the-car-delivery-8W4L4MW-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 170776,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8W4L4MW"
+        },
+        {
+            "filename": "content-bearded-mover-delivering-boxes-UP2AG4B.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/content-bearded-mover-delivering-boxes-UP2AG4B-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 152929,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UP2AG4B"
+        },
+        {
+            "filename": "young-mover-finding-necessary-box-e1618304303986.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/young-mover-finding-necessary-box-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 217393,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GZ8R6NM"
+        },
+        {
+            "filename": "young-mover-with-packaged-product-e1618304293589.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/young-mover-with-packaged-product-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 122563,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8AH6BYU"
+        },
+        {
+            "filename": "deliveryman-in-uniform-closing-car-door-delivery-e1618304269247.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/deliveryman-in-uniform-closing-car-door-delivery-e1618126435870-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 186194,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3MRZUK7"
+        },
+        {
+            "filename": "two-movers-in-uniform-looking-at-each-other-while-carrying-cardboard-boxes-in-apartment-e1618304286557.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/two-movers-in-uniform-looking-at-each-other-while-carrying-cardboard-boxes-in-apartment-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 131348,
+            "dimensions": [
+                1440,
+                961
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PYD3M76"
+        },
+        {
+            "filename": "female-entrepreneur-talking-to-movers-in-new-restaurant-e1618304280329.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/female-entrepreneur-talking-to-movers-in-new-restaurant-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 171759,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BWNUPK7"
+        },
+        {
+            "filename": "a-young-handsome-smiling-worker-wearing-uniform-is-standing-next-to-the-van-full-of-boxes-holding-a-e1618305061285.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/a-young-handsome-smiling-worker-wearing-uniform-is-standing-next-to-the-van-full-of-boxes-holding-a-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 121790,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LYTXM5J"
+        },
+        {
+            "filename": "movers-wrapping-couch-with-roll-of-stretch-film-in-apartment-with-copy-space-e1618304241103.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/movers-wrapping-couch-with-roll-of-stretch-film-in-apartment-with-copy-space-e1618127910237-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 270564,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6G9DWUL"
+        },
+        {
+            "filename": "courier-delivering-boxes-2H6V4CF.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/courier-delivering-boxes-2H6V4CF-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 197587,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2H6V4CF"
+        },
+        {
+            "filename": "delivery-man-holding-cardboard-boxes-W5BRZXX-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/delivery-man-holding-cardboard-boxes-W5BRZXX-1-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 186780,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-W5BRZXX"
+        },
+        {
+            "filename": "smiling-delivery-man-with-box-next-to-car-G57T66J.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/smiling-delivery-man-with-box-next-to-car-G57T66J-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 187140,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-G57T66J"
+        },
+        {
+            "filename": "serious-mover-counting-boxes-at-place-of-delivery-e1618304233130.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/serious-mover-counting-boxes-at-place-of-delivery-e1618128456257-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pircing.json",
+                    "name": "Pircing"
+                }
+            ],
+            "filesize": 258341,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XDWZBS9"
+        },
+        {
+            "filename": "deliveryman-in-uniform-holds-parcel-and-phone-GMNT8LD-4.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/deliveryman-in-uniform-holds-parcel-and-phone-GMNT8LD-4-800x885.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 259263,
+            "dimensions": [
+                1000,
+                1106
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GMNT8LD"
+        },
+        {
+            "filename": "logo-moverie-e1618305088461.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/logo-moverie-800x228.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 244859,
+            "dimensions": [
+                1440,
+                410
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-4EBA7VG"
+        },
+        {
+            "filename": "moverie-logo-e1618304121898.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/moverie-logo-800x228.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 211771,
+            "dimensions": [
+                1440,
+                410
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-4EBA7VG"
+        },
+        {
+            "filename": "female-manager-making-notes-in-report-while-taking-delivery-e1618304185135.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/female-manager-making-notes-in-report-while-taking-delivery-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 243462,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VW9MB8P"
+        },
+        {
+            "filename": "interior-with-packed-cardboard-boxes-for-relocation-3d-rendering-e1618304168919.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/interior-with-packed-cardboard-boxes-for-relocation-3d-rendering-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 236131,
+            "dimensions": [
+                1440,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-MX2JKZV"
+        },
+        {
+            "filename": "delivery-man-with-cardboard-box-talking-by-phone-e1618304205366.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/delivery-man-with-cardboard-box-talking-by-phone-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 204336,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GHA73YW"
+        },
+        {
+            "filename": "young-mover-at-cargo-container-area-e1618304216177.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/moverie\/wp-content\/uploads\/sites\/72\/2021\/04\/young-mover-at-cargo-container-area-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 185089,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MJCBTUX"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+[25-Jul-2021 09:47:48 UTC] WordPress database error Connection was killed for query SHOW FULL COLUMNS FROM `wpro_options` made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), include_once('/plugins/elementor-pro/elementor-pro.php'), update_option
+[29-Jul-2021 14:15:54 UTC] WordPress database error Connection was killed for query SELECT option_value FROM wpro_options WHERE option_name = 'elementor_beta' LIMIT 1 made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, Elementor\Plugin->init, Elementor\Plugin->init_components, Elementor\Beta_Testers->__construct, get_option
+[31-Jul-2021 07:01:14 UTC] PHP Fatal error:  Cannot redeclare plugins_api() (previously declared in /home1/pixelcti/public_html/wp-admin/includes/plugin-install.php:102) in /home1/pixelcti/public_html/wp-admin/includes/plugin-install.php on line 102
+[31-Jul-2021 07:01:23 UTC] PHP Fatal error:  Cannot redeclare plugins_api() (previously declared in /home1/pixelcti/public_html/wp-admin/includes/plugin-install.php:102) in /home1/pixelcti/public_html/wp-admin/includes/plugin-install.php on line 102
+[01-Aug-2021 13:48:25 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 23072768 bytes) in /home1/pixelcti/public_html/wp-includes/functions.php on line 4005
+[01-Aug-2021 15:14:04 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 23072768 bytes) in /home1/pixelcti/public_html/wp-includes/functions.php on line 4005
+[01-Aug-2021 16:49:35 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 23072768 bytes) in /home1/pixelcti/public_html/wp-includes/functions.php on line 4005
+[01-Aug-2021 16:52:27 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 23072768 bytes) in /home1/pixelcti/public_html/wp-includes/functions.php on line 4005
+[01-Aug-2021 16:58:50 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 23072768 bytes) in /home1/pixelcti/public_html/wp-includes/functions.php on line 4005
+[01-Aug-2021 17:05:42 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 23072768 bytes) in /home1/pixelcti/public_html/wp-includes/functions.php on line 4005
+[04-Aug-2021 16:55:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CHT\admin\CHT_Admin_Base::is_expired() in /home1/pixelcti/public_html/wp-content/plugins/chaty/views/admin/channels-section.php:1074
+Stack trace:
+#0 /home1/pixelcti/public_html/wp-content/plugins/chaty/views/admin/admin.php(47): require_once()
+#1 /home1/pixelcti/public_html/wp-content/plugins/chaty/admin/class-admin-base.php(423): include_once('/home1/pixelcti...')
+#2 /home1/pixelcti/public_html/wp-includes/class-wp-hook.php(303): CHT\admin\CHT_Admin_Base->display_cht_admin_page('')
+#3 /home1/pixelcti/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#4 /home1/pixelcti/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#5 /home1/pixelcti/public_html/wp-admin/admin.php(259): do_action('toplevel_page_c...')
+#6 {main}
+  thrown in /home1/pixelcti/public_html/wp-content/plugins/chaty/views/admin/channels-section.php on line 1074
+[08-Aug-2021 15:20:06 UTC] PHP Warning:  Illegal string offset 'product_title' in /home1/pixelcti/public_html/wp-content/plugins/woo-wallet/includes/class-woo-wallet-settings.php on line 390
+[08-Aug-2021 15:20:06 UTC] PHP Warning:  Illegal string offset '_tax_status' in /home1/pixelcti/public_html/wp-content/plugins/woo-wallet/includes/class-woo-wallet-settings.php on line 397
+[08-Aug-2021 15:20:06 UTC] PHP Warning:  Illegal string offset '_tax_class' in /home1/pixelcti/public_html/wp-content/plugins/woo-wallet/includes/class-woo-wallet-settings.php on line 397
+[08-Aug-2021 15:20:06 UTC] PHP Warning:  Illegal string offset 'product_image' in /home1/pixelcti/public_html/wp-content/plugins/woo-wallet/includes/class-woo-wallet-settings.php on line 404
+[09-Aug-2021 13:18:30 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159
+[09-Aug-2021 13:24:36 UTC] [Loco.warning] "No core translation files are installed for this language" in src/admin/bundle/LocaleController.php:129
+[09-Aug-2021 13:28:29 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159
+[09-Aug-2021 13:29:24 UTC] [Loco.warning] "77 files over 100 KB have been skipped. (Largest is 1.56 MB). Check all strings are present before saving." in src/ajax/SyncController.php:101
+[09-Aug-2021 13:31:07 UTC] [Loco.warning] "77 files over 100 KB have been skipped. (Largest is 1.56 MB). Check all strings are present before saving." in src/ajax/SyncController.php:101
+[09-Aug-2021 14:03:45 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159
+[09-Aug-2021 18:45:29 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159
+[11-Aug-2021 04:59:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update_meta() on bool in /home1/pixelcti/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php:285
+Stack trace:
+#0 /home1/pixelcti/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php(166): ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->save_conditions(NULL, Array)
+#1 [internal function]: ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->ajax_save_theme_template_conditions(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /home1/pixelcti/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#3 /home1/pixelcti/public_html/wp-includes/class-wp-hook.php(303): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#4 /home1/pixelcti/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#5 /home1/pixel in /home1/pixelcti/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 285
+[19-Aug-2021 16:10:49 UTC] WordPress database error Table 'pixelcti_wp992.wpro_rank_math_analytics_gsc' doesn't exist for query SELECT SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(position) AS position FROM wpro_rank_math_analytics_gsc WHERE created BETWEEN '2021-07-17 00:00:00' AND '2021-08-16 23:59:59' LIMIT 0, 1 made by wp_dashboard, do_meta_boxes, RankMath\Admin\Admin->render_dashboard_widget, RankMath\Admin\Admin->do_action, do_action_ref_array('rank_math/dashboard/widget'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Analytics->dashboard_widget, RankMath\Analytics\Summary->get_widget, MyThemeShop\Database\Query_Builder->one
+[19-Aug-2021 16:10:49 UTC] WordPress database error Table 'pixelcti_wp992.wpro_rank_math_analytics_gsc' doesn't exist for query SELECT SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(position) AS position FROM wpro_rank_math_analytics_gsc WHERE created BETWEEN '2021-06-16 00:00:00' AND '2021-07-16 23:59:59' LIMIT 0, 1 made by wp_dashboard, do_meta_boxes, RankMath\Admin\Admin->render_dashboard_widget, RankMath\Admin\Admin->do_action, do_action_ref_array('rank_math/dashboard/widget'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Analytics->dashboard_widget, RankMath\Analytics\Summary->get_widget, MyThemeShop\Database\Query_Builder->one
+[19-Aug-2021 16:10:49 UTC] WordPress database error Table 'pixelcti_wp992.wpro_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(query))
+				FROM wpro_rank_math_analytics_gsc
+				WHERE created BETWEEN '2021-07-17 00:00:00' AND '2021-08-16 23:59:59'
+				GROUP BY Date(created)
+				ORDER BY Date(created) DESC
+				LIMIT 1 made by wp_dashboard, do_meta_boxes, RankMath\Admin\Admin->render_dashboard_widget, RankMath\Admin\Admin->do_action, do_action_ref_array('rank_math/dashboard/widget'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Analytics->dashboard_widget, RankMath\Analytics\Summary->get_widget, RankMath\Analytics\Summary->get_keywords_summary
+[19-Aug-2021 16:10:49 UTC] WordPress database error Table 'pixelcti_wp992.wpro_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(query))
+				FROM wpro_rank_math_analytics_gsc
+				WHERE created BETWEEN '2021-06-16 00:00:00' AND '2021-07-16 23:59:59'
+				GROUP BY Date(created)
+				ORDER BY Date(created) DESC
+				LIMIT 1 made by wp_dashboard, do_meta_boxes, RankMath\Admin\Admin->render_dashboard_widget, RankMath\Admin\Admin->do_action, do_action_ref_array('rank_math/dashboard/widget'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Analytics->dashboard_widget, RankMath\Analytics\Summary->get_widget, RankMath\Analytics\Summary->get_keywords_summary
+[27-Aug-2021 14:09:08 UTC] WordPress database error Commands out of sync; you can't run this command now for query INSERT INTO wpro_woocommerce_sessions (`session_key`, `session_value`, `session_expiry`) VALUES ('1', 'a:8:{s:4:\"cart\";s:6:\"a:0:{}\";s:11:\"cart_totals\";s:367:\"a:15:{s:8:\"subtotal\";i:0;s:12:\"subtotal_tax\";i:0;s:14:\"shipping_total\";i:0;s:12:\"shipping_tax\";i:0;s:14:\"shipping_taxes\";a:0:{}s:14:\"discount_total\";i:0;s:12:\"discount_tax\";i:0;s:19:\"cart_contents_total\";i:0;s:17:\"cart_contents_tax\";i:0;s:19:\"cart_contents_taxes\";a:0:{}s:9:\"fee_total\";i:0;s:7:\"fee_tax\";i:0;s:9:\"fee_taxes\";a:0:{}s:5:\"total\";i:0;s:9:\"total_tax\";i:0;}\";s:15:\"applied_coupons\";s:6:\"a:0:{}\";s:22:\"coupon_discount_totals\";s:6:\"a:0:{}\";s:26:\"coupon_discount_tax_totals\";s:6:\"a:0:{}\";s:21:\"removed_cart_contents\";s:6:\"a:0:{}\";s:8:\"customer\";s:854:\"a:27:{s:2:\"id\";s:1:\"1\";s:13:\"date_modified\";s:25:\"2021-08-27T14:09:06+00:00\";s:8:\"postcode\";s:0:\"\";s:4:\"city\";s:0:\"\";s:9:\"address_1\";s:28:\"Pahartali,Raozan,Chittagong.\";s:7:\"address\";s:28:\"Pahartali,Raozan,Chittagong.\";s:9:\"address_2\";s:0:\"\";s:5:\"state\";s:5:\"BD-10\";s:7:\"country\";s:2:\"BD\";s:17:\"shipping_postcode\";s:0:\"\";s:13:\"shipping_city\";s:0:\"\";s:18:\"shipping_address_1\";s:0:\"\";s:16:\"shipping_address\";s:0:\"\";s:18:\"shipping_address_2\";s:0:\"\";s:14:\"shipping_state\";s:5:\"BD-10\";s:16:\"shipping_country\";s:2:\"BD\";s:13:\"is_vat_exempt\";s:0:\"\";s:19:\"calculated_shipping\";s:0:\"\";s:10:\"first_name\";s:6:\"Mickel\";s:9:\"last_name\";s:6:\"Jekson\";s:7:\"company\";s:0:\"\";s:5:\"phone\";s:10:\"0123456789\";s:5:\"email\";s:20:\"support@pixelcti.com\";s:19:\"shipping_first_name\";s:0:\"\";s:18:\"shipping_last_name\";s:0:\"\";s:16:\"shipping_company\";s:0:\"\";s:14:\"shipping_phone\";s:0:\"\";}\";s:25:\"is_wallet_partial_payment\";b:0;}', 1630246148)
+ 					ON DUPLICATE KEY UPDATE `session_value` = VALUES(`session_value`), `session_expiry` = VALUES(`session_expiry`) made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Session_Handler->save_data
+[27-Aug-2021 14:09:08 UTC] WordPress database error Commands out of sync; you can't run this command now for query SHOW FULL COLUMNS FROM `wpro_woocommerce_sessions` made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Session_Handler->save_data, WC_Session_Handler->delete_session
+[07-Sep-2021 09:25:29 UTC] [Loco.error] "Translation set not known in WooCommerce" in src/admin/bundle/BaseController.php:69
+[07-Sep-2021 09:25:29 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159
+[21-Sep-2021 07:40:09 UTC] WordPress database error Table 'pixelcti_wp992.wpro_rank_math_analytics_gsc' doesn't exist for query SELECT SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(position) AS position FROM wpro_rank_math_analytics_gsc WHERE created BETWEEN '2021-08-19 00:00:00' AND '2021-09-18 23:59:59' LIMIT 0, 1 made by wp_dashboard, do_meta_boxes, RankMath\Admin\Admin->render_dashboard_widget, RankMath\Admin\Admin->do_action, do_action_ref_array('rank_math/dashboard/widget'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Analytics->dashboard_widget, RankMath\Analytics\Summary->get_widget, MyThemeShop\Database\Query_Builder->one
+[21-Sep-2021 07:40:09 UTC] WordPress database error Table 'pixelcti_wp992.wpro_rank_math_analytics_gsc' doesn't exist for query SELECT SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(position) AS position FROM wpro_rank_math_analytics_gsc WHERE created BETWEEN '2021-07-19 00:00:00' AND '2021-08-18 23:59:59' LIMIT 0, 1 made by wp_dashboard, do_meta_boxes, RankMath\Admin\Admin->render_dashboard_widget, RankMath\Admin\Admin->do_action, do_action_ref_array('rank_math/dashboard/widget'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Analytics->dashboard_widget, RankMath\Analytics\Summary->get_widget, MyThemeShop\Database\Query_Builder->one
+[21-Sep-2021 07:40:09 UTC] WordPress database error Table 'pixelcti_wp992.wpro_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(query))
+				FROM wpro_rank_math_analytics_gsc
+				WHERE created BETWEEN '2021-08-19 00:00:00' AND '2021-09-18 23:59:59'
+				GROUP BY Date(created)
+				ORDER BY Date(created) DESC
+				LIMIT 1 made by wp_dashboard, do_meta_boxes, RankMath\Admin\Admin->render_dashboard_widget, RankMath\Admin\Admin->do_action, do_action_ref_array('rank_math/dashboard/widget'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Analytics->dashboard_widget, RankMath\Analytics\Summary->get_widget, RankMath\Analytics\Summary->get_keywords_summary
+[21-Sep-2021 07:40:09 UTC] WordPress database error Table 'pixelcti_wp992.wpro_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(query))
+				FROM wpro_rank_math_analytics_gsc
+				WHERE created BETWEEN '2021-07-19 00:00:00' AND '2021-08-18 23:59:59'
+				GROUP BY Date(created)
+				ORDER BY Date(created) DESC
+				LIMIT 1 made by wp_dashboard, do_meta_boxes, RankMath\Admin\Admin->render_dashboard_widget, RankMath\Admin\Admin->do_action, do_action_ref_array('rank_math/dashboard/widget'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Analytics->dashboard_widget, RankMath\Analytics\Summary->get_widget, RankMath\Analytics\Summary->get_keywords_summary
+[28-Dec-2021 19:32:56 UTC] WordPress database error Table 'pixelcti_wp992.wpro_rank_math_analytics_gsc' doesn't exist for query SELECT SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(position) AS position FROM wpro_rank_math_analytics_gsc WHERE created BETWEEN '2021-11-22 00:00:00' AND '2021-12-25 23:59:59' LIMIT 0, 1 made by wp_dashboard, do_meta_boxes, RankMath\Admin\Admin->render_dashboard_widget, RankMath\Admin\Admin->do_action, do_action_ref_array('rank_math/dashboard/widget'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Analytics->dashboard_widget, RankMath\Analytics\Summary->get_widget, MyThemeShop\Database\Query_Builder->one
+[28-Dec-2021 19:32:56 UTC] WordPress database error Table 'pixelcti_wp992.wpro_rank_math_analytics_gsc' doesn't exist for query SELECT SUM(impressions) AS impressions, SUM(clicks) AS clicks, AVG(position) AS position FROM wpro_rank_math_analytics_gsc WHERE created BETWEEN '2021-10-19 00:00:00' AND '2021-11-21 23:59:59' LIMIT 0, 1 made by wp_dashboard, do_meta_boxes, RankMath\Admin\Admin->render_dashboard_widget, RankMath\Admin\Admin->do_action, do_action_ref_array('rank_math/dashboard/widget'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Analytics->dashboard_widget, RankMath\Analytics\Summary->get_widget, MyThemeShop\Database\Query_Builder->one
+[28-Dec-2021 19:32:56 UTC] WordPress database error Table 'pixelcti_wp992.wpro_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(query))
+				FROM wpro_rank_math_analytics_gsc
+				WHERE created BETWEEN '2021-11-22 00:00:00' AND '2021-12-25 23:59:59'
+				GROUP BY Date(created)
+				ORDER BY Date(created) DESC
+				LIMIT 1 made by wp_dashboard, do_meta_boxes, RankMath\Admin\Admin->render_dashboard_widget, RankMath\Admin\Admin->do_action, do_action_ref_array('rank_math/dashboard/widget'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Analytics->dashboard_widget, RankMath\Analytics\Summary->get_widget, RankMath\Analytics\Summary->get_keywords_summary
+[28-Dec-2021 19:32:56 UTC] WordPress database error Table 'pixelcti_wp992.wpro_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(query))
+				FROM wpro_rank_math_analytics_gsc
+				WHERE created BETWEEN '2021-10-19 00:00:00' AND '2021-11-21 23:59:59'
+				GROUP BY Date(created)
+				ORDER BY Date(created) DESC
+				LIMIT 1 made by wp_dashboard, do_meta_boxes, RankMath\Admin\Admin->render_dashboard_widget, RankMath\Admin\Admin->do_action, do_action_ref_array('rank_math/dashboard/widget'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Analytics->dashboard_widget, RankMath\Analytics\Summary->get_widget, RankMath\Analytics\Summary->get_keywords_summary
+[12-Jan-2022 04:06:07 UTC] The is_ajax function is deprecated since version 6.1.0. Replace with wp_doing_ajax.
+[12-Jan-2022 04:07:52 UTC] The is_ajax function is deprecated since version 6.1.0. Replace with wp_doing_ajax.
+[12-Jan-2022 04:08:04 UTC] The is_ajax function is deprecated since version 6.1.0. Replace with wp_doing_ajax.
+[13-Jan-2022 05:27:06 UTC] The is_ajax function is deprecated since version 6.1.0. Replace with wp_doing_ajax.
+[14-Jan-2022 04:06:18 UTC] The is_ajax function is deprecated since version 6.1.0. Replace with wp_doing_ajax.
+[14-Jan-2022 07:09:59 UTC] The is_ajax function is deprecated since version 6.1.0. Replace with wp_doing_ajax.
+[15-Jan-2022 03:49:41 UTC] The is_ajax function is deprecated since version 6.1.0. Replace with wp_doing_ajax.
+[15-Jan-2022 04:25:49 UTC] The is_ajax function is deprecated since version 6.1.0. Replace with wp_doing_ajax.
+[16-Jan-2022 04:16:47 UTC] The is_ajax function is deprecated since version 6.1.0. Replace with wp_doing_ajax.
+[16-Jan-2022 21:53:57 UTC] The is_ajax function is deprecated since version 6.1.0. Replace with wp_doing_ajax.
+[17-Jan-2022 04:15:04 UTC] The is_ajax function is deprecated since version 6.1.0. Replace with wp_doing_ajax.
+[18-Jan-2022 00:29:22 UTC] The is_ajax function is deprecated since version 6.1.0. Replace with wp_doing_ajax.
+[18-Jan-2022 04:16:47 UTC] The is_ajax function is deprecated since version 6.1.0. Replace with wp_doing_ajax.
+[19-Jan-2022 04:00:41 UTC] The is_ajax function is deprecated since version 6.1.0. Replace with wp_doing_ajax.
+[19-Jan-2022 04:06:16 UTC] The is_ajax function is deprecated since version 6.1.0. Replace with wp_doing_ajax.
+[20-Jan-2022 04:06:16 UTC] The is_ajax function is deprecated since version 6.1.0. Replace with wp_doing_ajax.
+[26-Jan-2022 04:47:57 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '_disable_block_editor_for_navigation_post_type' not found or invalid function name in /home1/pixelcti/public_html/wp-includes/class-wp-hook.php on line 307
+[26-Jan-2022 04:47:58 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '_disable_block_editor_for_navigation_post_type' not found or invalid function name in /home1/pixelcti/public_html/wp-includes/class-wp-hook.php on line 307
+[27-Jan-2022 04:52:17 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '_disable_block_editor_for_navigation_post_type' not found or invalid function name in /home1/pixelcti/public_html/wp-includes/class-wp-hook.php on line 307
+[28-Jan-2022 04:20:25 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '_disable_block_editor_for_navigation_post_type' not found or invalid function name in /home1/pixelcti/public_html/wp-includes/class-wp-hook.php on line 307
+[29-Jan-2022 04:21:12 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '_disable_block_editor_for_navigation_post_type' not found or invalid function name in /home1/pixelcti/public_html/wp-includes/class-wp-hook.php on line 307
+[30-Jan-2022 04:20:39 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '_disable_block_editor_for_navigation_post_type' not found or invalid function name in /home1/pixelcti/public_html/wp-includes/class-wp-hook.php on line 307
+[31-Jan-2022 04:21:52 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '_disable_block_editor_for_navigation_post_type' not found or invalid function name in /home1/pixelcti/public_html/wp-includes/class-wp-hook.php on line 307
+[01-Feb-2022 05:16:59 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function '_disable_block_editor_for_navigation_post_type' not found or invalid function name in /home1/pixelcti/public_html/wp-includes/class-wp-hook.php on line 307
+[07-Jul-2022 13:44:16 UTC] WordPress database error Table 'pixelcti_wp992.wpro_wpmailsmtp_tasks_meta' doesn't exist for query SHOW FULL COLUMNS FROM `wpro_wpmailsmtp_tasks_meta` made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WPMailSMTP\Core->get_tasks, WPMailSMTP\Tasks\Tasks->init, WPMailSMTP\Tasks\Reports\SummaryEmailTask->init, WPMailSMTP\Tasks\Task->register, WPMailSMTP\Tasks\Meta->add, WPMailSMTP\Tasks\Meta->add_to_db

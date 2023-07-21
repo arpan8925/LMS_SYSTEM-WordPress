@@ -1,0 +1,1065 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "Edukasi \u2013 Education & Online Course Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Courses",
+            "screenshot": "screenshots\/courses.jpg",
+            "source": "templates\/courses.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/template-kit\/courses\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Courses Detail",
+            "screenshot": "screenshots\/courses-detail.jpg",
+            "source": "templates\/courses-detail.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/template-kit\/courses-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Teachers",
+            "screenshot": "screenshots\/teachers.jpg",
+            "source": "templates\/teachers.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/template-kit\/teachers\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Careers",
+            "screenshot": "screenshots\/careers.jpg",
+            "source": "templates\/careers.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/template-kit\/careers\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Blog",
+            "screenshot": "screenshots\/single-blog.jpg",
+            "source": "templates\/single-blog.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/template-kit\/single-blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm Register",
+            "screenshot": "screenshots\/metform-register.jpg",
+            "source": "templates\/metform-register.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/template-kit\/metform-register\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/template-kit\/metform-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/template-kit\/404-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.2.4",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.4.9",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.2.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "1.10.2",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "JegStudio"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Background.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/Background-600x188.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 14630,
+            "dimensions": [
+                1920,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/educate\/"
+        },
+        {
+            "filename": "happy-young-university-students-friends-studying-with-books-at-university-e1606792560854.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/happy-young-university-students-friends-studying-with-books-at-university-e1606792560854-600x684.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 228454,
+            "dimensions": [
+                1329,
+                1515
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2560854"
+        },
+        {
+            "filename": "Partner.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/Partner.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3743,
+            "dimensions": [
+                200,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/logo-JQLHGD"
+        },
+        {
+            "filename": "Partner-3.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/Partner-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3334,
+            "dimensions": [
+                200,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/logo-EL3YNG"
+        },
+        {
+            "filename": "Partner-4.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/Partner-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2955,
+            "dimensions": [
+                200,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/logo-CE3VQV"
+        },
+        {
+            "filename": "working-desk-with-digital-tablet-showing-digital-marketing-concept-e1607398412709.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/working-desk-with-digital-tablet-showing-digital-marketing-concept-e1607398412709-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 113462,
+            "dimensions": [
+                1024,
+                682
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-8412709"
+        },
+        {
+            "filename": "ux-and-ui-designers-discussing-project-e1607398336784.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/ux-and-ui-designers-discussing-project-e1607398336784-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/courses-detail.json",
+                    "name": "Courses Detail"
+                }
+            ],
+            "filesize": 255809,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8336784"
+        },
+        {
+            "filename": "black-male-in-front-of-computer-screen-coding-mobile-app-web-development-computer-programming-e1607398435787.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/black-male-in-front-of-computer-screen-coding-mobile-app-web-development-computer-programming-e1607398435787-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 78016,
+            "dimensions": [
+                1024,
+                684
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8435787"
+        },
+        {
+            "filename": "marketing-manager-making-marketing-distribution-channels-plan-e1607398419848.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/marketing-manager-making-marketing-distribution-channels-plan-e1607398419848-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 113537,
+            "dimensions": [
+                1024,
+                682
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8419848"
+        },
+        {
+            "filename": "woman-learning-english-online-e1607398443679.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/woman-learning-english-online-e1607398443679-600x398.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 92034,
+            "dimensions": [
+                1024,
+                680
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8443679"
+        },
+        {
+            "filename": "retro-camera-in-woman-s-hands-photography-e1607398455795.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/retro-camera-in-woman-s-hands-photography-e1607398455795-600x406.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 62116,
+            "dimensions": [
+                1024,
+                693
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8455795"
+        },
+        {
+            "filename": "OJO4YQ0.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/OJO4YQ0-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 393490,
+            "dimensions": [
+                1300,
+                867
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/worldmap-background-design_1019996.htm"
+        },
+        {
+            "filename": "college-students-studying-on-university-campus-outdoor-e1606804304182.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/college-students-studying-on-university-campus-outdoor-e1606804304182-600x696.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 307078,
+            "dimensions": [
+                1375,
+                1595
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4304182"
+        },
+        {
+            "filename": "happy-young-university-students-friends-studying-with-books-at-university-2-e1607398396903.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/happy-young-university-students-friends-studying-with-books-at-university-2-e1607398396903-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/teachers.json",
+                    "name": "Teachers"
+                }
+            ],
+            "filesize": 245563,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8396903"
+        },
+        {
+            "filename": "tes.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/tes-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/teachers.json",
+                    "name": "Teachers"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 192072,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-QKPSLY"
+        },
+        {
+            "filename": "Team-K7GLWDT.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/Team-K7GLWDT-600x590.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/teachers.json",
+                    "name": "Teachers"
+                }
+            ],
+            "filesize": 117780,
+            "dimensions": [
+                1024,
+                1007
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-K7GLWDT"
+        },
+        {
+            "filename": "Team-PZLQ75K.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/Team-PZLQ75K-600x590.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/teachers.json",
+                    "name": "Teachers"
+                }
+            ],
+            "filesize": 124362,
+            "dimensions": [
+                1024,
+                1007
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PZLQ75K"
+        },
+        {
+            "filename": "Team-7P22AX2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/Team-7P22AX2-600x590.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/teachers.json",
+                    "name": "Teachers"
+                }
+            ],
+            "filesize": 118906,
+            "dimensions": [
+                1024,
+                1007
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7P22AX2"
+        },
+        {
+            "filename": "Image.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/Image.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 17155,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-83S5W35"
+        },
+        {
+            "filename": "Image-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/Image-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 31858,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-M6NJPEF"
+        },
+        {
+            "filename": "Testimonial.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/Testimonial.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 29574,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-N8572T7"
+        },
+        {
+            "filename": "image-3.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/image-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 29754,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Q8JDNBT"
+        },
+        {
+            "filename": "Testimonial-2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/Testimonial-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 30058,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-A8E2W8S"
+        },
+        {
+            "filename": "Image-4.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/Image-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 25367,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YV9ABZR"
+        },
+        {
+            "filename": "education-campus-friendship-and-people-concept-group-of-happy-students-outdoor-e1606988074703.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/education-campus-friendship-and-people-concept-group-of-happy-students-outdoor-e1606988074703-600x594.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 296965,
+            "dimensions": [
+                1331,
+                1318
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8074703"
+        },
+        {
+            "filename": "young-college-students-studying-together-at-library-e1607398466852.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/young-college-students-studying-together-at-library-e1607398466852-600x412.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 277386,
+            "dimensions": [
+                1920,
+                1318
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8466852"
+        },
+        {
+            "filename": "group-of-college-students-studying-together-e1607398356245.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/group-of-college-students-studying-together-e1607398356245-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/teachers.json",
+                    "name": "Teachers"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 316698,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8356245"
+        },
+        {
+            "filename": "Team-JA74V7F.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/Team-JA74V7F-600x590.jpg",
+            "templates": [
+                {
+                    "source": "templates\/teachers.json",
+                    "name": "Teachers"
+                }
+            ],
+            "filesize": 133133,
+            "dimensions": [
+                1024,
+                1007
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JA74V7F"
+        },
+        {
+            "filename": "Team-PQG6E9T.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/Team-PQG6E9T-600x590.jpg",
+            "templates": [
+                {
+                    "source": "templates\/teachers.json",
+                    "name": "Teachers"
+                }
+            ],
+            "filesize": 193349,
+            "dimensions": [
+                1024,
+                1007
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PQG6E9T"
+        },
+        {
+            "filename": "Team-NCMRJQU.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/Team-NCMRJQU-600x590.jpg",
+            "templates": [
+                {
+                    "source": "templates\/teachers.json",
+                    "name": "Teachers"
+                }
+            ],
+            "filesize": 173858,
+            "dimensions": [
+                1024,
+                1007
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NCMRJQU"
+        },
+        {
+            "filename": "university-students-studying-together-1-e1607398379782.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/university-students-studying-together-1-e1607398379782-600x482.jpg",
+            "templates": [
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 326552,
+            "dimensions": [
+                1920,
+                1542
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8379782"
+        },
+        {
+            "filename": "designer-desk-space-for-designers-color-charts-model-phones-and-tablet--e1607398329248.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/designer-desk-space-for-designers-color-charts-model-phones-and-tablet--e1607398329248-600x399.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 217376,
+            "dimensions": [
+                1920,
+                1278
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8329248"
+        },
+        {
+            "filename": "group-of-college-students-collaborating-on-project-in-library-e1607398311879.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/group-of-college-students-collaborating-on-project-in-library-e1607398311879-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 275720,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8311879"
+        },
+        {
+            "filename": "Logo-header@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/Logo-header@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 4317,
+            "dimensions": [
+                471,
+                82
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-QJFDSX"
+        },
+        {
+            "filename": "Logo-footer@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/edukasi\/wp-content\/uploads\/sites\/20\/2020\/12\/Logo-footer@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 3907,
+            "dimensions": [
+                471,
+                83
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-QJFDSX"
+        }
+    ]
+}

@@ -1,0 +1,1453 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: DIGITS: Wordpress Mobile Number Signup and Login\n"
+"POT-Creation-Date: 2021-08-09 13:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: digit.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Language: "
+
+#: digit.php:1930 digit.php:1969 includes/core/enqueue/enqueue_scripts.php:254
+msgid "(select)"
+msgstr ""
+
+#: admin/settings.php:63
+msgid "(Update Available)"
+msgstr ""
+
+#: includes/woocommerce-registration.php:1201
+msgid "*"
+msgstr ""
+
+#: digit.php:120
+msgid "+ Add User"
+msgstr ""
+
+#: digit.php:914
+msgid ""
+"<div><p><b>Fatal Error</b>: Digits requires curl to work correctly. </p>"
+"</div>"
+msgstr ""
+
+#: includes/process_user.php:787
+msgid ""
+"A password reset email has been sent to the email address, but may take "
+"several minutes to show up in your inbox. Please wait at least 10 minutes "
+"before attempting another reset."
+msgstr ""
+
+#: includes/register.php:204
+msgid "Account details changed successfully."
+msgstr ""
+
+#: admin/includes/api_settings.php:621 admin/includes/api_settings.php:625
+msgid "Account SID"
+msgstr ""
+
+#: admin/includes/api_settings.php:589
+msgid "AccountKit App Secret"
+msgstr ""
+
+#: admin/setup_wizard.php:171
+msgid "Activation"
+msgstr ""
+
+#: admin/includes/custom_fields.php:509
+msgid "Add"
+msgstr ""
+
+#: admin/includes/custom_fields.php:457
+msgid "Add a Option"
+msgstr ""
+
+#: admin/includes/custom_fields.php:350
+msgid "ADD FIELD"
+msgstr ""
+
+#: digit.php:124
+msgid "Add new user"
+msgstr ""
+
+#: includes/wcs.php:391 includes/wcs.php:392
+msgid "Add to menu"
+msgstr ""
+
+#: admin/settings.php:196
+msgid "Addons"
+msgstr ""
+
+#: admin/includes/custom_fields.php:49
+msgid "Address Line 1"
+msgstr ""
+
+#: admin/includes/custom_fields.php:58
+msgid "Address Line 2"
+msgstr ""
+
+#: admin/includes/custom_fields.php:243
+msgid "Always"
+msgstr ""
+
+#: admin/includes/api_settings.php:706 admin/includes/api_settings.php:710
+msgid "API Key"
+msgstr ""
+
+#: admin/setup_wizard.php:179 admin/includes/api_settings.php:46
+msgid "API Settings"
+msgstr ""
+
+#: admin/includes/api_settings.php:579 admin/includes/api_settings.php:582
+msgid "App ID"
+msgstr ""
+
+#: admin/includes/api_settings.php:593
+msgid "App Secret"
+msgstr ""
+
+#: includes/core/enqueue/enqueue_scripts.php:145
+#: includes/core/enqueue/enqueue_scripts.php:231
+msgid "At the moment, we do not allow users from your country"
+msgstr ""
+
+#: admin/includes/api_settings.php:632 admin/includes/api_settings.php:636
+msgid "Auth Token"
+msgstr ""
+
+#: admin/includes/api_settings.php:653 admin/includes/api_settings.php:657
+msgid "Authentication Key"
+msgstr ""
+
+#: digit.php:1289
+msgid "BACK"
+msgstr ""
+
+#: admin/setup_wizard.php:32 admin/setup_wizard.php:53
+#: admin/setup_wizard.php:85 admin/includes/custom_fields.php:510
+#: admin/includes/api_settings.php:59 admin/includes/shortcodes.php:86
+msgid "Back"
+msgstr ""
+
+#: includes/forms.php:454 includes/forms.php:737
+msgid "Back to login"
+msgstr ""
+
+#: includes/woocommerce-registration.php:279
+msgid "Billing Email"
+msgstr ""
+
+#: includes/woocommerce-registration.php:282
+msgid "Billing Mobile Number"
+msgstr ""
+
+#: admin/settings.php:484
+msgid "Both Password and OTP cannot be disabled"
+msgstr ""
+
+#: admin/setup_wizard.php:242
+msgid ""
+"Busy right now! If you don't want to go through the wizard, you can skip and "
+"return to the WordPress dashboard and come back anytime."
+msgstr ""
+
+#: digit.php:311 digit.php:1374
+msgid "Cancel"
+msgstr ""
+
+#: digit.php:1710 digit.php:2311 admin/includes/custom_fields.php:160
+msgid "Captcha"
+msgstr ""
+
+#: admin/settings.php:418 admin/settings.php:528
+msgid "Change Image"
+msgstr ""
+
+#: admin/settings.php:198
+msgid "CHANGELOG"
+msgstr ""
+
+#: admin/includes/custom_fields.php:138
+msgid "CheckBox"
+msgstr ""
+
+#: admin/includes/custom_fields.php:67
+msgid "City"
+msgstr ""
+
+#: includes/core/enqueue/enqueue_scripts.php:176
+msgid "Code is valid, please proceed with checkout"
+msgstr ""
+
+#: admin/includes/custom_fields.php:40
+msgid "Company"
+msgstr ""
+
+#: includes/woocommerce-registration.php:1375 includes/forms.php:439
+#: includes/core/enqueue/enqueue_scripts.php:158
+msgid "Confirm Password"
+msgstr ""
+
+#: admin/setup_wizard.php:44
+msgid ""
+"Congratulations! Digits has been activated and your website is ready. Login "
+"to your WordPress\n"
+"        dashboard to make changes and modify any of the content to suit your "
+"needs."
+msgstr ""
+
+#: admin/setup_wizard.php:30 admin/setup_wizard.php:51
+#: admin/setup_wizard.php:83 admin/setup_wizard.php:247
+#: admin/includes/api_settings.php:57 admin/includes/shortcodes.php:84
+msgid "Continue"
+msgstr ""
+
+#: admin/settings.php:492
+msgid "Copied to clipboard"
+msgstr ""
+
+#: admin/includes/shortcodes.php:66
+msgid "Copy"
+msgstr ""
+
+#: admin/includes/custom_fields.php:85
+msgid "Country"
+msgstr ""
+
+#: digit.php:298 digit.php:312
+msgid "Create Customer"
+msgstr ""
+
+#: digit.php:287
+msgid "Create New Customer"
+msgstr ""
+
+#: admin/includes/api_settings.php:495
+msgid "Custom"
+msgstr ""
+
+#: admin/includes/custom_fields.php:442
+msgid "Custom Class"
+msgstr ""
+
+#: admin/includes/api_settings.php:494
+msgid "Custom Gateway"
+msgstr ""
+
+#: admin/includes/custom_fields.php:176
+msgid "Date"
+msgstr ""
+
+#: admin/setup_wizard.php:43
+msgid "Digits is ready!"
+msgstr ""
+
+#: includes/wcs.php:313
+msgid "Digits Menu Items"
+msgstr ""
+
+#: admin/includes/shortcodes.php:16
+msgid "Digits Native Form"
+msgstr ""
+
+#. Name of the plugin
+msgid "DIGITS: Wordpress Mobile Number Signup and Login"
+msgstr ""
+
+#: admin/includes/api_settings.php:109
+msgid "Disabled"
+msgstr ""
+
+#: admin/includes/custom_fields.php:31
+msgid "Display Name"
+msgstr ""
+
+#: admin/includes/api_settings.php:695 admin/includes/api_settings.php:699
+msgid "DLT Template ID"
+msgstr ""
+
+#: admin/setup_wizard.php:19
+msgid ""
+"Do you feel like you need some help with the setup, go through our detailed "
+"documentation it will guide you through."
+msgstr ""
+
+#: admin/setup_wizard.php:175
+msgid "Docs"
+msgstr ""
+
+#: includes/forms.php:71
+msgid "Don't have an account?"
+msgstr ""
+
+#: admin/setup_wizard.php:27
+msgid ""
+"Don't worry, we'll not tell anyone that you went through our documentation "
+"to setup this simple thing."
+msgstr ""
+
+#: admin/includes/custom_fields.php:131
+msgid "DropDown"
+msgstr ""
+
+#: admin/settings.php:495
+msgid "Duplicate Value"
+msgstr ""
+
+#: admin/includes/shortcodes.php:21
+msgid "Edit Phone Number"
+msgstr ""
+
+#: includes/core/enqueue/enqueue_scripts.php:242
+msgid "Either enter your mobile number or click on sign up with password"
+msgstr ""
+
+#: includes/woocommerce-registration.php:424
+#: includes/core/enqueue/enqueue_scripts.php:160
+msgid "Either enter your Mobile Number or use Password!"
+msgstr ""
+
+#: digit.php:1337 digit.php:2303 digit.php:2353 includes/process_user.php:74
+#: includes/woocommerce-registration.php:1219 includes/forms.php:202
+#: includes/forms.php:375 includes/forms.php:491 includes/forms.php:604
+#: includes/core/enqueue/enqueue_scripts.php:168
+#: includes/core/enqueue/enqueue_scripts.php:246
+msgid "Email"
+msgstr ""
+
+#: includes/process_user.php:187 includes/process_user.php:193
+#: includes/woocommerce-registration.php:792 includes/register.php:433
+#: includes/register.php:440
+msgid "Email already in use!"
+msgstr ""
+
+#: includes/process_user.php:395 includes/register.php:653
+#: includes/login.php:366 includes/login.php:371
+msgid "Email is already in use!"
+msgstr ""
+
+#: digit.php:309 digit.php:1333 includes/process_user.php:70
+#: includes/wp.php:447 includes/woocommerce-registration.php:275
+#: includes/woocommerce-registration.php:276
+#: includes/woocommerce-registration.php:1216 includes/forms.php:198
+#: includes/forms.php:369 includes/forms.php:486 includes/forms.php:597
+#: includes/core/enqueue/enqueue_scripts.php:89
+msgid "Email/Mobile Number"
+msgstr ""
+
+#: digit.php:331
+msgid "Email/Mobile number has already registered"
+msgstr ""
+
+#: admin/includes/custom_fields.php:195
+msgid "Enable Registration"
+msgstr ""
+
+#: admin/includes/custom_fields.php:411
+msgid ""
+"Enclose the word(s) between [t] and [/t] for terms and condition and [p] and "
+"[/t] for privacy policy."
+msgstr ""
+
+#: digit.php:328
+msgid "Enter all fields!"
+msgstr ""
+
+#: admin/includes/api_settings.php:488
+msgid "Enter Parameters separated by \",\" and values by \":\""
+msgstr ""
+
+#: digit.php:330 includes/process_user.php:54 includes/process_user.php:305
+#: includes/process_user.php:508 includes/process_user.php:561
+#: includes/process_user.php:775 includes/process_user.php:816
+#: includes/process_user.php:872 includes/process_user.php:939
+#: includes/process_user.php:946 includes/woocommerce-registration.php:183
+#: includes/woocommerce-registration.php:186
+#: includes/woocommerce-registration.php:201
+#: includes/woocommerce-registration.php:207
+#: includes/woocommerce-registration.php:223
+#: includes/woocommerce-registration.php:225
+#: includes/woocommerce-registration.php:1397 includes/register.php:196
+#: includes/login.php:151 includes/login.php:708 includes/core/phandler.php:29
+#: includes/core/enqueue/enqueue_scripts.php:170
+#: includes/core/enqueue/enqueue_scripts.php:234
+msgid "Error"
+msgstr ""
+
+#: includes/woocommerce-registration.php:595
+#: includes/woocommerce-registration.php:602
+msgid "Error verifying Mobile Number"
+msgstr ""
+
+#: includes/process_user.php:233 includes/process_user.php:363
+#: includes/register.php:609
+msgid "Error while generating username!"
+msgstr ""
+
+#: admin/settings.php:488 includes/core/enqueue/enqueue_scripts.php:151
+#: includes/core/enqueue/enqueue_scripts.php:237
+msgid "Error! Please try again later"
+msgstr ""
+
+#: includes/process_user.php:965
+msgid "Error! User not found."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Expand your website dimensions by providing signup and login using mobile "
+"number. User can register themself with just a mobile number."
+msgstr ""
+
+#: includes/woocommerce-registration.php:71
+msgid "Extra Profile Information"
+msgstr ""
+
+#: admin/settings.php:494
+msgid "Field Already exist"
+msgstr ""
+
+#: digit.php:303 includes/woocommerce-registration.php:1137
+#: includes/forms.php:528
+msgid "First Name"
+msgstr ""
+
+#: admin/includes/custom_fields.php:413
+msgid ""
+"For example \"I Agree [t]Terms and Conditions[/t] & [p]Privacy Policy[/t]\""
+msgstr ""
+
+#: admin/includes/shortcodes.php:136
+msgid "Forgot"
+msgstr ""
+
+#: includes/core/enqueue/enqueue_scripts.php:245
+msgid "Forgot Password"
+msgstr ""
+
+#: admin/includes/shortcodes.php:20
+msgid "Forgot Password Form"
+msgstr ""
+
+#: includes/core/enqueue/enqueue_scripts.php:174
+#: includes/core/enqueue/enqueue_scripts.php:226
+msgid "Forgot Password is disabled"
+msgstr ""
+
+#: includes/login.php:336
+msgid "Forgot Password is disabled!"
+msgstr ""
+
+#: includes/wcs.php:350 admin/includes/shortcodes.php:35
+msgid "Forgot Password Modal"
+msgstr ""
+
+#: includes/wcs.php:349 admin/includes/shortcodes.php:34
+msgid "Forgot Password Page"
+msgstr ""
+
+#: includes/forms.php:67 admin/includes/shortcodes.php:103
+msgid "Forgot your Password?"
+msgstr ""
+
+#: admin/settings.php:227
+msgid "Form"
+msgstr ""
+
+#: admin/settings.php:219
+msgid "Gateway"
+msgstr ""
+
+#: admin/settings.php:223
+msgid "General"
+msgstr ""
+
+#: admin/setup_wizard.php:17
+msgid "Have a look at our documentation"
+msgstr ""
+
+#: admin/setup_wizard.php:26
+msgid ""
+"Having the documentation opened in other tab can help you if you get stuck "
+"somewhere in the middle."
+msgstr ""
+
+#: admin/includes/api_settings.php:498
+msgid "Headers separated by \",\""
+msgstr ""
+
+#. URI of the plugin
+msgid "https://digits.unitedover.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.unitedover.com/"
+msgstr ""
+
+#: includes/woocommerce-registration.php:788
+msgid "Invalid  Email!"
+msgstr ""
+
+#: includes/process_user.php:316 includes/register.php:564
+#: includes/core/enqueue/enqueue_scripts.php:137
+#: includes/core/enqueue/enqueue_scripts.php:228
+msgid "Invalid API credentials!"
+msgstr ""
+
+#: includes/woocommerce-registration.php:207
+#: includes/woocommerce-registration.php:454
+#: includes/woocommerce-registration.php:460
+msgid "Invalid Country Code!"
+msgstr ""
+
+#: includes/process_user.php:624 includes/process_user.php:658
+msgid "Invalid Credentials!"
+msgstr ""
+
+#: includes/wp.php:398
+msgid "Invalid Details!"
+msgstr ""
+
+#: includes/core/enqueue/enqueue_scripts.php:141
+#: includes/core/enqueue/enqueue_scripts.php:239
+msgid "Invalid details!"
+msgstr ""
+
+#: includes/process_user.php:180 includes/register.php:426
+msgid "Invalid Email or Mobile Number"
+msgstr ""
+
+#: digit.php:329
+msgid "Invalid Email or mobile number!"
+msgstr ""
+
+#: includes/process_user.php:184 includes/process_user.php:793
+#: includes/register.php:430 includes/core/enqueue/enqueue_scripts.php:144
+#: includes/core/enqueue/enqueue_scripts.php:240
+msgid "Invalid Email!"
+msgstr ""
+
+#: includes/plugins/um.php:207
+msgid "Invalid Email/Mobile Number"
+msgstr ""
+
+#: includes/core/enqueue/enqueue_scripts.php:138
+#: includes/core/enqueue/enqueue_scripts.php:227
+msgid "Invalid login credentials!"
+msgstr ""
+
+#: includes/process_user.php:359 includes/login.php:698
+msgid "Invalid Mobile Number"
+msgstr ""
+
+#: includes/woocommerce-registration.php:519
+msgid "Invalid Mobile Number or email"
+msgstr ""
+
+#: includes/woocommerce-registration.php:183
+#: includes/woocommerce-registration.php:186
+#: includes/woocommerce-registration.php:457
+#: includes/core/enqueue/enqueue_scripts.php:143
+#: includes/core/enqueue/enqueue_scripts.php:241
+msgid "Invalid Mobile Number!"
+msgstr ""
+
+#: admin/settings.php:486
+msgid "Invalid msg91 sender id!"
+msgstr ""
+
+#: includes/process_user.php:115 includes/register.php:364
+msgid "Invalid Name!"
+msgstr ""
+
+#: includes/woocommerce-registration.php:468
+#: includes/core/enqueue/enqueue_scripts.php:149
+#: includes/core/enqueue/enqueue_scripts.php:236
+msgid "Invalid OTP!"
+msgstr ""
+
+#: includes/core/enqueue/enqueue_scripts.php:142
+msgid "Invalid Password"
+msgstr ""
+
+#: includes/register.php:646
+msgid "Invalid password"
+msgstr ""
+
+#: includes/process_user.php:126 includes/process_user.php:129
+msgid "Invalid Password!"
+msgstr ""
+
+#: admin/settings.php:487
+msgid "Invalid Purchase Code"
+msgstr ""
+
+#: includes/process_user.php:119 includes/process_user.php:413
+msgid "Invalid Username!"
+msgstr ""
+
+#: admin/setup_wizard.php:240
+msgid "It should only take 4-5 minutes."
+msgstr ""
+
+#: admin/settings.php:193
+msgid "KNOWLEDGEBASE"
+msgstr ""
+
+#: admin/includes/custom_fields.php:403
+msgid "Label"
+msgstr ""
+
+#: digit.php:306 admin/includes/custom_fields.php:13
+msgid "Last Name"
+msgstr ""
+
+#: digit.php:616 digit.php:1205 includes/core/enqueue/enqueue_scripts.php:243
+msgid "Log In"
+msgstr ""
+
+#: digit.php:702 includes/forms.php:64 admin/includes/shortcodes.php:107
+#: admin/includes/shortcodes.php:119
+msgid "Login"
+msgstr ""
+
+#: admin/includes/shortcodes.php:101 admin/includes/shortcodes.php:111
+msgid "Login / Register"
+msgstr ""
+
+#: admin/includes/custom_fields.php:214
+msgid "Login Fields"
+msgstr ""
+
+#: admin/includes/shortcodes.php:18
+msgid "Login Form"
+msgstr ""
+
+#: includes/wcs.php:346 admin/includes/shortcodes.php:29
+msgid "Login Modal"
+msgstr ""
+
+#: includes/wcs.php:345 admin/includes/shortcodes.php:28
+msgid "Login Page"
+msgstr ""
+
+#: admin/setup_wizard.php:73
+msgid "Login Page Configuration"
+msgstr ""
+
+#: includes/process_user.php:715 includes/login.php:182 includes/login.php:643
+#: includes/core/enqueue/enqueue_scripts.php:255
+msgid "Login Successful, Redirecting.."
+msgstr ""
+
+#: includes/woocommerce-registration.php:1083 includes/forms.php:65
+#: includes/plugins/um.php:151 includes/core/enqueue/enqueue_scripts.php:111
+msgid "Login With OTP"
+msgstr ""
+
+#: includes/woocommerce-registration.php:1087 includes/forms.php:333
+msgid "Login With WhatsApp"
+msgstr ""
+
+#: admin/includes/shortcodes.php:17
+msgid "Login/Signup Form"
+msgstr ""
+
+#: includes/wcs.php:344 admin/includes/shortcodes.php:27
+msgid "Login/Signup Modal"
+msgstr ""
+
+#: includes/wcs.php:343 admin/includes/shortcodes.php:26
+msgid "Login/Signup Page"
+msgstr ""
+
+#: includes/wcs.php:351 admin/includes/shortcodes.php:37
+#: admin/includes/shortcodes.php:105 admin/includes/shortcodes.php:152
+msgid "Logout"
+msgstr ""
+
+#: includes/woocommerce-registration.php:1415
+msgid ""
+"Lost your password? Please enter your mobile number to receive OTP or email "
+"address to get a link to create a new password."
+msgstr ""
+
+#: admin/includes/shortcodes.php:24 admin/includes/shortcodes.php:98
+msgid "Menu Items"
+msgstr ""
+
+#: admin/includes/api_settings.php:730
+msgid "Message Template"
+msgstr ""
+
+#: admin/includes/custom_fields.php:433
+msgid "Meta Key"
+msgstr ""
+
+#: digit.php:818 digit.php:820 digit.php:1335 digit.php:2304 digit.php:2354
+#: includes/process_user.php:72 includes/wp.php:22
+#: includes/woocommerce-registration.php:40
+#: includes/woocommerce-registration.php:75
+#: includes/woocommerce-registration.php:272
+#: includes/woocommerce-registration.php:273
+#: includes/woocommerce-registration.php:1290
+#: includes/woocommerce-registration.php:1454
+#: includes/woocommerce-registration.php:1538 includes/forms.php:200
+#: includes/forms.php:372 includes/forms.php:489 includes/forms.php:586
+#: includes/edit_number.php:30 admin/includes/users.php:9
+#: includes/plugins/bp.php:53 includes/plugins/bp.php:109
+#: includes/core/enqueue/enqueue_scripts.php:148
+#: includes/core/enqueue/enqueue_scripts.php:247
+msgid "মোবাইল নাম্বার"
+msgstr ""
+
+#: includes/process_user.php:355 includes/process_user.php:357
+#: includes/woocommerce-registration.php:223
+#: includes/woocommerce-registration.php:225
+#: includes/woocommerce-registration.php:476
+#: includes/woocommerce-registration.php:776
+#: includes/core/enqueue/enqueue_scripts.php:147
+#: includes/core/enqueue/enqueue_scripts.php:233
+msgid "Mobile Number already in use!"
+msgstr ""
+
+#: includes/process_user.php:239 includes/process_user.php:346
+#: includes/register.php:492 includes/register.php:601
+#: includes/register.php:614 includes/register.php:616
+#: includes/plugins/um.php:37 includes/plugins/um.php:39
+msgid "Mobile number already in use!"
+msgstr ""
+
+#: includes/wcs.php:449
+msgid "Mobile Number is already in use"
+msgstr ""
+
+#: includes/wp.php:313
+msgid "Mobile Number is already in use!"
+msgstr ""
+
+#: includes/woocommerce-registration.php:1397
+msgid "Mobile Number is required!"
+msgstr ""
+
+#: includes/core/enqueue/enqueue_scripts.php:146
+#: includes/core/enqueue/enqueue_scripts.php:232
+msgid "Mobile number not found!"
+msgstr ""
+
+#: includes/wp.php:261 includes/plugins/ihu.php:30
+msgid "Mobile Number verification failed"
+msgstr ""
+
+#: includes/woocommerce-registration.php:633
+msgid "Mobile number verification failed!"
+msgstr ""
+
+#: admin/includes/api_settings.php:605
+msgid "Modal"
+msgstr ""
+
+#: admin/includes/shortcodes.php:104 admin/includes/shortcodes.php:144
+msgid "My Account"
+msgstr ""
+
+#: digit.php:2351
+msgid "Name"
+msgstr ""
+
+#: admin/includes/shortcodes.php:168
+msgid "Need More Help?"
+msgstr ""
+
+#: includes/woocommerce-registration.php:1369
+msgid "New Password"
+msgstr ""
+
+#: admin/settings.php:496 admin/includes/custom_fields.php:249
+#: admin/includes/custom_fields.php:298 admin/includes/custom_fields.php:426
+msgid "No"
+msgstr ""
+
+#: digit.php:1932 digit.php:1972
+msgid "Nothing"
+msgstr ""
+
+#: includes/core/enqueue/enqueue_scripts.php:250
+msgid "Notice!"
+msgstr ""
+
+#: admin/includes/custom_fields.php:124
+msgid "Number"
+msgstr ""
+
+#: includes/core/enqueue/enqueue_scripts.php:248
+msgid "Oh Snap!"
+msgstr ""
+
+#: admin/includes/api_settings.php:612
+msgid ""
+"Only use Popup if your website is non https:// otherwise we highly recommend "
+"using modal."
+msgstr ""
+
+#: admin/settings.php:483
+msgid "Oops! You cannot enable email without password for login"
+msgstr ""
+
+#: admin/setup_wizard.php:23
+msgid "Open Documentation"
+msgstr ""
+
+#: digit.php:2380 admin/settings.php:497
+#: includes/woocommerce-registration.php:1203 includes/forms.php:577
+#: includes/forms.php:601 admin/includes/custom_fields.php:295
+#: includes/core/enqueue/enqueue_scripts.php:169
+msgid "Optional"
+msgstr ""
+
+#: admin/includes/custom_fields.php:451
+msgid "Options"
+msgstr ""
+
+#: includes/woocommerce-registration.php:1075 includes/plugins/um.php:149
+#: includes/core/enqueue/enqueue_scripts.php:167
+msgid "OR"
+msgstr ""
+
+#: digit.php:829 digit.php:2305 includes/woocommerce-registration.php:149
+#: includes/woocommerce-registration.php:313
+#: includes/woocommerce-registration.php:317
+#: includes/woocommerce-registration.php:1032
+#: includes/woocommerce-registration.php:1183
+#: includes/woocommerce-registration.php:1249
+#: includes/woocommerce-registration.php:1312 includes/forms.php:68
+#: includes/forms.php:75 includes/forms.php:410 includes/edit_number.php:39
+#: admin/includes/api_settings.php:736 admin/includes/api_settings.php:775
+#: includes/plugins/bp.php:69 includes/plugins/bp.php:124
+#: includes/plugins/um.php:101 includes/plugins/um.php:167
+#: includes/core/enqueue/enqueue_scripts.php:153
+msgid "OTP"
+msgstr ""
+
+#: digit.php:2307 digit.php:2355 includes/woocommerce-registration.php:291
+#: includes/woocommerce-registration.php:304 includes/forms.php:264
+#: includes/forms.php:428 includes/forms.php:656
+#: includes/core/enqueue/enqueue_scripts.php:157
+msgid "Password"
+msgstr ""
+
+#: includes/process_user.php:1012
+msgid "Password changed successfully, Redirecting.."
+msgstr ""
+
+#: includes/core/enqueue/enqueue_scripts.php:238
+msgid "Password does not match the confirm password!"
+msgstr ""
+
+#: includes/process_user.php:898 includes/core/enqueue/enqueue_scripts.php:114
+#: includes/core/enqueue/enqueue_scripts.php:208
+msgid "Passwords do not match!"
+msgstr ""
+
+#: includes/core/enqueue/enqueue_scripts.php:116
+#: includes/core/enqueue/enqueue_scripts.php:210
+msgid "Please accept terms & conditions."
+msgstr ""
+
+#: digit.php:1634
+msgid "Please accept terms and condition!"
+msgstr ""
+
+#: admin/settings.php:482
+msgid ""
+"Please activate your plugin to change the look and feel of your Login page "
+"and Popup"
+msgstr ""
+
+#: admin/settings.php:491
+msgid "Please complete your custom field settings"
+msgstr ""
+
+#: admin/settings.php:489
+msgid "Please complete your settings"
+msgstr ""
+
+#: admin/settings.php:490
+#, php-format
+msgid ""
+"Please complete your SMS Gateway settings by clicking here, without those "
+"plugin will not work. For documentation, click %s here %s"
+msgstr ""
+
+#: includes/core/enqueue/enqueue_scripts.php:118
+#: includes/core/enqueue/enqueue_scripts.php:212
+msgid "Please enter a stronger password."
+msgstr ""
+
+#: includes/process_user.php:632 includes/register.php:246
+msgid "Please enter a valid captcha"
+msgstr ""
+
+#: digit.php:1628
+msgid "Please enter a valid Captcha!"
+msgstr ""
+
+#: includes/login.php:320
+msgid "Please enter a valid captcha!"
+msgstr ""
+
+#: includes/wcs.php:442
+msgid "Please enter a valid Country Code"
+msgstr ""
+
+#: includes/login.php:280
+msgid "Please enter a valid country code!"
+msgstr ""
+
+#: includes/process_user.php:165 includes/process_user.php:169
+#: includes/woocommerce-registration.php:433 includes/register.php:412
+#: includes/register.php:416
+msgid "Please enter a valid Email!"
+msgstr ""
+
+#: admin/settings.php:500
+msgid "Please enter a valid import code"
+msgstr ""
+
+#: includes/wcs.php:436 includes/wp.php:241 includes/wp.php:255
+#: includes/plugins/ihu.php:24
+msgid "Please enter a valid Mobile Number"
+msgstr ""
+
+#: admin/settings.php:499 includes/login.php:436
+msgid "Please enter a valid mobile number"
+msgstr ""
+
+#: includes/process_user.php:146 includes/process_user.php:155
+#: includes/process_user.php:176 includes/woocommerce-registration.php:430
+#: includes/register.php:402 includes/register.php:406
+#: includes/register.php:422
+msgid "Please enter a valid Mobile Number!"
+msgstr ""
+
+#: includes/wcs.php:453 includes/wp.php:293 includes/plugins/ihu.php:62
+msgid "Please enter a valid OTP"
+msgstr ""
+
+#: includes/process_user.php:149 includes/process_user.php:158
+msgid "Please enter a valid OTP!"
+msgstr ""
+
+#: includes/process_user.php:809
+msgid "Please enter a valid Password"
+msgstr ""
+
+#: includes/process_user.php:550
+msgid "Please enter a valid password"
+msgstr ""
+
+#: includes/core/phandler.php:45
+msgid "Please enter a valid purchase code"
+msgstr ""
+
+#: includes/woocommerce-registration.php:783
+msgid "Please enter country code!"
+msgstr ""
+
+#: includes/woocommerce-registration.php:780
+msgid "Please enter Mobile Number!"
+msgstr ""
+
+#: includes/woocommerce-registration.php:201
+msgid "Please enter your email or Mobile Number!"
+msgstr ""
+
+#: includes/woocommerce-registration.php:90
+msgid "Please enter your Mobile Number."
+msgstr ""
+
+#: includes/core/enqueue/enqueue_scripts.php:159
+msgid "Please enter your Mobile Number/Email"
+msgstr ""
+
+#: digit.php:1619
+msgid "Please fill all the required details!"
+msgstr ""
+
+#: includes/core/enqueue/enqueue_scripts.php:115
+#: includes/core/enqueue/enqueue_scripts.php:209
+msgid "Please fill all the required details."
+msgstr ""
+
+#: admin/includes/api_settings.php:711
+msgid ""
+"Please keep this message template similar to the one on Yunpian, just "
+"replace #code# with {OTP} otherwise messages will not be sent."
+msgstr ""
+
+#: includes/register.php:156
+msgid "Please provide a valid email address/Mobile number."
+msgstr ""
+
+#: digit.php:1647 digit.php:1657 digit.php:1662
+msgid "Please select a valid option!"
+msgstr ""
+
+#: includes/login.php:468 includes/core/enqueue/enqueue_scripts.php:136
+#: includes/core/enqueue/enqueue_scripts.php:229
+msgid "Please signup before logging in."
+msgstr ""
+
+#: includes/woocommerce-registration.php:447
+msgid "Please signup before placing order!"
+msgstr ""
+
+#: includes/register.php:746 includes/core/enqueue/enqueue_scripts.php:150
+msgid "Please try again"
+msgstr ""
+
+#: includes/core/enqueue/enqueue_scripts.php:230
+msgid "Please try again!"
+msgstr ""
+
+#: includes/wcs.php:104
+#, php-format
+msgid "Please type the verification code sent to %s"
+msgstr ""
+
+#: includes/process_user.php:851 includes/process_user.php:900
+msgid "Please use a stronger password!"
+msgstr ""
+
+#: includes/wp.php:374
+msgid "Please use mobile number to login!"
+msgstr ""
+
+#: includes/woocommerce-registration.php:449
+msgid "Please verify your mobile number!"
+msgstr ""
+
+#: admin/includes/api_settings.php:608
+msgid "Popup"
+msgstr ""
+
+#: admin/includes/custom_fields.php:94
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: admin/includes/custom_fields.php:474
+msgid "Privacy Link"
+msgstr ""
+
+#: admin/includes/custom_fields.php:145
+msgid "Radio"
+msgstr ""
+
+#: admin/setup_wizard.php:187
+msgid "Ready"
+msgstr ""
+
+#: admin/settings.php:202 admin/includes/shortcodes.php:102
+#: admin/includes/shortcodes.php:127
+msgid "Register"
+msgstr ""
+
+#: includes/woocommerce-registration.php:1341
+msgid "Register with OTP"
+msgstr ""
+
+#: includes/core/enqueue/enqueue_scripts.php:140
+msgid "Register With Password"
+msgstr ""
+
+#: includes/woocommerce-registration.php:1346
+msgid "Register with WhatsApp"
+msgstr ""
+
+#: admin/includes/custom_fields.php:256
+msgid "Registration Fields"
+msgstr ""
+
+#: includes/core/enqueue/enqueue_scripts.php:173
+#: includes/core/enqueue/enqueue_scripts.php:225
+msgid "Registration is disabled"
+msgstr ""
+
+#: includes/login.php:330
+msgid "Registration is disabled!"
+msgstr ""
+
+#: includes/process_user.php:488
+msgid "Registration Successful, Redirecting.."
+msgstr ""
+
+#: includes/wcs.php:550 includes/forms.php:66
+#: admin/includes/custom_fields.php:237
+msgid "Remember Me"
+msgstr ""
+
+#: admin/settings.php:420 admin/settings.php:530
+msgid "Remove Image"
+msgstr ""
+
+#: includes/woocommerce-registration.php:1538
+#: includes/woocommerce-registration.php:1551
+msgid "Removed"
+msgstr ""
+
+#: digit.php:2382 admin/settings.php:498 admin/includes/custom_fields.php:292
+#: includes/core/enqueue/enqueue_scripts.php:253
+msgid "Required"
+msgstr ""
+
+#: admin/includes/custom_fields.php:420
+msgid "Required Field"
+msgstr ""
+
+#: includes/edit_number.php:47
+msgid "Resend"
+msgstr ""
+
+#: includes/woocommerce-registration.php:1098
+#: includes/woocommerce-registration.php:1252
+#: includes/woocommerce-registration.php:1323
+#: includes/woocommerce-registration.php:1350 includes/forms.php:70
+#: includes/forms.php:77 includes/plugins/bp.php:135
+#: includes/plugins/um.php:109 includes/plugins/um.php:155
+#: includes/core/enqueue/enqueue_scripts.php:154
+msgid "Resend OTP"
+msgstr ""
+
+#: includes/forms.php:450
+msgid "Reset Password"
+msgstr ""
+
+#: admin/includes/api_settings.php:99
+msgid "Response"
+msgstr ""
+
+#: admin/setup_wizard.php:260
+msgid "Return to the WordPress Dashboard"
+msgstr ""
+
+#: admin/includes/api_settings.php:663
+msgid "ROUTE"
+msgstr ""
+
+#: admin/settings.php:302
+msgid "Save Changes"
+msgstr ""
+
+#: admin/settings.php:526
+msgid "Select a Image"
+msgstr ""
+
+#: admin/settings.php:416
+msgid "Select a logo"
+msgstr ""
+
+#: admin/settings.php:485 admin/includes/custom_fields.php:360
+msgid "Select a type"
+msgstr ""
+
+#: admin/settings.php:419 admin/settings.php:529
+msgid "Select Image"
+msgstr ""
+
+#: admin/includes/api_settings.php:646 admin/includes/api_settings.php:684
+#: admin/includes/api_settings.php:688
+msgid "Sender ID"
+msgstr ""
+
+#: admin/includes/api_settings.php:642
+msgid "Sender ID (From number)"
+msgstr ""
+
+#: admin/includes/api_settings.php:668
+msgid "SendOTP"
+msgstr ""
+
+#: admin/setup_wizard.php:133
+msgid "Setup"
+msgstr ""
+
+#: admin/setup_wizard.php:183 admin/settings.php:239
+#: admin/includes/shortcodes.php:11
+msgid "Shortcodes"
+msgstr ""
+
+#: admin/includes/custom_fields.php:204
+msgid "Show asterisk (*) on required fields"
+msgstr ""
+
+#: includes/core/enqueue/enqueue_scripts.php:166
+msgid "SIGN UP"
+msgstr ""
+
+#: includes/core/enqueue/enqueue_scripts.php:244
+msgid "Sign Up"
+msgstr ""
+
+#: admin/includes/shortcodes.php:32
+msgid "Sign Up Modal"
+msgstr ""
+
+#: admin/includes/shortcodes.php:31
+msgid "Sign Up Page"
+msgstr ""
+
+#: includes/core/enqueue/enqueue_scripts.php:164
+msgid "SIGN UP WITH OTP"
+msgstr ""
+
+#: includes/core/enqueue/enqueue_scripts.php:163
+msgid "SIGN UP WITH PASSWORD"
+msgstr ""
+
+#: includes/forms.php:72
+msgid "Signup"
+msgstr ""
+
+#: admin/includes/shortcodes.php:19
+msgid "Signup Form"
+msgstr ""
+
+#: includes/wcs.php:348
+msgid "Signup Modal"
+msgstr ""
+
+#: includes/wcs.php:347
+msgid "Signup Page"
+msgstr ""
+
+#: includes/forms.php:74
+msgid "Signup With OTP"
+msgstr ""
+
+#: includes/forms.php:73
+msgid "Signup With Password"
+msgstr ""
+
+#: includes/forms.php:712
+msgid "Signup With WhatsApp"
+msgstr ""
+
+#: admin/includes/api_settings.php:736 admin/includes/api_settings.php:774
+msgid "Site Name"
+msgstr ""
+
+#: admin/includes/api_settings.php:802
+msgid "SMS Gateway"
+msgstr ""
+
+#: admin/includes/custom_fields.php:76
+msgid "State"
+msgstr ""
+
+#: admin/settings.php:231
+msgid "Style"
+msgstr ""
+
+#: includes/wcs.php:117
+msgid "SUBMIT"
+msgstr ""
+
+#: includes/core/enqueue/enqueue_scripts.php:161
+#: includes/core/enqueue/enqueue_scripts.php:251
+msgid "Submit"
+msgstr ""
+
+#: includes/forms.php:69 includes/forms.php:76
+#: includes/core/enqueue/enqueue_scripts.php:172
+#: includes/core/enqueue/enqueue_scripts.php:252
+msgid "Submit OTP"
+msgstr ""
+
+#: admin/includes/custom_fields.php:152
+msgid "Terms & Conditions"
+msgstr ""
+
+#: admin/includes/custom_fields.php:464
+msgid "Terms & Conditions Link"
+msgstr ""
+
+#: admin/includes/api_settings.php:93
+msgid "Test"
+msgstr ""
+
+#: admin/includes/api_settings.php:77
+msgid "TEST GATEWAY SETTINGS"
+msgstr ""
+
+#: admin/includes/custom_fields.php:110
+msgid "Text"
+msgstr ""
+
+#: admin/includes/custom_fields.php:117
+msgid "TextArea"
+msgstr ""
+
+#: admin/setup_wizard.php:238
+msgid ""
+"Thank you for choosing Digits. This quick setup wizard will help you to "
+"configure this plugin in a few simple steps."
+msgstr ""
+
+#: includes/core/enqueue/enqueue_scripts.php:175
+#: includes/core/enqueue/enqueue_scripts.php:235
+msgid "This features only works with mobile number"
+msgstr ""
+
+#: includes/register.php:140
+msgid "This Mobile number is already registered."
+msgstr ""
+
+#: admin/includes/api_settings.php:671
+msgid "Transactional"
+msgstr ""
+
+#: admin/includes/shortcodes.php:167
+msgid ""
+"Transation of whole plugin can be done through POT file present in the "
+"plugin languages folder. You'll need to upload .MO and .PO files to the "
+"languages folder of this plugin. The easiest way to translate is to use Loco "
+"Translate WordPress plugin."
+msgstr ""
+
+#: admin/settings.php:235
+msgid "Translations"
+msgstr ""
+
+#: admin/includes/api_settings.php:600
+msgid "Type"
+msgstr ""
+
+#: includes/wcs.php:459 includes/plugins/um.php:44 includes/plugins/um.php:53
+msgid "Unable to verify Mobile number"
+msgstr ""
+
+#: includes/woocommerce-registration.php:471
+msgid "Unable to verify OTP!"
+msgstr ""
+
+#. Author of the plugin
+msgid "UnitedOver"
+msgstr ""
+
+#: includes/edit_number.php:43
+msgid "Update"
+msgstr ""
+
+#: admin/settings.php:527
+msgid "Use this Image"
+msgstr ""
+
+#: admin/settings.php:417
+msgid "Use this logo"
+msgstr ""
+
+#: digit.php:332
+msgid "User registered successfully"
+msgstr ""
+
+#: admin/includes/custom_fields.php:22 admin/includes/custom_fields.php:167
+msgid "User Role"
+msgstr ""
+
+#: admin/includes/custom_fields.php:485
+msgid "User Roles"
+msgstr ""
+
+#: digit.php:1339 digit.php:2302 digit.php:2352 includes/process_user.php:77
+#: includes/forms.php:204 includes/forms.php:494 includes/forms.php:547
+msgid "Username"
+msgstr ""
+
+#: includes/process_user.php:278 includes/wp.php:231
+#: includes/woocommerce-registration.php:562 includes/register.php:457
+#: includes/login.php:345
+msgid "Username is already in use!"
+msgstr ""
+
+#: includes/core/enqueue/enqueue_scripts.php:152
+msgid "Username/Mobile Number"
+msgstr ""
+
+#: includes/wcs.php:103
+msgid "Verification Code"
+msgstr ""
+
+#: includes/core/enqueue/enqueue_scripts.php:165
+msgid "Verify Mobile Number"
+msgstr ""
+
+#: digit.php:69
+msgid "View changelog"
+msgstr ""
+
+#: admin/setup_wizard.php:167
+msgid "Welcome"
+msgstr ""
+
+#: admin/setup_wizard.php:236
+msgid "Welcome to the configuration wizard for DIGITS!"
+msgstr ""
+
+#: admin/includes/api_settings.php:754
+msgid "WhatsApp"
+msgstr ""
+
+#: admin/includes/api_settings.php:800
+msgid "WhatsApp Gateway"
+msgstr ""
+
+#: admin/includes/api_settings.php:768
+msgid "WhatsApp Message Template"
+msgstr ""
+
+#: admin/includes/api_settings.php:503
+msgid "with + and country code"
+msgstr ""
+
+#: admin/includes/custom_fields.php:383
+msgid "WordPress / WooCommerce Fields"
+msgstr ""
+
+#: includes/core/enqueue/enqueue_scripts.php:249
+msgid "Yay!"
+msgstr ""
+
+#: admin/includes/custom_fields.php:246 admin/includes/custom_fields.php:425
+msgid "Yes"
+msgstr ""
+
+#: admin/includes/api_settings.php:865
+#, php-format
+msgid "You should have paid <span>%s</span> plan to use this."
+msgstr ""
+
+#: admin/includes/api_settings.php:89
+msgid "Your Mobile Number"
+msgstr ""
+
+#: includes/process_user.php:842
+msgid ""
+"Your password reset link appears to be invalid. Please request a new link."
+msgstr ""
+
+#: includes/process_user.php:839
+msgid "Your password reset link has expired. Please request a new link."
+msgstr ""

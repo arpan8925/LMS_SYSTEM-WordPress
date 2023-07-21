@@ -1,0 +1,59 @@
+:root{--page-title-display:none;}/* Start custom CSS for wp-widget-tutor_course_widget, class: .elementor-element-d7b721e *//** Home - Courses 3Cols **/
+@media (min-width: 768px) {
+.tutor-widget-course-loop.tutor-widget-course {
+    width: 33%;
+    padding: 0 7px;
+		display: inline-block;
+}
+}
+
+.tutor-loop-author .tutor-course-lising-category {
+    display: none;
+}
+
+.tutor-loop-course-footer {
+    border-bottom: 1px solid rgba(0,0,0,0.05);
+}
+
+.tutor-single-course-meta ul li a {
+    overflow-wrap: break-word;
+}
+
+.tutor-widget-course-loop.tutor-widget-course {
+    margin-bottom: 40px;
+}
+
+/** Mobiel Phone **/
+@media (max-width: 767px) {
+
+.tutor-course-loop-meta {
+    display: none;
+}
+
+.tutor-loop-author {
+    display: none;
+}
+
+.tutor-loop-course-container {
+    padding: 25px 10px 1px 10px;
+}
+}
+
+
+/** Font Family for Single Course Page **/
+.tutor-wrap{
+    font-family: kalpurush;
+}
+
+/** Footer Menu Block **/
+#bottom-wrap .bottom-widget .widget_nav_menu ul li {
+    display: block;
+	
+}
+.widget_nav_menu ul li {
+    display: block;
+	margin-bottom: 5px;
+}
+ul.themeum-social-share {
+    padding: 0;
+}/* End custom CSS */

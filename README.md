@@ -1,6 +1,8 @@
-# WordPress Website Dump
+# LMS Website
 
-This repository contains a dump of a WordPress website, which includes all the necessary files and database needed to set up a fully functional copy of the original WordPress site.
+This repository contains all the necessary files and database needed to set up a fully functional Learning Management System (LMS) website built with WordPress.
+
+![LMS Website Screenshot](images/Screenshot.png)
 
 ## Project Overview
 
@@ -88,4 +90,4 @@ If you have any questions or need help setting up the site, feel free to reach o
 - **GitHub**: [Your GitHub Profile](https://github.com/your-profile)
 
 ---
-Thank you for using this WordPress dump! Feel free to clone, fork, and contribute to improve the experience further.
+Thank you for using this LMS website! Feel free to clone, fork, and contribute to improve the experience further.
